@@ -1,9 +1,15 @@
-# About [repository-name]
+# About AdBlockID-Plus_realodix
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/AdBlockID-Plus_realodix.svg?branch=master)](https://travis-ci.org/dead-hosts/AdBlockID-Plus_realodix)
 
 ```
-[description]
+! Title: AdBlockID Plus
+! Description: Filter list that specifically removes adverts on Indonesian language websites.
+! Homepage: https://github.com/realodix/AdBlockID
+! 
+! Please report any unblocked adverts or problems
+! GitHub issues: https://github.com/realodix/AdBlockID/issues
+! GitHub pull requests: https://github.com/realodix/AdBlockID/pulls
 ```
 
 --------------------------------------------------------------------------------
