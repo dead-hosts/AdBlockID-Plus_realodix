@@ -289,6 +289,11 @@
         "expiration_date": "07-sep-2020",
         "state": "future"
     },
+    "filmonlineindo.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "fmoviez.org": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
@@ -677,6 +682,11 @@
     "sharemydrive.xyz": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
+    "shiroyasha.me": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "shorten.sh": {

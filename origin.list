@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.052.1324
+! Version: 20.055.144
 ! Title: AdBlockID Plus
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 21 Feb 2020 22:04 UTC
+! Last modified: 24 Feb 2020 02:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -54,6 +54,7 @@ komiku.co.id,mangaid.id#@##banner_ad
 ! 
 ||bioskopkeren.guru/*.gif|$image
 ||dwanonton.com/static/banner/$image
+||gosemut.net/img/banner/$image
 ||nontoncinema.org^*/daftar.html$subdocument
 ||sobatkeren.net/img/banner/$image
 ! 
@@ -121,8 +122,8 @@ animelink.net##.toast:-abp-contains(Promosi)
 ! --------------------------------------------------------------
 /Download-Button.$image,domain=anime-indo.id
 ! Pop-Up
-*$popup,domain=awnime.net
-nontonsub.top##+js(window.open-defuser)
+*$popup,domain=awnime.net|layarkaca21tv.net
+filmonlineindo.com,nontonsub.top##+js(window.open-defuser)
 ! Overlay
 /wp-content/plugins/uji-popup/*$domain=bos21.bar|kordramass.com|kshowsubindo.org|layarkaca21indoxxi.co
 ! 
@@ -141,7 +142,7 @@ lk21.london##.ml-announce
 narashika.cc##.popbox
 drakoric.com,drakorindo.fun##.sg-popup-content
 drakoric.com,drakorindo.fun##.sgpb-popup-overlay
-dutafilm.live##.swal-overlay
+193.164.131.42,dutafilm.live##.swal-overlay
 213.166.69.166,rumahdrama.com##.wpb-outer-wrap
 dutafilm.live##body > a[href] > div[style^="position:absolute;"][style*="z-index:"]
 ! 
@@ -250,6 +251,7 @@ _usafelink.$script,third-party
 ||mispuani.xyz^*/sparklingkuv2.$script,third-party
 ||safelinku.com/fullpage/script.$script,third-party
 ||safelinku.com/js/web-script.$script,third-party
+||shiroyasha.me^*/convert-lnks.js$script,third-party
 ! CDN - gitcdn.xyz, githack.com, statically.io, etc
 /andrianadi888/safeevolution/*/Auto.$script,third-party
 /awlagu/sflink/*/Auto.$script,third-party
@@ -318,4 +320,4 @@ adsafelink.com,cararoot.id,droidtamvan.me,encurta.eu,get4link.xyz,icutlink.com,l
 ! Block Pop-Up
 ironimesafelink.my.id,uptoshort.com##+js(acis, Math, zfgloaded)
 cararoot.id,ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,droidtamvan.me,earnload.co,festyy.com,gestyy.com,jnw0.com,lewat.club,modebaca.com,oceantech.xyz,p4link.com,semawur.com,sh.st,shortearn.eu,shorten.sh,sportif.id,viid.me,wiid.me##+js(window.open-defuser)
-! Checksum: cs4Nr58mCbeCRt91t3gVAg
+! Checksum: APsfOTyK+CqpRCVsKOzSSA
