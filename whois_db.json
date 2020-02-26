@@ -59,9 +59,19 @@
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "bandarmovie21.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
     "bestvideo2019.xyz": {
         "epoch": 1609977600.0,
         "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "bioskop-21.me": {
+        "epoch": 1586044800.0,
+        "expiration_date": "05-apr-2020",
         "state": "future"
     },
     "bioskop212.com": {
@@ -72,6 +82,11 @@
     "bioskop55.online": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
+    "bioskop720.me": {
+        "epoch": 1587340800.0,
+        "expiration_date": "20-apr-2020",
         "state": "future"
     },
     "bioskop90.org": {
@@ -374,6 +389,11 @@
         "expiration_date": "18-jan-2021",
         "state": "future"
     },
+    "indoxxiku.com": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "state": "future"
+    },
     "inidramaku.com": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
@@ -439,14 +459,19 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "klikfilm.stream": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "komiku.co.id": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "kordramass.com": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "korenlovers.co": {
