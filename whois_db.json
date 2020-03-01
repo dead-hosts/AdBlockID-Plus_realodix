@@ -534,6 +534,11 @@
         "expiration_date": "30-mar-2020",
         "state": "future"
     },
+    "lk21v.fun": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "maachanime.com": {
         "epoch": 1609891200.0,
         "expiration_date": "06-jan-2021",
