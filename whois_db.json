@@ -39,6 +39,11 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "animecracks.com": {
+        "epoch": 1674000000.0,
+        "expiration_date": "18-jan-2023",
+        "state": "future"
+    },
     "animekompi.web.id": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
@@ -52,6 +57,11 @@
     "animenonton.tv": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "anoboy.best": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "anoboy.video": {
@@ -464,6 +474,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "komikcast.com": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
     "komiku.co.id": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
@@ -529,6 +544,11 @@
         "expiration_date": "05-dec-2020",
         "state": "future"
     },
+    "lk21c.fun": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
     "lk21online.biz": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
@@ -554,6 +574,11 @@
         "expiration_date": "10-apr-2020",
         "state": "future"
     },
+    "mangaku.in": {
+        "epoch": 1652140800.0,
+        "expiration_date": "10-may-2022",
+        "state": "future"
+    },
     "mangashiro.co": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
@@ -562,6 +587,11 @@
     "mangashiro.org": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "mangasusu.us": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "meownime.my.id": {
@@ -622,6 +652,11 @@
     "nobarfilm21.club": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "nobarfilm21.top": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "nonton33.tech": {
