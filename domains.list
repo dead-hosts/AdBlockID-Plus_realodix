@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.064.222
+! Version: 20.064.1127
 ! Title: AdBlockID Plus
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 04 Mar 2020 03:42 UTC
+! Last modified: 04 Mar 2020 18:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -80,6 +80,8 @@ bandarmovie21.com,inonton.com###fadeinbox
 anime-indo.id,drakorindofilms.tv,inidramaku.com,kingdrakor.com###fixedban
 bioskopkerenin.org,cinemaindo.watch,d21.top,ditonton.com,dunia21.download,filmapik.link,filmindo.vip,ganool.world,khaanflix.org,movieon21.onl,nontonfilm.vip,nontonfilm.watch,ns21.click,onestopmovie.com,terbit21.show###float-banner
 movieajip.com###float-bottom-banner
+21filem.co###floatbannerkanan
+21filem.co###floatbannerkiri
 lk21.london###floatbot
 bioskop55.online,bioskop720.me,bioskop90.org###floating_banner_left
 bioskop55.online,bioskop720.me,bioskop90.org###floating_banner_right
@@ -126,10 +128,11 @@ animelink.net##.toast:-abp-contains(Promosi)
 ! 
 ! ANNOYANCE
 ! --------------------------------------------------------------
-/Download-Button.$image,domain=anime-indo.id
+/download-button.$image,domain=anime-indo.id|cinema-xx1.com|lndoxxi.com
+/loading%2Bdownload.$image,domain=layarkaca21.live
 ! Pop-Up
 *$popup,domain=awnime.net|layarkaca21tv.net
-filmonlineindo.com,nontonsub.top##+js(window.open-defuser)
+filmonlineindo.com,nontonsub.top,sobatkeren.club##+js(window.open-defuser)
 ! Overlay
 /wp-content/plugins/uji-popup/*$domain=bos21.bar|kordramass.com|kshowsubindo.org|layarkaca21indoxxi.co
 ! 
@@ -138,8 +141,8 @@ bioskop212.com,bioskop55.online###fanback
 54.39.85.90###floatcenter
 meownime.my.id###hbfanback
 dwa21.org###main-popup
-103.194.171.205,cafecinema.vip,dramamu.net,dramaserial.fun,dramaserial.pro,geraifilm.com,jfnonton.com,juraganfilm.mobi,nontonfilmdrama.net###netkevin-overlay
-103.194.171.205,cafecinema.vip,dramamu.net,dramaserial.fun,dramaserial.pro,geraifilm.com,jfnonton.com,juraganfilm.mobi,nontonfilmdrama.net###netkevin-popup
+103.194.171.205,cafecinema.vip,dramamu.net,dramaserial.fun,geraifilm.com,jfnonton.com,juraganfilm.mobi,nontonfilmdrama.net###netkevin-overlay
+103.194.171.205,cafecinema.vip,dramamu.net,dramaserial.fun,geraifilm.com,jfnonton.com,juraganfilm.mobi,nontonfilmdrama.net###netkevin-popup
 149.56.24.226###overlay-pop
 drakoric.com##.afc_popup
 kordramass.com,kshowsubindo.org##.blocker
@@ -163,6 +166,7 @@ sukamovie.club##.sukam-bawah
 ! 
 ! ANTI-ADBLOCK
 ! --------------------------------------------------------------
+mikanime.com##+js(aopr, adBlockDetected)
 animecracks.com##+js(aopr, mdpDeBlocker)
 ! 
 ||gomunime.com^*/autoptimize_single_$script
@@ -262,6 +266,7 @@ _usafelink.$script,third-party
 ||kadal.club/js/getlinkz.$script,third-party
 ||mispuani.xyz^*/sparklingku.$script,third-party
 ||mispuani.xyz^*/sparklingkuv2.$script,third-party
+||rikucan.com/wp-content/*/js/looping.$script
 ||safelinku.com/fullpage/script.$script,third-party
 ||safelinku.com/js/web-script.$script,third-party
 ||shiroyasha.me^*/convert-lnks.js$script,third-party
@@ -333,4 +338,4 @@ adsafelink.com,cararoot.id,droidtamvan.me,encurta.eu,get4link.xyz,icutlink.com,l
 ! Block Pop-Up
 ironimesafelink.my.id,uptoshort.com##+js(acis, Math, zfgloaded)
 cararoot.id,ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,droidtamvan.me,earnload.co,festyy.com,gestyy.com,jnw0.com,lewat.club,modebaca.com,oceantech.xyz,p4link.com,semawur.com,sh.st,shortearn.eu,shorten.sh,sportif.id,viid.me,wiid.me##+js(window.open-defuser)
-! Checksum: ezXRPNi8Nr3H3Sv5vHTSow
+! Checksum: eaVH1HvnFTsFMt5qa5scmw
