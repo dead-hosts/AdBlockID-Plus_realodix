@@ -19,9 +19,9 @@ dns_server:
 - 1.1.1.1
 - 1.0.0.1
 filter: ''
-generate_complements: false
-generate_hosts: false
-generate_json: false
+generate_complements: true
+generate_hosts: true
+generate_json: true
 header_printed: false
 hierarchical_sorting: false
 http_codes:
@@ -202,7 +202,7 @@ status:
         sane: SANE
         up: ACTIVE
         valid: VALID
-syntax: false
+syntax: true
 timeout: 6
 unified: false
 use_reputation_data: false
