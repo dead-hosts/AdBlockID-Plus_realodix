@@ -3,7 +3,8 @@
     "custom_pyfunceble_config": {
         "adblock": true,
         "generate_complements": true,
-        "generate_json": true
+        "generate_json": true,
+        "dns_lookup_over_tcp": true
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-06T03:05:41.532909",
