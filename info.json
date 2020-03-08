@@ -54,7 +54,8 @@
                     206
                 ]
             }
-        }
+        },
+        "split": false
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-08T13:47:57.691266",
