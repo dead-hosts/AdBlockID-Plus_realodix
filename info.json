@@ -3,7 +3,7 @@
     "custom_pyfunceble_config": {
         "adblock": true,
         "ci_autosave_final_commit": "AdBlockID Plus - Results | @realodix",
-        "header printed": true,
+        "header_printed": true,
         "http_codes": {
             "list": {
                 "potentially_down": [
@@ -57,6 +57,7 @@
         },
         "no_whois": true,
         "share_logs": true,
+        "split": false,
         "syntax": true
     },
     "days_until_next_test": 2.0,
