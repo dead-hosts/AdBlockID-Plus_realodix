@@ -55,7 +55,8 @@
                 ]
             }
         },
-        "no_whois": true
+        "no_whois": true,
+        "syntax": true
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-08T17:05:18.538557",
