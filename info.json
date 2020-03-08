@@ -5,7 +5,6 @@
         "ci_autosave_final_commit": "AdBlockID Plus - Results | @realodix",
         "header printed": true,
         "http_codes": {
-            "active": true,
             "list": {
                 "potentially_down": [
                     302,
@@ -56,6 +55,7 @@
                 ]
             }
         },
+        "no_whois": true
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-08T17:05:18.538557",
