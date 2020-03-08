@@ -22,8 +22,7 @@ filter: ''
 generate_complements: false
 generate_hosts: true
 generate_json: false
-header printed: true
-header_printed: false
+header_printed: true
 hierarchical_sorting: false
 http_codes:
     active: true
@@ -158,7 +157,7 @@ share_logs: true
 show_execution_time: false
 show_percentage: true
 simple: false
-split: true
+split: false
 status:
     list:
         down:
