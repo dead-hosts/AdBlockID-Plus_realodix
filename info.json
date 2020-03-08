@@ -53,10 +53,8 @@
                     205,
                     206
                 ]
-            },
-            "not_found_default": "XXX"
-        },
-        "plain_list_domain": false
+            }
+        }
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-08T11:15:09.664540",
