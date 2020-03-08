@@ -150,7 +150,7 @@ outputs:
     parent_directory: output/
     splited:
         directory: splited
-plain_list_domain: false
+plain_list_domain: true
 quiet: false
 reputation: false
 share_logs: false
