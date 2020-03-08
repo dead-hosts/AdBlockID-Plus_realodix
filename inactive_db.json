@@ -177,7 +177,6 @@
             "111.90.142.151,detikxxi.com": "INVALID",
             "139.99.120.222,dunia21s.fun": "INVALID",
             "159.65.3.51,indoxxifilm.com,lk21c.fun,lk21v.fun": "INVALID",
-            "206.189.151.55": "INACTIVE",
             "206.189.151.55,narashika.cc,netnot21.com": "INVALID",
             "213.166.69.166,rumahdrama.com": "INVALID",
             "=autosafeklinkz350_$script": "INVALID",
@@ -283,9 +282,10 @@
             "||safelinku.com/js/web-script.$script,third-party": "INVALID",
             "||shiroyasha.me^*/convert-lnks.js$script,third-party": "INVALID"
         },
-        "1583557995": {
+        "1583666108": {
             "111.90.142.151": "INACTIVE",
-            "159.65.3.51": "INACTIVE"
+            "159.65.3.51": "INACTIVE",
+            "206.189.151.55": "INACTIVE"
         }
     }
 }

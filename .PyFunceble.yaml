@@ -19,9 +19,9 @@ dns_server:
 - 1.1.1.1
 - 1.0.0.1
 filter: ''
-generate_complements: true
+generate_complements: false
 generate_hosts: true
-generate_json: true
+generate_json: false
 header_printed: false
 hierarchical_sorting: false
 http_codes:
@@ -150,7 +150,7 @@ outputs:
     parent_directory: output/
     splited:
         directory: splited
-plain_list_domain: true
+plain_list_domain: false
 quiet: false
 reputation: false
 share_logs: false
