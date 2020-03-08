@@ -55,7 +55,8 @@
                 ]
             },
             "not_found_default": "XXX"
-        }
+        },
+        "plain_list_domain": false
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-08T04:21:05.820019",
