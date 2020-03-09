@@ -45,23 +45,23 @@
                 ]
             }
         },
-        "syntax": true,
-        "mining": true
+        "mining": true,
+        "syntax": true
     },
     "days_until_next_test": 2.0,
-    "finish_datetime": "2020-03-09T04:21:22.101008",
-    "finish_timestamp": 1583727682.101008,
-    "last_download_datetime": "2020-03-09T04:16:53.201581",
-    "last_download_timestamp": 1583727413.201581,
-    "latest_part_finish_datetime": "2020-03-09T04:21:22.101008",
-    "latest_part_finish_timestamp": 1583727682.101008,
-    "latest_part_start_datetime": "2020-03-09T04:16:53.750658",
-    "latest_part_start_timestamp": 1583727413.750658,
+    "finish_datetime": "2020-03-09T08:28:09.827956",
+    "finish_timestamp": 1583742489.827956,
+    "last_download_datetime": "2020-03-09T08:24:22.642390",
+    "last_download_timestamp": 1583742262.64239,
+    "latest_part_finish_datetime": "2020-03-09T08:28:09.827956",
+    "latest_part_finish_timestamp": 1583742489.827956,
+    "latest_part_start_datetime": "2020-03-09T08:24:23.157271",
+    "latest_part_start_timestamp": 1583742263.157271,
     "live_update": false,
     "name": "AdBlockID-Plus_realodix",
     "own_management": false,
     "ping": [],
     "raw_link": "https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid-plus.txt",
-    "start_datetime": "2020-03-09T04:16:53.746843",
-    "start_timestamp": 1583727413.746843
+    "start_datetime": "2020-03-09T08:24:23.152792",
+    "start_timestamp": 1583742263.152792
 }
