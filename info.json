@@ -5,7 +5,6 @@
         "ci_autosave_final_commit": "AdBlockID Plus - Results | @realodix",
         "generate_complements": true,
         "generate_json": true,
-        "header_printed": true,
         "http_codes": {
             "list": {
                 "potentially_down": [
@@ -45,7 +44,6 @@
                     505
                 ]
             },
-            "not_found_default": "XYZ"
         },
         "mining": true
     },
