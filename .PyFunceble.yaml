@@ -21,7 +21,7 @@ dns_server:
 filter: ''
 generate_complements: true
 generate_hosts: true
-generate_json: false
+generate_json: true
 header_printed: true
 hierarchical_sorting: false
 http_codes:
@@ -71,7 +71,7 @@ http_codes:
         - 204
         - 205
         - 206
-    not_found_default: XXX
+    not_found_default: XYZ
 iana_whois_server: whois.iana.org
 idna_conversion: true
 inactive_database: true
