@@ -45,6 +45,7 @@
                 ]
             }
         },
+        "syntax": true,
         "mining": true
     },
     "days_until_next_test": 2.0,
