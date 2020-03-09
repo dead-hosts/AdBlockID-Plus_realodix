@@ -19,10 +19,10 @@ dns_server:
 - 1.1.1.1
 - 1.0.0.1
 filter: ''
-generate_complements: true
+generate_complements: false
 generate_hosts: true
-generate_json: true
-header_printed: true
+generate_json: false
+header_printed: false
 hierarchical_sorting: false
 http_codes:
     active: true
@@ -71,7 +71,7 @@ http_codes:
         - 204
         - 205
         - 206
-    not_found_default: XYZ
+    not_found_default: XXX
 iana_whois_server: whois.iana.org
 idna_conversion: true
 inactive_database: true
@@ -92,7 +92,7 @@ links:
 local: false
 logs: true
 maximal_processes: 2
-mining: true
+mining: false
 multiprocess: true
 multiprocess_merging_mode: end
 no_files: false
