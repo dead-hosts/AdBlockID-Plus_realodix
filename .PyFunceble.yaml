@@ -92,7 +92,7 @@ links:
 local: false
 logs: true
 maximal_processes: 2
-mining: false
+mining: true
 multiprocess: true
 multiprocess_merging_mode: end
 no_files: false
