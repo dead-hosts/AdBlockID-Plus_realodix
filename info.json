@@ -6,6 +6,7 @@
         "http_codes": {
             "list": {
                 "potentially_down": [
+                    301,
                     302,
                     400,
                     402,
@@ -21,7 +22,6 @@
                 "potentially_up": [
                     0,
                     300,
-                    301,
                     303,
                     304,
                     305,
