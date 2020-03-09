@@ -44,7 +44,8 @@
                     505
                 ]
             }
-        }
+        },
+        "mining": true
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-09T02:05:56.590805",
