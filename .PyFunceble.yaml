@@ -25,7 +25,7 @@ generate_json: false
 header_printed: false
 hierarchical_sorting: false
 http_codes:
-    active: false
+    active: true
     list:
         potentially_down:
         - 301
@@ -97,7 +97,7 @@ multiprocess: true
 multiprocess_merging_mode: end
 no_files: false
 no_special: false
-no_whois: false
+no_whois: true
 outputs:
     analytic:
         directories:
