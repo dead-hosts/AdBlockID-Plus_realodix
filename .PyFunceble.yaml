@@ -25,7 +25,7 @@ generate_json: false
 header_printed: false
 hierarchical_sorting: false
 http_codes:
-    active: true
+    active: false
     list:
         potentially_down:
         - 301

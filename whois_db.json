@@ -784,6 +784,11 @@
         "expiration_date": "22-apr-2020",
         "state": "future"
     },
+    "shirainime.com": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
     "shiroyasha.me": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
