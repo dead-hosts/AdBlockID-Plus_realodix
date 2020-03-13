@@ -42,8 +42,7 @@
                     505
                 ]
             }
-        },
-        "no_whois": true
+        }
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-13T15:58:53.344209",
@@ -54,7 +53,7 @@
     "latest_part_finish_timestamp": 1584115133.344209,
     "latest_part_start_datetime": "2020-03-13T15:57:14.747299",
     "latest_part_start_timestamp": 1584115034.747299,
-    "live_update": false,
+    "live_update": true,
     "name": "AdBlockID-Plus_realodix",
     "own_management": false,
     "ping": [],
