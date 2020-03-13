@@ -49,6 +49,11 @@
         "expiration_date": "18-jan-2023",
         "state": "future"
     },
+    "animee.xyz": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
     "animekompi.web.id": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
@@ -239,6 +244,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "dramaencode.com": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
     "dramafilm21.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
@@ -257,6 +267,11 @@
     "dramaserial.pro": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "driverays.com": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "droidtamvan.me": {
@@ -492,6 +507,11 @@
     "komikcast.com": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "komikindo.web.id": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
         "state": "future"
     },
     "komiku.co.id": {
@@ -762,6 +782,11 @@
     "safelinku.com": {
         "epoch": 1609891200.0,
         "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
+    "sekilastekno.com": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
         "state": "future"
     },
     "sektekomik.com": {
