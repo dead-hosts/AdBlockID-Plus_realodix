@@ -45,6 +45,7 @@
                 ]
             }
         },
+        "filter": "[a-zA-Z0-9]",
         "no_whois": true
     },
     "days_until_next_test": 2.0,
