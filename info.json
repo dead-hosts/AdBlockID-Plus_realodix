@@ -4,8 +4,9 @@
         "adblock": true,
         "ci_autosave_final_commit": "AdBlockID Plus - Results | @realodix",
         "dns_lookup_over_tcp": true,
-        "filter": "[a-zA-Z0-9]",
+        "filter": "^(((?!-))(xn--|_{1,1})?[a-z0-9-]{0,61}[a-z0-9]{1,1}\.)*(xn--)?([a-z0-9][a-z0-9\-]{0,60}|[a-z0-9-]{1,30}\.[a-z]{2,})",
         "generate_complements": true,
+        "header_printed": true,
         "http_codes": {
             "list": {
                 "potentially_down": [
@@ -46,7 +47,8 @@
                 ]
             }
         },
-        "no_whois": true
+        "no_whois": true,
+        "wildcard": true
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-22T13:52:59.171763",
