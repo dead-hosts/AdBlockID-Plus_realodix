@@ -49,7 +49,7 @@
         "no_whois": true,
         "wildcard": true,
         "links": [
-            repo: "https://github.com/realodix/PyFunceble"
+            "repo": "https://github.com/realodix/PyFunceble"
         ] 
     },
     "days_until_next_test": 2.0,
