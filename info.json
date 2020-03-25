@@ -48,9 +48,9 @@
         },
         "no_whois": true,
         "wildcard": true,
-        "links": [
+        "links": {
             "repo": "https://github.com/realodix/PyFunceble"
-        ] 
+        } 
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-24T11:19:39.864021",
