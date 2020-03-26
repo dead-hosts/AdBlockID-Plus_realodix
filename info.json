@@ -1,5 +1,5 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {
         "adblock": true,
         "ci_autosave_final_commit": "AdBlockID Plus - Results | @realodix",
@@ -49,8 +49,7 @@
         "links": {
             "repo": "https://github.com/realodix/PyFunceble"
         },
-        "no_whois": true,
-        "wildcard": true
+        "no_whois": true
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-25T13:53:04.889309",
