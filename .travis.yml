@@ -22,7 +22,7 @@ install:
 - source activate launcher-environment
 - python -VV
 - pip --version
-- pip install git+https://github.com/realodix/infrastructure-launcher#egg=dead-hosts-launcher
+- pip install dead-hosts-launcher
 - rm miniconda.sh
 language: generic
 notifications:
