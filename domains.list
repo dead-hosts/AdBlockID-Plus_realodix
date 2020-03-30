@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.086.693
+! Version: 20.089.397
 ! Title: AdBlockID Plus
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 26 Mar 2020 11:33 UTC
+! Last modified: 29 Mar 2020 06:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -115,6 +115,8 @@ animekompi.web.id,mmsubs.com##.headads
 cafecinema.vip,nontonmovie251.org##.idmuvi-topplayer
 nimegami.com##.ik
 drakorindofilms.net,drakorindofilms.tv,inidramaku.com,korenlovers.co,oujanime.com##.iklan
+anisora.net##.klnrec > .kln
+anisora.net##.klnrec > .mini
 139.99.120.222,dunia21s.fun##.ns-left
 139.99.120.222,dunia21s.fun##.ns-right
 206.189.151.55##.popUpBannerBox
@@ -140,7 +142,7 @@ filmonlineindo.com,nontonsub.top,sobatkeren.club##+js(window.open-defuser)
 111.90.142.151,detikxxi.com###divpopup
 bioskop212.com,bioskop55.online###fanback
 54.39.85.90###floatcenter
-meownime.my.id###hbfanback
+jagoanime.com,meownime.my.id###hbfanback
 dwa21.org###main-popup
 103.194.171.205,cafecinema.vip,dramamu.net,dramaserial.club,dramaserial.fun,geraifilm.com,jfnonton.com,juraganfilm.casa,juraganfilm.mobi,nontonfilmdrama.net###netkevin-overlay
 103.194.171.205,cafecinema.vip,dramamu.net,dramaserial.club,dramaserial.fun,geraifilm.com,jfnonton.com,juraganfilm.casa,juraganfilm.mobi,nontonfilmdrama.net###netkevin-popup
@@ -166,7 +168,7 @@ gudangfilm21.com,indoxxiku.com,layarkaca21indo.com,layarkeren.org,lebahmovie.com
 ! 
 ! ANTI-ADBLOCK
 ! --------------------------------------------------------------
-aibouanime.xyz,mikanime.com,otaku.tekloggers.com,xizuanime.blogspot.com##+js(aopr, adBlockDetected)
+aibouanime.xyz,mikanime.com,onbatch.my.id,otaku.tekloggers.com,xizuanime.blogspot.com##+js(aopr, adBlockDetected)
 filmboxoffice.web.id,maachanime.com##+js(aopr, anOptions)
 animecracks.com##+js(aopr, mdpDeBlocker)
 animee.xyz##+js(aopr, mdpDeBlockerDestroyer)
@@ -209,8 +211,10 @@ kawanfilm21.org##+js(aopr, adtival_domains)
 ! --------------------------------------------------------------
 -safelink/*$script,third-party
 /ABSafelink.$script,third-party
+/autosafe3.$script,third-party
 /autosafelink.$script,third-party
 /filesafelink.$script,third-party
+/Full_Page_Script_Safelink_$script,third-party
 /gf21safelink.$script,third-party
 /gf21safelink_$script,third-party
 /js/full-page-script.$script,third-party
@@ -218,6 +222,7 @@ kawanfilm21.org##+js(aopr, adtival_domains)
 /kompisafelink$script,third-party
 /mastersafelink/*$script,third-party
 /newsafelink/*$script,third-party
+/REsafelink.$script,third-party
 /safe_utama_$script,third-party
 /safelink-$script,third-party
 /safelink2/*$script,third-party
@@ -263,6 +268,7 @@ _usafelink.$script,third-party
 /CandraBlackz/legitlink/*/jquery.pietimer.$script,third-party
 /comenxnet/master/*/Sefelink.$script,third-party
 /hubgit21/club/*/club.$script,third-party
+/kareelproject/klinkz$script,third-party
 /KompiAjaib/js/*/post1-$script,third-party
 /KompiAjaib/js/*/post1_$script,third-party
 /KompiAjaib/js/*/post2-$script,third-party
@@ -325,4 +331,4 @@ cararoot.id,droidtamvan.me,encurta.eu,get4link.xyz,icutlink.com,lewat.club,lives
 ! Block Pop-Up
 ironimesafelink.my.id##+js(acis, Math, zfgloaded)
 cararoot.id,ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,droidtamvan.me,earnload.co,festyy.com,gestyy.com,jnw0.com,lewat.club,liveshootv.com,modebaca.com,oceantech.xyz,p4link.com,sekilastekno.com,semawur.com,sh.st,shortearn.eu,shorten.sh,sportif.id,viid.me,wiid.me##+js(window.open-defuser)
-! Checksum: aKRsW/JC06YUfs16EeJEpg
+! Checksum: geVFButekFbpY8mW2wd0oQ
