@@ -1,11 +1,9 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {
         "adblock": false,
         "ci_autosave_final_commit": "AdBlockID Plus - Results | @realodix",
-        "dns_lookup_over_tcp": true,
         "generate_complements": true,
-        "header_printed": true,
         "http_codes": {
             "list": {
                 "potentially_down": [
@@ -45,9 +43,6 @@
                     505
                 ]
             }
-        },
-        "links": {
-            "repo": "https://github.com/realodix/PyFunceble"
         },
         "no_whois": true
     },
