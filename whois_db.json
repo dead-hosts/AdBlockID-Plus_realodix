@@ -39,6 +39,16 @@
         "expiration_date": "03-aug-2020",
         "state": "future"
     },
+    "anibatch.id": {
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
+        "state": "future"
+    },
+    "anibatch.me": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
+    },
     "anime-indo.id": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
@@ -74,9 +84,24 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "anisora.net": {
+        "epoch": 1588723200.0,
+        "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "anisubindo.video": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
     "anoboy.best": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "anoboy.us": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
         "state": "future"
     },
     "anoboy.video": {
@@ -84,9 +109,19 @@
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "awnime.net": {
+        "epoch": 1600214400.0,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
     "bandarmovie21.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "bebasdownloadfilm.com": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "bestvideo2019.xyz": {
@@ -95,8 +130,8 @@
         "state": "future"
     },
     "bioskop-21.me": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "bioskop212.com": {
@@ -117,6 +152,11 @@
     "bioskop90.org": {
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "bioskopkeren.guru": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "bioskopkerenin.org": {
@@ -159,6 +199,11 @@
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
+    "cinema-xx1.com": {
+        "epoch": 1588204800.0,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
     "cinemaindo.watch": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
@@ -182,6 +227,11 @@
     "cllkme.com": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
+    "conan.id": {
+        "epoch": 1709769600.0,
+        "expiration_date": "07-mar-2024",
         "state": "future"
     },
     "corneey.com": {
@@ -264,6 +314,11 @@
         "expiration_date": "07-feb-2021",
         "state": "future"
     },
+    "dramaserial.club": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
     "dramaserial.fun": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
@@ -300,8 +355,8 @@
         "state": "future"
     },
     "dwa21.org": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "dwanonton.com": {
@@ -375,8 +430,8 @@
         "state": "future"
     },
     "giga74.com": {
-        "epoch": 1585612800.0,
-        "expiration_date": "31-mar-2020",
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "giladrakor.com": {
@@ -389,14 +444,19 @@
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
+    "gosemut.net": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
     "gudangfilm.club": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "gudangfilm21.com": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "hakanime.com": {
@@ -449,6 +509,11 @@
         "expiration_date": "23-sep-2020",
         "state": "future"
     },
+    "jagoanime.com": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
     "jfnonton.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -474,9 +539,14 @@
         "expiration_date": "14-jan-2021",
         "state": "future"
     },
+    "jwplayer21.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
     "kadal.club": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
         "state": "future"
     },
     "kantaii.web.id": {
@@ -540,8 +610,8 @@
         "state": "future"
     },
     "kshowsubindo.org": {
-        "epoch": 1585872000.0,
-        "expiration_date": "03-apr-2020",
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "kumpulmanga.org": {
@@ -559,6 +629,16 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "layarkaca21indoxxi.co": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
+    "layarkaca21tv.net": {
+        "epoch": 1596672000.0,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
     "layarkeren.org": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
@@ -570,13 +650,18 @@
         "state": "future"
     },
     "lebahmovie.com": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "lewat.club": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "liveshootv.com": {
+        "epoch": 1591660800.0,
+        "expiration_date": "09-jun-2020",
         "state": "future"
     },
     "lk21.dev": {
@@ -597,11 +682,16 @@
     "lk21online.biz": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "lk21v.fun": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
+    "lndoxxi.com": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "maachanime.com": {
@@ -624,6 +714,16 @@
         "expiration_date": "10-may-2022",
         "state": "future"
     },
+    "mangaku.link": {
+        "epoch": 1589155200.0,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "mangareceh.id": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "mangashiro.co": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
@@ -637,6 +737,11 @@
     "mangasusu.us": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "mangatail.me": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "meownime.my.id": {
@@ -679,9 +784,29 @@
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
+    "nanonime.com": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
     "narashika.cc": {
         "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
+    "negumo.com": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "nekonime.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "nekopoi.web.id": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "neonime.org": {
@@ -692,6 +817,11 @@
     "netnot21.com": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "neumanga.tv": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "nimegami.com": {
@@ -712,6 +842,16 @@
     "nonton33.tech": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "nontoncinema.org": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
+    "nontondrama.me": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "nontonfilm.vip": {
@@ -749,6 +889,11 @@
         "expiration_date": "02-dec-2020",
         "state": "future"
     },
+    "onbatch.my.id": {
+        "epoch": 1742428800.0,
+        "expiration_date": "20-mar-2025",
+        "state": "future"
+    },
     "onestopmovie.com": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
@@ -765,8 +910,13 @@
         "state": "future"
     },
     "p4link.com": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
+        "state": "future"
+    },
+    "pastebin.com": {
+        "epoch": 1851552000.0,
+        "expiration_date": "03-sep-2028",
         "state": "future"
     },
     "premierexxi.org": {
@@ -782,6 +932,11 @@
     "rumahdrama.com": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "safelinkblog.com": {
+        "epoch": 1592784000.0,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "safelinku.com": {
@@ -814,6 +969,11 @@
         "expiration_date": "22-apr-2020",
         "state": "future"
     },
+    "shinobijawi.id": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
     "shirainime.com": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
@@ -834,6 +994,11 @@
         "expiration_date": "02-mar-2021",
         "state": "future"
     },
+    "sobatkeren.net": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "state": "future"
+    },
     "sportif.id": {
         "epoch": 1641600000.0,
         "expiration_date": "08-jan-2022",
@@ -849,6 +1014,11 @@
         "expiration_date": "21-nov-2020",
         "state": "future"
     },
+    "tancap88.me": {
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
     "terbit21.host": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
@@ -857,6 +1027,11 @@
     "terbit21.show": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "tokubatch.com": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
         "state": "future"
     },
     "topfilm21.com": {
@@ -875,8 +1050,8 @@
         "state": "future"
     },
     "wiid.me": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     }
 }
