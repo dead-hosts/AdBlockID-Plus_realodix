@@ -389,6 +389,11 @@
         "expiration_date": "03-dec-2020",
         "state": "future"
     },
+    "filmindo.stream": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "filmindo.vip": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
@@ -617,6 +622,11 @@
     "kumpulmanga.org": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "layarkaca21.live": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "layarkaca21.my.id": {
@@ -869,6 +879,11 @@
         "expiration_date": "20-jan-2021",
         "state": "future"
     },
+    "nontongo.win": {
+        "epoch": 1785283200.0,
+        "expiration_date": "29-jul-2026",
+        "state": "future"
+    },
     "nontonmovie251.org": {
         "epoch": 1611532800.0,
         "expiration_date": "25-jan-2021",
@@ -1052,6 +1067,11 @@
     "wiid.me": {
         "epoch": 1617494400.0,
         "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "zflas.com": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     }
 }
