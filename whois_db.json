@@ -27,7 +27,7 @@
     "aibouanime.xyz": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "akashiro.co.id": {
         "epoch": 1664928000.0,
@@ -217,7 +217,7 @@
     "clkme.me": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "clkmein.com": {
         "epoch": 1587254400.0,

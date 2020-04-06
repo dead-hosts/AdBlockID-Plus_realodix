@@ -1,29 +1,25 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID-Plus_realodix/domains.list": {
-        "1586045575": {
+        "1586172030": {
             "111.90.142.151": "INACTIVE",
             "159.65.3.51": "INACTIVE",
             "198.204.248.230": "INACTIVE",
             "206.189.151.55": "INACTIVE",
-            "aibouanime.xyz": "INACTIVE",
-            "dutafilm.*": "INVALID",
-            "layarkeren.org": "INACTIVE"
+            "dutafilm.*": "INVALID"
         },
-        "1586045694": {
-            "www.aibouanime.xyz": "INACTIVE",
-            "www.cllkme.com": "INACTIVE",
-            "www.corneey.com": "INACTIVE",
-            "www.gestyy.com": "INACTIVE",
-            "www.viid.me": "INACTIVE"
-        },
-        "1586045695": {
+        "1586172052": {
             "www.21filem.co": "INACTIVE",
+            "www.aibouanime.xyz": "INACTIVE",
             "www.ceesty.com": "INACTIVE",
             "www.clkme.me": "INACTIVE",
             "www.clkmein.com": "INACTIVE",
+            "www.cllkme.com": "INACTIVE",
+            "www.corneey.com": "INACTIVE",
             "www.destyy.com": "INACTIVE",
             "www.festyy.com": "INACTIVE",
+            "www.gestyy.com": "INACTIVE",
             "www.layarkeren.org": "INACTIVE",
+            "www.viid.me": "INACTIVE",
             "www.wiid.me": "INACTIVE"
         }
     }
