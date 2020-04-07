@@ -1,5 +1,5 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {
         "ci_autosave_final_commit": "AdBlockID Plus - Results | @realodix",
         "dns_lookup_over_tcp": true,
@@ -42,7 +42,8 @@
                     505
                 ]
             }
-        }
+        },
+        "split": false
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-04-06T11:20:52.748901",
