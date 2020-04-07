@@ -41,8 +41,7 @@
                     505
                 ]
             }
-        },
-        "split": false
+        }
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-04-07T08:48:14.248821",
