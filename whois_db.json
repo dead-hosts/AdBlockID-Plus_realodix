@@ -215,9 +215,9 @@
         "state": "future"
     },
     "clkme.me": {
-        "epoch": 1586131200.0,
-        "expiration_date": "06-apr-2020",
-        "state": "past"
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
     },
     "clkmein.com": {
         "epoch": 1587254400.0,
@@ -227,7 +227,7 @@
     "cllkme.com": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "conan.id": {
         "epoch": 1709769600.0,
