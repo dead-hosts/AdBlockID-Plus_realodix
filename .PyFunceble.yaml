@@ -157,7 +157,7 @@ share_logs: false
 show_execution_time: false
 show_percentage: true
 simple: false
-split: false
+split: true
 status:
     list:
         down:
