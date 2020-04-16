@@ -1,5 +1,5 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "custom_pyfunceble_config": {
         "ci_autosave_final_commit": "AdBlockID Plus - Results | @realodix",
         "http_codes": {
@@ -44,14 +44,14 @@
         }
     },
     "days_until_next_test": 2.0,
-    "finish_datetime": "2020-04-14T11:21:54.278746",
-    "finish_timestamp": 1586863314.278746,
-    "last_download_datetime": "2020-04-14T11:19:52.359046",
-    "last_download_timestamp": 1586863192.359046,
-    "latest_part_finish_datetime": "2020-04-14T11:21:54.278746",
-    "latest_part_finish_timestamp": 1586863314.278746,
-    "latest_part_start_datetime": "2020-04-14T11:19:53.018301",
-    "latest_part_start_timestamp": 1586863193.018301,
+    "finish_datetime": "2020-04-16T06:46:30.154294",
+    "finish_timestamp": 1587019590.154294,
+    "last_download_datetime": "2020-04-16T06:44:21.599480",
+    "last_download_timestamp": 1587019461.59948,
+    "latest_part_finish_datetime": "2020-04-16T06:46:30.154294",
+    "latest_part_finish_timestamp": 1587019590.154294,
+    "latest_part_start_datetime": "2020-04-16T06:44:22.122656",
+    "latest_part_start_timestamp": 1587019462.122656,
     "live_update": true,
     "name": "AdBlockID-Plus_realodix",
     "own_management": false,
