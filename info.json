@@ -1,5 +1,5 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {
         "ci_autosave_final_commit": "AdBlockID Plus - Results | @realodix"
     },
@@ -16,7 +16,7 @@
     "name": "AdBlockID-Plus_realodix",
     "own_management": false,
     "ping": [],
-    "raw_link": null,
+    "raw_link": "https://raw.githubusercontent.com/realodix/AdBlockID/master/tools/dead-hosts/adblockid-plus.txt",
     "start_datetime": "2020-04-22T22:34:33.430377",
     "start_timestamp": 1587594873.430377
 }
