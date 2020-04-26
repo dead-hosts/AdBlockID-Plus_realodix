@@ -160,13 +160,13 @@
         "state": "future"
     },
     "bioskop720.me": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "bioskop90.org": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "bioskopkeren.guru": {
@@ -235,8 +235,8 @@
         "state": "future"
     },
     "clkmein.com": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "cllkme.com": {
@@ -389,6 +389,11 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "filehorse.com": {
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "state": "future"
+    },
     "filmapik.bid": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
@@ -449,6 +454,11 @@
         "expiration_date": "20-may-2020",
         "state": "future"
     },
+    "getintopc.com": {
+        "epoch": 1675209600.0,
+        "expiration_date": "01-feb-2023",
+        "state": "future"
+    },
     "giga74.com": {
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
@@ -482,6 +492,11 @@
     "hakanime.com": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
+        "state": "future"
+    },
+    "heidisql.com": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "huntersekai.website": {
@@ -597,6 +612,11 @@
     "klikfilm.stream": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "komikcast.co.id": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "komikcast.com": {
@@ -1072,6 +1092,11 @@
     "topfilm21.com": {
         "epoch": 1613952000.0,
         "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
+    "unique-tutorials.info": {
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "uptoshort.com": {
