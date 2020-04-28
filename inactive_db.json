@@ -34,6 +34,13 @@
             "last_retested_at_epoch": 1588004658.900937,
             "last_retested_at_iso": "2020-04-27T16:24:18.900937",
             "status": "INACTIVE"
+        },
+        "aibouanime.xyz": {
+            "included_at_epoch": 1588070345.672107,
+            "included_at_iso": "2020-04-28T10:39:05.672107",
+            "last_retested_at_epoch": 1588070345.672107,
+            "last_retested_at_iso": "2020-04-28T10:39:05.672107",
+            "status": "INACTIVE"
         }
     }
 }

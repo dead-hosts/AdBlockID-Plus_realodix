@@ -69,6 +69,11 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "animebatch.web.id": {
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "state": "future"
+    },
     "animecracks.com": {
         "epoch": 1674000000.0,
         "expiration_date": "18-jan-2023",
@@ -479,6 +484,11 @@
         "expiration_date": "16-apr-2021",
         "state": "future"
     },
+    "googlesyndication.com": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "state": "future"
+    },
     "gosemut.net": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
@@ -857,6 +867,11 @@
     "nekonime.com": {
         "epoch": 1615075200.0,
         "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "nekonime.video": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
         "state": "future"
     },
     "nekopoi.web.id": {
