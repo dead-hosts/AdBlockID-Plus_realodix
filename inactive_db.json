@@ -3,36 +3,36 @@
         "111.90.142.151": {
             "included_at_epoch": 1587914740.111448,
             "included_at_iso": "2020-04-26T15:25:40.111448",
-            "last_retested_at_epoch": 1588091182.601805,
-            "last_retested_at_iso": "2020-04-28T16:26:22.601805",
+            "last_retested_at_epoch": 1588181983.031963,
+            "last_retested_at_iso": "2020-04-29T17:39:43.031963",
             "status": "INACTIVE"
         },
         "159.65.3.51": {
             "included_at_epoch": 1587914740.116132,
             "included_at_iso": "2020-04-26T15:25:40.116132",
-            "last_retested_at_epoch": 1588091182.410297,
-            "last_retested_at_iso": "2020-04-28T16:26:22.410297",
+            "last_retested_at_epoch": 1588181982.812924,
+            "last_retested_at_iso": "2020-04-29T17:39:42.812924",
             "status": "INACTIVE"
         },
         "198.204.248.230": {
             "included_at_epoch": 1587914740.118078,
             "included_at_iso": "2020-04-26T15:25:40.118078",
-            "last_retested_at_epoch": 1588091182.569889,
-            "last_retested_at_iso": "2020-04-28T16:26:22.569889",
+            "last_retested_at_epoch": 1588181982.992844,
+            "last_retested_at_iso": "2020-04-29T17:39:42.992844",
             "status": "INACTIVE"
         },
         "206.189.151.55": {
             "included_at_epoch": 1587914740.121826,
             "included_at_iso": "2020-04-26T15:25:40.121826",
-            "last_retested_at_epoch": 1588091182.566677,
-            "last_retested_at_iso": "2020-04-28T16:26:22.566677",
+            "last_retested_at_epoch": 1588181982.98908,
+            "last_retested_at_iso": "2020-04-29T17:39:42.989080",
             "status": "INACTIVE"
         },
         "209.97.170.87": {
             "included_at_epoch": 1587914740.123174,
             "included_at_iso": "2020-04-26T15:25:40.123174",
-            "last_retested_at_epoch": 1588091182.567756,
-            "last_retested_at_iso": "2020-04-28T16:26:22.567756",
+            "last_retested_at_epoch": 1588181982.990585,
+            "last_retested_at_iso": "2020-04-29T17:39:42.990585",
             "status": "INACTIVE"
         },
         "aibouanime.xyz": {
