@@ -38,8 +38,8 @@
         "aibouanime.xyz": {
             "included_at_epoch": 1588070345.672107,
             "included_at_iso": "2020-04-28T10:39:05.672107",
-            "last_retested_at_epoch": 1588159115.078341,
-            "last_retested_at_iso": "2020-04-29T11:18:35.078341",
+            "last_retested_at_epoch": 1588249604.910315,
+            "last_retested_at_iso": "2020-04-30T12:26:44.910315",
             "status": "INACTIVE"
         }
     }

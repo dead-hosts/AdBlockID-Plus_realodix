@@ -139,6 +139,11 @@
         "expiration_date": "12-jan-2021",
         "state": "future"
     },
+    "bacakomik.co": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "bandarmovie21.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
@@ -634,6 +639,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "kolompc.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
     "komikcast.co.id": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -1004,6 +1014,11 @@
         "expiration_date": "19-jan-2021",
         "state": "future"
     },
+    "pspidjovisdv2.club": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
     "rikucan.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
@@ -1122,6 +1137,11 @@
     "unique-tutorials.info": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "up4pc.com": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "uptoshort.com": {
