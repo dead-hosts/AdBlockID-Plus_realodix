@@ -729,6 +729,11 @@
         "expiration_date": "17-jan-2021",
         "state": "future"
     },
+    "layarlebar.co": {
+        "epoch": 1667001600.0,
+        "expiration_date": "29-oct-2022",
+        "state": "future"
+    },
     "ld2tv.net": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
@@ -852,6 +857,11 @@
     "modebaca.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "movie-xx1.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "movieajip.com": {
@@ -1157,6 +1167,11 @@
     "viid.me": {
         "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
+    "westmanga.info": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "wiid.me": {

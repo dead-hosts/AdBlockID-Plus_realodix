@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.121.701
+! Version: 20.121.1370
 ! Title: AdBlockID Plus
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 30 Apr 2020 11:41 UTC
+! Last modified: 30 Apr 2020 22:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -34,6 +34,8 @@ mangacanblog.com##.mas_tamvan
 /wp-content/plugins/popup-builder/*$domain=mangareceh.id
 ! 
 komiku.co.id###Notifikasi
+! Pop-Up
+westmanga.info##+js(aopr, document.querySelectorAll, popMagic)
 ! 
 ! ANTI-ADBLOCK
 ! --------------------------------------------------------------
@@ -143,6 +145,8 @@ animelink.net##.toast:-abp-contains(Promosi)
 /loading%2Bdownload.$image,domain=layarkaca21.live
 ! Pop-Up
 *$popup,domain=awnime.net|layarkaca21tv.net
+layarlebar.co##+js(aopr, document.querySelectorAll)
+movie-xx1.com##+js(aopr, document.querySelectorAll, popMagic)
 filmonlineindo.com,komikcast.com,komikstation.com,nontonsub.top,sobatkeren.club##+js(window.open-defuser)
 ! Overlay
 /wp-content/plugins/uji-popup/*$domain=bos21.bar|kordramass.com|kshowsubindo.org|layarkaca21indoxxi.co
@@ -369,4 +373,4 @@ kolompc.com##a[href^="https://pspidjovisdv2.club/mmd/"]
 
 ! up4pc.com
 up4pc.com##a[href="http://searchei.com/up4pc"]
-! Checksum: gbEaKXVFzq1A9wtUDEEeTA
+! Checksum: 6beujIMhXOLERoTyIjRQhw
