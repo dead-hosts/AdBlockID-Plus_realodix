@@ -35,13 +35,18 @@
         "state": "future"
     },
     "aibouanime.xyz": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "akashiro.co.id": {
         "epoch": 1664928000.0,
         "expiration_date": "05-oct-2022",
+        "state": "future"
+    },
+    "android-x86.org": {
+        "epoch": 1596672000.0,
+        "expiration_date": "06-aug-2020",
         "state": "future"
     },
     "androidbusiness.us": {
@@ -210,8 +215,8 @@
         "state": "future"
     },
     "cafecinema.vip": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "cararoot.id": {
