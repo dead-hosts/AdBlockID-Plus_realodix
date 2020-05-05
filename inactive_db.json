@@ -3,36 +3,36 @@
         "111.90.142.151": {
             "included_at_epoch": 1587914740.111448,
             "included_at_iso": "2020-04-26T15:25:40.111448",
-            "last_retested_at_epoch": 1588520068.639357,
-            "last_retested_at_iso": "2020-05-03T15:34:28.639357",
+            "last_retested_at_epoch": 1588692663.705559,
+            "last_retested_at_iso": "2020-05-05T15:31:03.705559",
             "status": "INACTIVE"
         },
         "159.65.3.51": {
             "included_at_epoch": 1587914740.116132,
             "included_at_iso": "2020-04-26T15:25:40.116132",
-            "last_retested_at_epoch": 1588520068.44223,
-            "last_retested_at_iso": "2020-05-03T15:34:28.442230",
+            "last_retested_at_epoch": 1588692663.477613,
+            "last_retested_at_iso": "2020-05-05T15:31:03.477613",
             "status": "INACTIVE"
         },
         "198.204.248.230": {
             "included_at_epoch": 1587914740.118078,
             "included_at_iso": "2020-04-26T15:25:40.118078",
-            "last_retested_at_epoch": 1588520068.599152,
-            "last_retested_at_iso": "2020-05-03T15:34:28.599152",
+            "last_retested_at_epoch": 1588692663.651916,
+            "last_retested_at_iso": "2020-05-05T15:31:03.651916",
             "status": "INACTIVE"
         },
         "206.189.151.55": {
             "included_at_epoch": 1587914740.121826,
             "included_at_iso": "2020-04-26T15:25:40.121826",
-            "last_retested_at_epoch": 1588520068.59604,
-            "last_retested_at_iso": "2020-05-03T15:34:28.596040",
+            "last_retested_at_epoch": 1588692663.648139,
+            "last_retested_at_iso": "2020-05-05T15:31:03.648139",
             "status": "INACTIVE"
         },
         "209.97.170.87": {
             "included_at_epoch": 1587914740.123174,
             "included_at_iso": "2020-04-26T15:25:40.123174",
-            "last_retested_at_epoch": 1588520068.597269,
-            "last_retested_at_iso": "2020-05-03T15:34:28.597269",
+            "last_retested_at_epoch": 1588692663.649426,
+            "last_retested_at_iso": "2020-05-05T15:31:03.649426",
             "status": "INACTIVE"
         }
     }

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.123.454
+! Version: 20.126.384
 ! Title: AdBlockID Plus
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 02 May 2020 07:34 UTC
+! Last modified: 05 May 2020 06:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -35,10 +35,12 @@ mangacanblog.com##.mas_tamvan
 ! 
 komiku.co.id###Notifikasi
 ! Pop-Up
+mangaindo.web.id##+js(acis, Math, zfgloaded)
 westmanga.info##+js(aopr, document.querySelectorAll, popMagic)
 ! 
 ! ANTI-ADBLOCK
 ! --------------------------------------------------------------
+mangaindo.web.id##+js(aopr, anOptions)
 komikcast.co.id,komikcast.com,komikindo.web.id##+js(nobab)
 ! 
 komiku.co.id#@##banner_ad
@@ -84,7 +86,7 @@ oploverz.in###content [id*="ScriptRoot" i]
 bandarmovie21.com,inonton.com###fadeinbox
 139.99.120.222###fbawah
 anime-indo.id,drakorindofilms.tv,inidramaku.com,kingdrakor.com###fixedban
-bioskopkerenin.club,bioskopkerenin.org,cinemaindo.watch,d21.top,ditonton.com,dunia21.download,filmapik.link,filmindo.stream,filmindo.vip,ganool.world,khaanflix.org,movieon21.onl,nontonfilm.vip,nontonfilm.watch,ns21.click,onestopmovie.com,terbit21.show###float-banner
+bioskopkerenin.club,bioskopkerenin.org,cinemaindo.watch,d21.top,ditonton.com,dunia21.download,filmapik.link,filmindo.stream,filmindo.vip,ganool.world,khaanflix.org,movieon21.onl,movies21.stream,nontonfilm.vip,nontonfilm.watch,ns21.click,onestopmovie.com,terbit21.show###float-banner
 movieajip.com###float-bottom-banner
 21filem.co###floatbannerkanan
 21filem.co###floatbannerkiri
@@ -97,9 +99,9 @@ kawanfilm21.org,zonafilm.xyz###floating_banner_top1
 indoxxifilm.com###floats
 159.65.3.51,indoxxifilm.com,lk21c.fun###flobwh
 anoboy.best###judi2
-bioskopkerenin.org###middle-banner
+bioskopkerenin.org,movies21.stream###middle-banner
 topfilm21.com###pop-tengah
-bioskopkerenin.org###ptbanner
+bioskopkerenin.org,movies21.stream###ptbanner
 blackavelic.com###teaser2
 142.4.222.52,95.216.163.177,blackavelic.com,layarkaca21.my.id###teaser3
 gudangfilm.club,lk21.london,lk21c.fun,nobarfilm21.top###tengah
@@ -145,6 +147,7 @@ animelink.net##.toast:-abp-contains(Promosi)
 /loading%2Bdownload.$image,domain=layarkaca21.live
 ! Pop-Up
 *$popup,domain=awnime.net|layarkaca21tv.net
+animeindo.fun##+js(aopr, Popper)
 layarlebar.co##+js(aopr, document.querySelectorAll)
 movie-xx1.com##+js(aopr, document.querySelectorAll, popMagic)
 filmonlineindo.com,komikcast.com,komikstation.com,nontonsub.top,sobatkeren.club##+js(window.open-defuser)
@@ -168,7 +171,7 @@ lk21.london##.ml-announce
 narashika.cc##.popbox
 drakoric.com,drakorindo.fun##.sg-popup-content
 drakoric.com,drakorindo.fun##.sgpb-popup-overlay
-193.164.131.42##.swal-overlay
+185.224.130.67,193.164.131.42##.swal-overlay
 213.166.69.166,rumahdrama.com##.wpb-outer-wrap
 ! 
 dutafilm.*##.swal-overlay
@@ -375,4 +378,4 @@ kolompc.com##a[href^="https://pspidjovisdv2.club/mmd/"]
 
 ! up4pc.com
 up4pc.com##a[href="http://searchei.com/up4pc"]
-! Checksum: kxwuEhTZJivxDcu6VgAtqQ
+! Checksum: LJtFvbRqX45BTgBEXs4QxQ
