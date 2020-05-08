@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.128.418
+! Version: 20.129.629
 ! Title: AdBlockID Plus
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 07 May 2020 06:58 UTC
+! Last modified: 08 May 2020 10:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -26,6 +26,10 @@ ilmumemikatwanita.com,psikologicinta.com##+js(aopr, document.oncontextmenu)
 ! --------------------------------------------------------------
 ilmumemikatwanita.com,psikologicinta.com##+js(acis, disableSelection, reEnable)
 ilmumemikatwanita.com,psikologicinta.com##.unselectable:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
+! 
+! ANTI-SAFELINK
+! --------------------------------------------------------------
+kuyhaa-me.com##+js(aopr, protected_links)
 ! 
 ! FAKE BUTTON
 ! --------------------------------------------------------------
@@ -195,7 +199,7 @@ animelink.net##.toast:-abp-contains(Promosi)
 animeindo.fun##+js(aopr, Popper)
 layarlebar.co##+js(aopr, document.querySelectorAll)
 movie-xx1.com##+js(aopr, document.querySelectorAll, popMagic)
-filmonlineindo.com,komikcast.com,komikstation.com,nontonsub.top,sobatkeren.club##+js(window.open-defuser)
+193.164.131.42,filmonlineindo.com,indxxi.vip,komikcast.com,komikstation.com,nontonsub.top,sobatkeren.club##+js(window.open-defuser)
 ! Overlay
 /wp-content/plugins/uji-popup/*$domain=bos21.bar|kordramass.com|kshowsubindo.org|layarkaca21indoxxi.co
 ! 
@@ -203,8 +207,8 @@ filmonlineindo.com,komikcast.com,komikstation.com,nontonsub.top,sobatkeren.club#
 bioskop212.com,bioskop55.online###fanback
 jagoanime.com,meownime.my.id###hbfanback
 dwa21.org###main-popup
-103.194.171.205,cafecinema.vip,dramamu.net,dramaserial.best,dramaserial.club,dramaserial.fun,geraifilm.com,jfnonton.com,juraganfilm.casa,juraganfilm.mobi,nontonfilmdrama.net###netkevin-overlay
-103.194.171.205,cafecinema.vip,dramamu.net,dramaserial.best,dramaserial.club,dramaserial.fun,geraifilm.com,jfnonton.com,juraganfilm.casa,juraganfilm.mobi,nontonfilmdrama.net###netkevin-popup
+103.194.171.183,103.194.171.205,cafecinema.vip,dramamu.net,dramaserial.best,dramaserial.club,dramaserial.fun,geraifilm.com,jfnonton.com,juraganfilm.casa,juraganfilm.mobi,nontonfilmdrama.net###netkevin-overlay
+103.194.171.183,103.194.171.205,cafecinema.vip,dramamu.net,dramaserial.best,dramaserial.club,dramaserial.fun,geraifilm.com,jfnonton.com,juraganfilm.casa,juraganfilm.mobi,nontonfilmdrama.net###netkevin-popup
 149.56.24.226###overlay-pop
 awsubs.co###overplay
 193.164.131.42,gabut.net,indxxi.vip###popup
@@ -216,7 +220,7 @@ lk21.london##.ml-announce
 narashika.cc##.popbox
 drakoric.com,drakorindo.fun##.sg-popup-content
 drakoric.com,drakorindo.fun##.sgpb-popup-overlay
-185.224.130.67,193.164.131.42##.swal-overlay
+185.224.130.67,193.164.131.42,indxxi.vip##.swal-overlay
 213.166.69.166,rumahdrama.com##.wpb-outer-wrap
 ! 
 dutafilm.*##.swal-overlay
@@ -423,4 +427,4 @@ kolompc.com##a[href^="https://pspidjovisdv2.club/mmd/"]
 
 ! up4pc.com
 up4pc.com##a[href="http://searchei.com/up4pc"]
-! Checksum: E75Z7xnhm04NNRmZz4l85A
+! Checksum: GIrczz+pPXB4PiBSrKB0vQ
