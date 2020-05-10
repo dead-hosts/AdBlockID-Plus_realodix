@@ -75,9 +75,9 @@
         "state": "future"
     },
     "anime-indo.id": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
-        "state": "past"
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
     },
     "animebatch.site": {
         "epoch": 1599696000.0,
@@ -189,6 +189,11 @@
         "expiration_date": "05-apr-2021",
         "state": "future"
     },
+    "bioskop021.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
     "bioskop212.com": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
@@ -197,6 +202,16 @@
     "bioskop55.online": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
+    "bioskop59.club": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
+    "bioskop59.com": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
         "state": "future"
     },
     "bioskop720.me": {
@@ -492,6 +507,16 @@
     "ganool.world": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "ganool99.club": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "ganool99.com": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "geraifilm.com": {
@@ -1017,6 +1042,11 @@
     "nonton33.tech": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "nonton66.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "nontoncinema.org": {
