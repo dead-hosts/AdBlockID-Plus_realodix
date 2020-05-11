@@ -244,6 +244,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "bolatimes.com": {
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "state": "future"
+    },
     "bos21.bar": {
         "epoch": 1612569600.0,
         "expiration_date": "06-feb-2021",
@@ -304,6 +309,11 @@
         "expiration_date": "07-apr-2021",
         "state": "future"
     },
+    "cnnindonesia.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
     "conan.id": {
         "epoch": 1709769600.0,
         "expiration_date": "07-mar-2024",
@@ -332,6 +342,11 @@
     "detikxxi.com": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "dewiku.com": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "ditonton.com": {
@@ -584,6 +599,16 @@
         "expiration_date": "05-apr-2021",
         "state": "future"
     },
+    "himedik.com": {
+        "epoch": 1644710400.0,
+        "expiration_date": "13-feb-2022",
+        "state": "future"
+    },
+    "hitekno.com": {
+        "epoch": 1597017600.0,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
     "huntersekai.website": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
@@ -689,6 +714,11 @@
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "kapanlagi.com": {
+        "epoch": 1677283200.0,
+        "expiration_date": "25-feb-2023",
+        "state": "future"
+    },
     "kaskus.co.id": {
         "epoch": 1626652800.0,
         "expiration_date": "19-jul-2021",
@@ -712,6 +742,11 @@
     "kingdrakor.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "kiranime.pw": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
         "state": "future"
     },
     "klikfilm.stream": {
@@ -767,6 +802,11 @@
     "kshowsubindo.org": {
         "epoch": 1617408000.0,
         "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
+    "kudonime.xyz": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "kumpulmanga.org": {
@@ -832,6 +872,11 @@
     "lewat.club": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "liputan6.com": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "liveshootv.com": {
@@ -922,6 +967,11 @@
     "mangatail.me": {
         "epoch": 1616889600.0,
         "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
+    "matamata.com": {
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
         "state": "future"
     },
     "mazterize.co": {
@@ -1227,6 +1277,11 @@
     "sobatkeren.net": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
+        "state": "future"
+    },
+    "soranime.site": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "sportif.id": {
