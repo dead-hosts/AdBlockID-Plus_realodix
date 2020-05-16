@@ -100,9 +100,9 @@
         "state": "future"
     },
     "animeindo.fun": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
-        "state": "past"
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
     },
     "animekompi.web.id": {
         "epoch": 1599955200.0,
@@ -332,6 +332,11 @@
     "daizurin.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "dares.xyz": {
+        "epoch": 1595376000.0,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "destyy.com": {
@@ -734,6 +739,11 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "kertashitam.com": {
+        "epoch": 1642809600.0,
+        "expiration_date": "22-jan-2022",
+        "state": "future"
+    },
     "khaanflix.org": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
@@ -1017,6 +1027,11 @@
     "movieajip.com": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
+    "movienear.me": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "movieon21.onl": {
@@ -1314,6 +1329,11 @@
         "expiration_date": "03-jul-2020",
         "state": "future"
     },
+    "teknisimotor.com": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
     "terbit21.host": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
@@ -1337,6 +1357,11 @@
     "topfilm21.com": {
         "epoch": 1613952000.0,
         "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
+    "uiz.io": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "unique-tutorials.info": {
