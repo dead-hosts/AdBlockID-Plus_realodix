@@ -149,6 +149,11 @@
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "arlinadzgn.com": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
     "awnime.net": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
@@ -239,6 +244,11 @@
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
+    "bisablog.com": {
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
     "blackavelic.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -252,6 +262,11 @@
     "bos21.bar": {
         "epoch": 1612569600.0,
         "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
+    "bungfrangki.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "cafecinema.vip": {
@@ -347,6 +362,11 @@
     "detikxxi.com": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "dewaplokis.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "dewiku.com": {
@@ -639,6 +659,11 @@
         "expiration_date": "17-dec-2020",
         "state": "future"
     },
+    "igniel.com": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
     "ilmumemikatwanita.com": {
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
@@ -677,6 +702,11 @@
     "ironimesafelink.my.id": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "jagoandzgn.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "jagoanime.com": {
@@ -1254,6 +1284,11 @@
         "expiration_date": "06-jan-2021",
         "state": "future"
     },
+    "santaibareng.net": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "state": "future"
+    },
     "sekilastekno.com": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
@@ -1272,6 +1307,11 @@
     "seputarforex.com": {
         "epoch": 1687392000.0,
         "expiration_date": "22-jun-2023",
+        "state": "future"
+    },
+    "serieswans.com": {
+        "epoch": 1645056000.0,
+        "expiration_date": "17-feb-2022",
         "state": "future"
     },
     "sh.st": {
@@ -1324,6 +1364,11 @@
         "expiration_date": "08-jan-2022",
         "state": "future"
     },
+    "steffifauziah.com": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
     "stfly.io": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -1349,6 +1394,11 @@
         "expiration_date": "09-aug-2020",
         "state": "future"
     },
+    "teknolalat.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
     "terbit21.host": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
@@ -1357,6 +1407,11 @@
     "terbit21.show": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "tigaribu.net": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "tirto.id": {
@@ -1402,6 +1457,11 @@
     "viid.me": {
         "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
+    "webkeren.net": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "westmanga.info": {
