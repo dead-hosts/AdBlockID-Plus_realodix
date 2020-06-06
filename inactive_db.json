@@ -1,5 +1,12 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID-Plus_realodix/domains.list": {
+        "103.194.171.183": {
+            "included_at_epoch": 1591458199.017276,
+            "included_at_iso": "2020-06-06T15:43:19.017276",
+            "last_retested_at_epoch": 1591458199.045865,
+            "last_retested_at_iso": "2020-06-06T15:43:19.045865",
+            "status": "INACTIVE"
+        },
         "111.90.142.151": {
             "included_at_epoch": 1590334712.364585,
             "included_at_iso": "2020-05-24T15:38:32.364585",
@@ -15,17 +22,17 @@
             "status": "INACTIVE"
         },
         "178.128.82.236": {
-            "included_at_epoch": 1589038682.633976,
-            "included_at_iso": "2020-05-09T15:38:02.633976",
-            "last_retested_at_epoch": 1591371756.813468,
-            "last_retested_at_iso": "2020-06-05T15:42:36.813468",
+            "included_at_epoch": 1591458199.154872,
+            "included_at_iso": "2020-06-06T15:43:19.154872",
+            "last_retested_at_epoch": 1591458199.154872,
+            "last_retested_at_iso": "2020-06-06T15:43:19.154872",
             "status": "INACTIVE"
         },
         "185.63.253.33": {
-            "included_at_epoch": 1589038682.509206,
-            "included_at_iso": "2020-05-09T15:38:02.509206",
-            "last_retested_at_epoch": 1591371756.707612,
-            "last_retested_at_iso": "2020-06-05T15:42:36.707612",
+            "included_at_epoch": 1591458199.01204,
+            "included_at_iso": "2020-06-06T15:43:19.012040",
+            "last_retested_at_epoch": 1591458199.050857,
+            "last_retested_at_iso": "2020-06-06T15:43:19.050857",
             "status": "INACTIVE"
         },
         "198.204.248.230": {
@@ -38,8 +45,8 @@
         "204.48.22.58": {
             "included_at_epoch": 1589816127.184449,
             "included_at_iso": "2020-05-18T15:35:27.184449",
-            "last_retested_at_epoch": 1591371756.812009,
-            "last_retested_at_iso": "2020-06-05T15:42:36.812009",
+            "last_retested_at_epoch": 1591458199.15344,
+            "last_retested_at_iso": "2020-06-06T15:43:19.153440",
             "status": "INACTIVE"
         },
         "206.189.151.55": {
@@ -54,6 +61,13 @@
             "included_at_iso": "2020-05-24T15:38:32.302387",
             "last_retested_at_epoch": 1591371756.570388,
             "last_retested_at_iso": "2020-06-05T15:42:36.570388",
+            "status": "INACTIVE"
+        },
+        "get4link.xyz": {
+            "included_at_epoch": 1591458199.510444,
+            "included_at_iso": "2020-06-06T15:43:19.510444",
+            "last_retested_at_epoch": 1591458199.640809,
+            "last_retested_at_iso": "2020-06-06T15:43:19.640809",
             "status": "INACTIVE"
         }
     }
