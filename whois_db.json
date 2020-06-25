@@ -585,9 +585,9 @@
         "state": "future"
     },
     "get4link.xyz": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
-        "state": "past"
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
     },
     "getintopc.com": {
         "epoch": 1675209600.0,
