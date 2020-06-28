@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.163.1299
+! Version: 20.179.1316
 ! Title: AdBlockID Plus
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 11 Jun 2020 21:39 UTC
+! Last modified: 27 Jun 2020 21:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -138,6 +138,7 @@ komiku.co.id#@##banner_ad
 ||dewanonton.vip/static/banner/$image
 ||dwanonton.com/static/banner/$image
 ||gosemut.net/img/banner/$image
+||layarlebar24.net^*/banner-$image
 ||nontoncinema.org^*/daftar.html$subdocument
 ||sobatkeren.best/img/banner/$image
 ||sobatkeren.net/img/banner/$image
@@ -246,6 +247,7 @@ terbit21.cool###middle-banner
 awsubs.co###overplay
 193.164.131.42,204.48.22.58,gabut.net,indxxi.vip###popup
 terbit21.cool###top-banner
+movieindoxxi.site###wpb_overlay
 drakoric.com##.afc_popup
 kordramass.com,kshowsubindo.org##.blocker
 giladrakor.com,inidramaku.com,kingdrakor.com##.cm-popup-modal
@@ -316,6 +318,7 @@ kawanfilm21.pro##+js(aeld, /^(?:contextmenu|selectstart)$/)
 ! ANTI-SELECT
 ! --------------------------------------------------------------
 kawanfilm21.pro##+js(set, document.onselectstart, noopFunc)
+malasngeblog.com##.post-body:style(user-select: text !important; -webkit-touch-callout: default !important;)
 ! *** abid:src/plus/p_safelink.adbl ***
 ! ANTI-SAFELINK
 ! --------------------------------------------------------------
@@ -468,4 +471,4 @@ droidtamvan.me,movienear.me,onlinecorp.me,sekilastekno.com##img[width="200"][hei
 /skips.png$image,domain=semawur.com
 ||safeku.com/uploads/getlink.jpg$image
 ||semawur.com/o.png$image
-! Checksum: oqt41uYVoLCUyZNBaos2gw
+! Checksum: L2LJd4awTDz/74QpAOqF2Q
