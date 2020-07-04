@@ -1,10 +1,10 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID-Plus_realodix/domains.list": {
         "103.194.171.183": {
-            "included_at_epoch": 1591458199.017276,
-            "included_at_iso": "2020-06-06T15:43:19.017276",
-            "last_retested_at_epoch": 1593793105.00834,
-            "last_retested_at_iso": "2020-07-03T16:18:25.008340",
+            "included_at_epoch": 1593878634.773956,
+            "included_at_iso": "2020-07-04T16:03:54.773956",
+            "last_retested_at_epoch": 1593878634.812245,
+            "last_retested_at_iso": "2020-07-04T16:03:54.812245",
             "status": "INACTIVE"
         },
         "111.90.142.151": {
@@ -22,17 +22,17 @@
             "status": "INACTIVE"
         },
         "178.128.82.236": {
-            "included_at_epoch": 1591458199.154872,
-            "included_at_iso": "2020-06-06T15:43:19.154872",
-            "last_retested_at_epoch": 1593793105.110127,
-            "last_retested_at_iso": "2020-07-03T16:18:25.110127",
+            "included_at_epoch": 1593878634.902017,
+            "included_at_iso": "2020-07-04T16:03:54.902017",
+            "last_retested_at_epoch": 1593878634.902017,
+            "last_retested_at_iso": "2020-07-04T16:03:54.902017",
             "status": "INACTIVE"
         },
         "185.63.253.33": {
-            "included_at_epoch": 1591458199.01204,
-            "included_at_iso": "2020-06-06T15:43:19.012040",
-            "last_retested_at_epoch": 1593793105.002125,
-            "last_retested_at_iso": "2020-07-03T16:18:25.002125",
+            "included_at_epoch": 1593878634.772601,
+            "included_at_iso": "2020-07-04T16:03:54.772601",
+            "last_retested_at_epoch": 1593878634.807495,
+            "last_retested_at_iso": "2020-07-04T16:03:54.807495",
             "status": "INACTIVE"
         },
         "198.204.248.230": {
