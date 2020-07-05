@@ -3,64 +3,64 @@
         "103.194.171.183": {
             "included_at_epoch": 1593878634.773956,
             "included_at_iso": "2020-07-04T16:03:54.773956",
-            "last_retested_at_epoch": 1593878634.812245,
-            "last_retested_at_iso": "2020-07-04T16:03:54.812245",
+            "last_retested_at_epoch": 1593965810.849479,
+            "last_retested_at_iso": "2020-07-05T16:16:50.849479",
             "status": "INACTIVE"
         },
         "111.90.142.151": {
             "included_at_epoch": 1592754859.661729,
             "included_at_iso": "2020-06-21T15:54:19.661729",
-            "last_retested_at_epoch": 1593793104.928461,
-            "last_retested_at_iso": "2020-07-03T16:18:24.928461",
+            "last_retested_at_epoch": 1593965810.759235,
+            "last_retested_at_iso": "2020-07-05T16:16:50.759235",
             "status": "INACTIVE"
         },
         "159.65.3.51": {
             "included_at_epoch": 1592754859.3848,
             "included_at_iso": "2020-06-21T15:54:19.384800",
-            "last_retested_at_epoch": 1593793104.704418,
-            "last_retested_at_iso": "2020-07-03T16:18:24.704418",
+            "last_retested_at_epoch": 1593965810.473782,
+            "last_retested_at_iso": "2020-07-05T16:16:50.473782",
             "status": "INACTIVE"
         },
         "178.128.82.236": {
             "included_at_epoch": 1593878634.902017,
             "included_at_iso": "2020-07-04T16:03:54.902017",
-            "last_retested_at_epoch": 1593878634.902017,
-            "last_retested_at_iso": "2020-07-04T16:03:54.902017",
+            "last_retested_at_epoch": 1593965810.978548,
+            "last_retested_at_iso": "2020-07-05T16:16:50.978548",
             "status": "INACTIVE"
         },
         "185.63.253.33": {
             "included_at_epoch": 1593878634.772601,
             "included_at_iso": "2020-07-04T16:03:54.772601",
-            "last_retested_at_epoch": 1593878634.807495,
-            "last_retested_at_iso": "2020-07-04T16:03:54.807495",
+            "last_retested_at_epoch": 1593965810.83694,
+            "last_retested_at_iso": "2020-07-05T16:16:50.836940",
             "status": "INACTIVE"
         },
         "198.204.248.230": {
             "included_at_epoch": 1592754859.606842,
             "included_at_iso": "2020-06-21T15:54:19.606842",
-            "last_retested_at_epoch": 1593793104.868643,
-            "last_retested_at_iso": "2020-07-03T16:18:24.868643",
+            "last_retested_at_epoch": 1593965810.691748,
+            "last_retested_at_iso": "2020-07-05T16:16:50.691748",
             "status": "INACTIVE"
         },
         "204.48.22.58": {
             "included_at_epoch": 1592236558.763339,
             "included_at_iso": "2020-06-15T15:55:58.763339",
-            "last_retested_at_epoch": 1593793105.107581,
-            "last_retested_at_iso": "2020-07-03T16:18:25.107581",
+            "last_retested_at_epoch": 1593965810.976963,
+            "last_retested_at_iso": "2020-07-05T16:16:50.976963",
             "status": "INACTIVE"
         },
         "206.189.151.55": {
             "included_at_epoch": 1592754859.174799,
             "included_at_iso": "2020-06-21T15:54:19.174799",
-            "last_retested_at_epoch": 1593793104.865211,
-            "last_retested_at_iso": "2020-07-03T16:18:24.865211",
+            "last_retested_at_epoch": 1593965810.686749,
+            "last_retested_at_iso": "2020-07-05T16:16:50.686749",
             "status": "INACTIVE"
         },
         "209.97.170.87": {
             "included_at_epoch": 1592754859.604801,
             "included_at_iso": "2020-06-21T15:54:19.604801",
-            "last_retested_at_epoch": 1593793104.866394,
-            "last_retested_at_iso": "2020-07-03T16:18:24.866394",
+            "last_retested_at_epoch": 1593965810.688655,
+            "last_retested_at_iso": "2020-07-05T16:16:50.688655",
             "status": "INACTIVE"
         }
     }
