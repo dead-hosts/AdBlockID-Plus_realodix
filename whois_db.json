@@ -217,7 +217,7 @@
     "bioskop59.com": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bioskop720.me": {
         "epoch": 1618876800.0,
@@ -835,8 +835,8 @@
         "state": "future"
     },
     "komikindo.web.id": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "komikstation.com": {
