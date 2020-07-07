@@ -215,9 +215,9 @@
         "state": "future"
     },
     "bioskop59.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
-        "state": "past"
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
     },
     "bioskop720.me": {
         "epoch": 1618876800.0,
@@ -297,7 +297,7 @@
     "cemiw.net": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "cinema-xx1.com": {
         "epoch": 1588204800.0,
@@ -382,7 +382,7 @@
     "dewiku.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ditonton.com": {
         "epoch": 1606089600.0,
