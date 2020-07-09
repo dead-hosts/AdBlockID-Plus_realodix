@@ -374,6 +374,11 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "dewanonton.xyz": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
     "dewaplokis.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
@@ -1112,6 +1117,11 @@
     "movieon21.onl": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "movies21.link": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "movies21.onl": {
