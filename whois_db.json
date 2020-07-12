@@ -494,6 +494,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "dutafilm.red": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
     "dwa21.org": {
         "epoch": 1617062400.0,
         "expiration_date": "30-mar-2021",
@@ -917,6 +922,11 @@
     "layarkaca21tv.net": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "layarkacaxxi.org": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "layarkeren.org": {
