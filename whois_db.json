@@ -574,6 +574,11 @@
         "expiration_date": "07-feb-2021",
         "state": "future"
     },
+    "ganool21.watch": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "state": "future"
+    },
     "ganool99.club": {
         "epoch": 1618790400.0,
         "expiration_date": "19-apr-2021",
