@@ -117,7 +117,7 @@
     "animenonton.tv": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "anisora.net": {
         "epoch": 1620259200.0,
