@@ -1479,6 +1479,11 @@
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
+    "terbit21.fun": {
+        "epoch": 1641168000.0,
+        "expiration_date": "03-jan-2022",
+        "state": "future"
+    },
     "terbit21.host": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
