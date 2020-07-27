@@ -17,8 +17,8 @@
         "159.65.3.51": {
             "included_at_epoch": 1595174597.746021,
             "included_at_iso": "2020-07-19T16:03:17.746021",
-            "last_retested_at_epoch": 1595693234.174757,
-            "last_retested_at_iso": "2020-07-25T16:07:14.174757",
+            "last_retested_at_epoch": 1595866056.390051,
+            "last_retested_at_iso": "2020-07-27T16:07:36.390051",
             "status": "INACTIVE"
         },
         "178.128.82.236": {
