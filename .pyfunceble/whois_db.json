@@ -62,7 +62,7 @@
     "androidbusiness.us": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "anibatch.id": {
         "epoch": 1615766400.0,
@@ -245,8 +245,8 @@
         "state": "future"
     },
     "bisablog.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "blackavelic.com": {
@@ -770,8 +770,8 @@
         "state": "future"
     },
     "kabargames.id": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "kadal.club": {
@@ -1357,6 +1357,11 @@
     "safelinku.com": {
         "epoch": 1609891200.0,
         "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
+    "samehadaku.vip": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
         "state": "future"
     },
     "santaibareng.net": {
