@@ -49,6 +49,11 @@
         "expiration_date": "05-oct-2022",
         "state": "future"
     },
+    "aksensei.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
     "alibabamovie.net": {
         "epoch": 1625097600.0,
         "expiration_date": "01-jul-2021",
@@ -112,6 +117,11 @@
     "animelink.net": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "animelu.com": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "animenonton.tv": {
@@ -1037,6 +1047,16 @@
     "mangaku.link": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "mangaku.pro": {
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
+    },
+    "manganime.in": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
         "state": "future"
     },
     "mangareceh.id": {
