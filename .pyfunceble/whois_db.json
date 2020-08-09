@@ -1492,7 +1492,7 @@
     "teknisimotor.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "teknolalat.com": {
         "epoch": 1617667200.0,
