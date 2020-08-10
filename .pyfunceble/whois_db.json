@@ -677,7 +677,7 @@
     "hitekno.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "huntersekai.website": {
         "epoch": 1610755200.0,
@@ -1490,9 +1490,9 @@
         "state": "future"
     },
     "teknisimotor.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
-        "state": "past"
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
     },
     "teknolalat.com": {
         "epoch": 1617667200.0,
