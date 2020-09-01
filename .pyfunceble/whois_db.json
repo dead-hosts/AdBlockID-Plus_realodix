@@ -115,6 +115,12 @@
         "expiration_date": "13-sep-2020",
         "state": "future"
     },
+    "animekuro.net": {
+        "epoch": 1667779200.0,
+        "expiration_date": "07-nov-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "animelink.net": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
@@ -1039,6 +1045,12 @@
     "mangaindo.web.id": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "mangakita.net": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mangaku.in": {
