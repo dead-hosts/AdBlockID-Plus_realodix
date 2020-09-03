@@ -531,6 +531,12 @@
         "expiration_date": "04-feb-2021",
         "state": "future"
     },
+    "fb21.tv": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "server": "tvwhois.verisign-grs.com",
+        "state": "future"
+    },
     "festyy.com": {
         "epoch": 1620172800.0,
         "expiration_date": "05-may-2021",
