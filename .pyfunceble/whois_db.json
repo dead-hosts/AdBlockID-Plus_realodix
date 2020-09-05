@@ -299,7 +299,8 @@
     "cararoot.id": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
-        "state": "future"
+        "server": "whois.id",
+        "state": "past"
     },
     "cariskuy.com": {
         "epoch": 1629158400.0,
