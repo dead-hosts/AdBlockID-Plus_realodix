@@ -569,8 +569,9 @@
         "state": "future"
     },
     "filmindo.vip": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.vip",
         "state": "future"
     },
     "filmonlineindo.com": {
@@ -1276,8 +1277,9 @@
         "state": "future"
     },
     "nontonfilm.vip": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.vip",
         "state": "future"
     },
     "nontonfilm.watch": {
