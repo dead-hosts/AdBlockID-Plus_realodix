@@ -505,7 +505,8 @@
     "dunia21s.fun": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
-        "state": "future"
+        "server": "whois.nic.fun",
+        "state": "past"
     },
     "dutafilm.live": {
         "epoch": 1595030400.0,
