@@ -503,10 +503,10 @@
         "state": "future"
     },
     "dunia21s.fun": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
         "server": "whois.nic.fun",
-        "state": "past"
+        "state": "future"
     },
     "dutafilm.live": {
         "epoch": 1595030400.0,
@@ -917,8 +917,9 @@
         "state": "future"
     },
     "kumpulmanga.org": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "kuyhaa-me.com": {
