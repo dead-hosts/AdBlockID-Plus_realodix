@@ -88,7 +88,8 @@
     "animebatch.site": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
-        "state": "future"
+        "server": "whois.nic.site",
+        "state": "past"
     },
     "animebatch.web.id": {
         "epoch": 1608940800.0,
@@ -219,6 +220,12 @@
     "bioskop212.com": {
         "epoch": 1626134400.0,
         "expiration_date": "13-jul-2021",
+        "state": "future"
+    },
+    "bioskop212.xyz": {
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "bioskop55.online": {
@@ -1261,6 +1268,12 @@
     "nonton33.tech": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "nonton45.com": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nonton66.com": {
