@@ -56,6 +56,13 @@
             "last_retested_at_iso": "2020-08-27T16:26:08.434754",
             "status": "INACTIVE"
         },
+        "animebatch.site": {
+            "included_at_epoch": 1599928359.638766,
+            "included_at_iso": "2020-09-12T16:32:39.638766",
+            "last_retested_at_epoch": 1599928359.638766,
+            "last_retested_at_iso": "2020-09-12T16:32:39.638766",
+            "status": "INACTIVE"
+        },
         "lewat.tautan.pro": {
             "included_at_epoch": 1597854747.534586,
             "included_at_iso": "2020-08-19T16:32:27.534586",
