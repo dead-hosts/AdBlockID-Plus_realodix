@@ -264,6 +264,12 @@
         "expiration_date": "18-apr-2021",
         "state": "future"
     },
+    "bioskopkerenin.link": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "server": "whois.uniregistry.net",
+        "state": "future"
+    },
     "bioskopkerenin.org": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
