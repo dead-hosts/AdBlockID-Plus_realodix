@@ -64,10 +64,10 @@
             "status": "INACTIVE"
         },
         "lewat.tautan.pro": {
-            "included_at_epoch": 1597854747.534586,
-            "included_at_iso": "2020-08-19T16:32:27.534586",
-            "last_retested_at_epoch": 1598545569.208016,
-            "last_retested_at_iso": "2020-08-27T16:26:09.208016",
+            "included_at_epoch": 1600274095.338599,
+            "included_at_iso": "2020-09-16T16:34:55.338599",
+            "last_retested_at_epoch": 1600274095.338599,
+            "last_retested_at_iso": "2020-09-16T16:34:55.338599",
             "status": "INACTIVE"
         }
     }
