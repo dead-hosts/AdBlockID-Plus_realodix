@@ -148,6 +148,12 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "anitoki.com": {
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "anitoki.web.id": {
         "epoch": 1610150400.0,
         "expiration_date": "09-jan-2021",
