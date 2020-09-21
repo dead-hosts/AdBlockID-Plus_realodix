@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.262.1020
+! Version: 20.265.985
 ! Title: AdBlockID Plus
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 18 Sep 2020 17:00 UTC
+! Last modified: 21 Sep 2020 16:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -203,7 +203,7 @@ animekompi.web.id,mmsubs.com##.addads
 95.216.163.177,netnot21.xyz##.ads
 samehadaku.vip##.adsplayer
 149.28.158.117##.appupig
-gabut.net,indxxi.vip,klikfilm.stream##.banner
+cinemaday.org,gabut.net,indxxi.vip,klikfilm.stream##.banner
 dewanonton.vip,dewanonton.xyz,dwanonton.com##.banner-common
 dwanonton.com##.banner-vertical
 premierexxi.org##.bnr
@@ -221,6 +221,7 @@ animebatch.web.id,drakorindofilms.net,drakorindofilms.tv,inidramaku.com,korenlov
 animelu.com,awsubs.co##.kln
 anisora.net##.klnrec > .kln
 anisora.net##.klnrec > .mini
+indoxximovie.com##.mdl_container
 139.99.120.222,dunia21s.fun,fb21.tv##.ns-left
 139.99.120.222,dunia21s.fun,fb21.tv##.ns-right
 206.189.151.55,209.97.170.87##.popUpBannerBox
@@ -244,7 +245,7 @@ animelink.net##.toast:-abp-contains(Promosi)
 animeindo.fun##+js(aopr, Popper)
 layarlebar.co##+js(aopr, document.querySelectorAll)
 movie-xx1.com##+js(aopr, document.querySelectorAll, popMagic)
-193.164.131.42,dutafilm.red,filmonlineindo.com,indxxi.vip,komikcast.com,komikstation.com,layarkacaxxi.org,nontonsub.top,sobatkeren.club##+js(window.open-defuser)
+111.90.150.31,193.164.131.42,dutafilm.red,filmonlineindo.com,indxxi.vip,komikcast.com,komikstation.com,layarkacaxxi.org,nontonsub.top,sobatkeren.club##+js(window.open-defuser)
 ! Overlay
 /wp-content/plugins/modal-window/*$domain=boomxxi.me
 /wp-content/plugins/uji-popup/*$domain=bos21.bar|kordramass.com|kshowsubindo.org|layarkaca21indoxxi.co
@@ -269,7 +270,7 @@ lk21.london##.ml-announce
 narashika.cc##.popbox
 drakoric.com,drakorindo.fun##.sg-popup-content
 drakoric.com,drakorindo.fun##.sgpb-popup-overlay
-178.128.82.236,185.224.130.67,193.164.131.42,204.48.22.58,indxxi.vip##.swal-overlay
+178.128.82.236,185.224.130.67,193.164.131.42,204.48.22.58,cinemaday.org,indxxi.vip##.swal-overlay
 213.166.69.166,movieindoxxi.co,rumahdrama.com##.wpb-outer-wrap
 ! 
 dutafilm.*##.swal-overlay
@@ -486,4 +487,4 @@ droidtamvan.me,movienear.me,onlinecorp.me,sekilastekno.com##img[width="200"][hei
 /skips.png$image,domain=semawur.com
 ||safeku.com/uploads/getlink.jpg$image
 ||semawur.com/o.png$image
-! Checksum: 0CP7pja/vTNzrp0Cd++Xrw
+! Checksum: AmhhWr9SECobiLqpneasJg
