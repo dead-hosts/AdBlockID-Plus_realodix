@@ -190,8 +190,9 @@
         "state": "future"
     },
     "bacaan.id": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "bacakomik.co": {
@@ -414,13 +415,15 @@
         "state": "future"
     },
     "dewanonton.vip": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.nic.vip",
         "state": "future"
     },
     "dewanonton.xyz": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "dewaplokis.com": {
@@ -776,6 +779,12 @@
     "inidramaku.com": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "inidramaku.net": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "inonton.com": {
@@ -1164,8 +1173,9 @@
         "state": "future"
     },
     "meownime.my.id": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "mikanime.com": {
