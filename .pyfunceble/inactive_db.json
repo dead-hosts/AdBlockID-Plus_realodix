@@ -259,6 +259,13 @@
             "last_retested_at_iso": "2020-09-27T16:40:48.699229",
             "status": "ACTIVE"
         },
+        "anichin.my.id": {
+            "included_at_epoch": 1601311345.507986,
+            "included_at_iso": "2020-09-28T16:42:25.507986",
+            "last_retested_at_epoch": 1601311345.531564,
+            "last_retested_at_iso": "2020-09-28T16:42:25.531564",
+            "status": "ACTIVE"
+        },
         "anime-indo.id": {
             "included_at_epoch": 1601052011.811113,
             "included_at_iso": "2020-09-25T16:40:11.811113",
