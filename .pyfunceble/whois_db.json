@@ -202,13 +202,15 @@
         "state": "future"
     },
     "bacakomik.co": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "bandarmovie21.com": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bebasdownloadfilm.com": {
@@ -760,8 +762,9 @@
         "state": "future"
     },
     "igniel.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ilmumemikatwanita.com": {
@@ -965,8 +968,9 @@
         "state": "future"
     },
     "kotaksilver.casa": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.nic.casa",
         "state": "future"
     },
     "kshowsubindo.org": {
@@ -1503,8 +1507,9 @@
         "state": "future"
     },
     "sektekomik.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "semawur.com": {
