@@ -148,10 +148,10 @@
             "status": "ACTIVE"
         },
         "204.48.22.58": {
-            "included_at_epoch": 1599669060.859268,
-            "included_at_iso": "2020-09-09T16:31:00.859268",
-            "last_retested_at_epoch": 1602003333.247545,
-            "last_retested_at_iso": "2020-10-06T16:55:33.247545",
+            "included_at_epoch": 1602089407.589576,
+            "included_at_iso": "2020-10-07T16:50:07.589576",
+            "last_retested_at_epoch": 1602089407.598832,
+            "last_retested_at_iso": "2020-10-07T16:50:07.598832",
             "status": "INACTIVE"
         },
         "206.189.151.55": {
