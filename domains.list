@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.276.283
+! Version: 20.283.441
 ! Title: AdBlockID Plus
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 02 Oct 2020 04:43 UTC
+! Last modified: 09 Oct 2020 07:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -162,7 +162,7 @@ komiku.co.id#@##banner_ad
 103.194.171.75,idtube.me##.overlay
 ! 
 indoxx1.asia,lk21.dev###banner-tengah
-206.189.151.55,narashika.cc,netnot21.com###btm_banner
+206.189.151.55,clampschoolholic.com,narashika.cc,netnot21.com###btm_banner
 anichin.my.id,mangasusu.us###close-teaser
 oploverz.in###content [id*="ScriptRoot" i]
 bandarmovie21.com,inonton.com###fadeinbox
@@ -171,8 +171,8 @@ bandarmovie21.com,inonton.com###fadeinbox
 207.180.252.218,lk21tv.com###fbbanner
 206.189.151.55###ffbp
 anime-indo.id,drakorindofilms.tv,giladrakor.com,inidramaku.com,kingdrakor.com###fixedban
-bioskopkerenin.club,bioskopkerenin.link,bioskopkerenin.org,cinemaindo.watch,d21.top,ditonton.com,dunia21.download,filmapik.link,filmindo.stream,filmindo.vip,ganool.world,ganool21.watch,khaanflix.org,movieon21.onl,movies21.link,movies21.stream,nontonfilm.vip,nontonfilm.watch,ns21.click,onestopmovie.com,terbit21.cool,terbit21.fun,terbit21.show###float-banner
-movieajip.com###float-bottom-banner
+bioskopkerenin.club,bioskopkerenin.link,bioskopkerenin.org,cinemaindo.watch,d21.top,ditonton.com,dunia21.download,filmapik.link,filmindo.stream,filmindo.vip,ganool.world,ganool21.link,ganool21.watch,khaanflix.org,movieon21.onl,movies21.link,movies21.stream,nontonfilm.vip,nontonfilm.watch,ns21.click,onestopmovie.com,terbit21.cool,terbit21.fun,terbit21.show###float-banner
+ganool21.link,movieajip.com###float-bottom-banner
 21filem.co###floatbannerkanan
 21filem.co###floatbannerkiri
 lk21.london###floatbot
@@ -188,16 +188,16 @@ mangaku.pro###ftadsth
 kiminime.com###iklan
 anoboy.best###judi2
 animelu.com###mg-player-bar
-bioskopkerenin.org,movies21.stream,terbit21.fun###middle-banner
+bioskopkerenin.org,movies21.stream,terbit21.cool,terbit21.fun###middle-banner
 ahanime.com###overplay
 207.180.252.218,lk21tv.com###pbanner
 topfilm21.com###pop-tengah
-bioskopkerenin.org,movies21.link,movies21.stream,terbit21.cool,terbit21.fun###ptbanner
+bioskopkerenin.org,ganool21.link,movies21.link,movies21.stream,terbit21.cool,terbit21.fun###ptbanner
 blackavelic.com###teaser2
 142.4.222.52,95.216.163.177,awsubs.co,blackavelic.com,layarkaca21.my.id###teaser3
 172.96.189.133,gudangfilm.club,gudangfilm.website,lk21.london,lk21c.fun,nobarfilm21.top###tengah
 gudangfilm.club,nobarfilm21.top###tengahaa
-bioskopkerenin.org,filmindo.vip,movies21.link,nontonfilm.vip,terbit21.fun###top-banner
+bioskopkerenin.org,filmindo.vip,movies21.link,nontonfilm.vip,terbit21.cool,terbit21.fun###top-banner
 bioskop.red###top-banner-content
 dramafilm21.com###topbar
 animekompi.web.id,mmsubs.com##.addads
@@ -254,25 +254,26 @@ movie-xx1.com##+js(aopr, document.querySelectorAll, popMagic)
 ! 
 111.90.142.151,detikxxi.com###divpopup
 bioskop212.com,bioskop55.online###fanback
+206.189.151.55###ffbp
 jagoanime.com,meownime.my.id###hbfanback
 dwa21.org###main-popup
-terbit21.cool###middle-banner
 103.194.171.183,103.194.171.205,149.3.170.35,185.63.253.33,cafecinema.vip,dramamu.net,dramaserial.best,dramaserial.club,dramaserial.fun,geraifilm.com,jfnonton.com,juraganfilm.casa,juraganfilm.mobi,nontonfilmdrama.net###netkevin-overlay
 103.194.171.183,103.194.171.205,149.3.170.35,185.63.253.33,cafecinema.vip,dramamu.net,dramaserial.best,dramaserial.club,dramaserial.fun,geraifilm.com,jfnonton.com,juraganfilm.casa,juraganfilm.mobi,nontonfilmdrama.net###netkevin-popup
 149.56.24.226###overlay-pop
 awsubs.co###overplay
 193.164.131.42,204.48.22.58,gabut.net,indxxi.vip###popup
-terbit21.cool###top-banner
 movieindoxxi.site###wpb_overlay
 drakoric.com##.afc_popup
 kordramass.com,kshowsubindo.org##.blocker
 giladrakor.com,inidramaku.com,kingdrakor.com,layarkeren.site##.cm-popup-modal
+melongfilm.org##.ipprtcnt
 bos21.bar##.jquery-modal
 lk21.london##.ml-announce
 narashika.cc##.popbox
 drakoric.com,drakorindo.fun##.sg-popup-content
 drakoric.com,drakorindo.fun##.sgpb-popup-overlay
 111.90.150.31,178.128.82.236,185.224.130.67,193.164.131.42,204.48.22.58,cinemaday.org,indxxi.vip##.swal-overlay
+206.189.151.55##.tvtubeads
 213.166.69.166,movieindoxxi.co,rumahdrama.com##.wpb-outer-wrap
 ! 
 dutafilm.*##.swal-overlay
@@ -489,4 +490,4 @@ droidtamvan.me,movienear.me,onlinecorp.me,sekilastekno.com##img[width="200"][hei
 /skips.png$image,domain=semawur.com
 ||safeku.com/uploads/getlink.jpg$image
 ||semawur.com/o.png$image
-! Checksum: SwjjaWXXMI5lC28dbokenA
+! Checksum: cK3je4ap3Zqf7+ESxXUIWA

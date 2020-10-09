@@ -637,6 +637,13 @@
             "last_retested_at_iso": "2020-10-08T16:51:40.490108",
             "status": "ACTIVE"
         },
+        "clampschoolholic.com": {
+            "included_at_epoch": 1602261995.494187,
+            "included_at_iso": "2020-10-09T16:46:35.494187",
+            "last_retested_at_epoch": 1602261995.494187,
+            "last_retested_at_iso": "2020-10-09T16:46:35.494187",
+            "status": "ACTIVE"
+        },
         "clkme.me": {
             "included_at_epoch": 1601052013.125328,
             "included_at_iso": "2020-09-25T16:40:13.125328",
@@ -992,6 +999,13 @@
             "included_at_iso": "2020-09-25T16:40:11.836548",
             "last_retested_at_epoch": 1602175898.997297,
             "last_retested_at_iso": "2020-10-08T16:51:38.997297",
+            "status": "ACTIVE"
+        },
+        "ganool21.link": {
+            "included_at_epoch": 1602261995.508573,
+            "included_at_iso": "2020-10-09T16:46:35.508573",
+            "last_retested_at_epoch": 1602261995.527075,
+            "last_retested_at_iso": "2020-10-09T16:46:35.527075",
             "status": "ACTIVE"
         },
         "ganool21.watch": {
@@ -1671,6 +1685,13 @@
             "included_at_iso": "2020-09-25T16:40:11.658160",
             "last_retested_at_epoch": 1602175898.623036,
             "last_retested_at_iso": "2020-10-08T16:51:38.623036",
+            "status": "ACTIVE"
+        },
+        "melongfilm.org": {
+            "included_at_epoch": 1602261995.536298,
+            "included_at_iso": "2020-10-09T16:46:35.536298",
+            "last_retested_at_epoch": 1602261995.536298,
+            "last_retested_at_iso": "2020-10-09T16:46:35.536298",
             "status": "ACTIVE"
         },
         "meownime.my.id": {
