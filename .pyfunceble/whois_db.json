@@ -462,8 +462,9 @@
         "state": "future"
     },
     "dorama.asia": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.nic.asia",
         "state": "future"
     },
     "doramaindo.id": {
@@ -703,8 +704,9 @@
         "state": "future"
     },
     "giladrakor.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gomunime.com": {
@@ -883,8 +885,9 @@
         "state": "future"
     },
     "kantaii.web.id": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1665446400.0,
+        "expiration_date": "11-oct-2022",
+        "server": "whois.id",
         "state": "future"
     },
     "kapanlagi.com": {
@@ -936,7 +939,8 @@
     "klikfilm.stream": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
-        "state": "future"
+        "server": "whois.nic.stream",
+        "state": "past"
     },
     "kolompc.com": {
         "epoch": 1607212800.0,
@@ -1023,8 +1027,9 @@
         "state": "future"
     },
     "layarkaca21.my.id": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "layarkaca21indo.com": {
@@ -1074,8 +1079,9 @@
         "state": "future"
     },
     "lewat.club": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.nic.club",
         "state": "future"
     },
     "liputan6.com": {
