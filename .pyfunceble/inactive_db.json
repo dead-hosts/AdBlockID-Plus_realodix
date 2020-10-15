@@ -64,10 +64,10 @@
             "status": "ACTIVE"
         },
         "149.3.170.35": {
-            "included_at_epoch": 1600360560.357367,
-            "included_at_iso": "2020-09-17T16:36:00.357367",
-            "last_retested_at_epoch": 1602608223.186892,
-            "last_retested_at_iso": "2020-10-13T16:57:03.186892",
+            "included_at_epoch": 1602780825.569988,
+            "included_at_iso": "2020-10-15T16:53:45.569988",
+            "last_retested_at_epoch": 1602780825.576548,
+            "last_retested_at_iso": "2020-10-15T16:53:45.576548",
             "status": "INACTIVE"
         },
         "149.56.24.226": {
@@ -1428,6 +1428,13 @@
             "last_retested_at_iso": "2020-10-13T16:57:01.846204",
             "status": "ACTIVE"
         },
+        "kurofansubs.xyz": {
+            "included_at_epoch": 1602780825.582144,
+            "included_at_iso": "2020-10-15T16:53:45.582144",
+            "last_retested_at_epoch": 1602780825.582144,
+            "last_retested_at_iso": "2020-10-15T16:53:45.582144",
+            "status": "ACTIVE"
+        },
         "kuyhaa-me.com": {
             "included_at_epoch": 1601052011.656255,
             "included_at_iso": "2020-09-25T16:40:11.656255",
@@ -1513,10 +1520,10 @@
             "status": "ACTIVE"
         },
         "lewat.tautan.pro": {
-            "included_at_epoch": 1600274095.338599,
-            "included_at_iso": "2020-09-16T16:34:55.338599",
-            "last_retested_at_epoch": 1602608224.266335,
-            "last_retested_at_iso": "2020-10-13T16:57:04.266335",
+            "included_at_epoch": 1602780825.591695,
+            "included_at_iso": "2020-10-15T16:53:45.591695",
+            "last_retested_at_epoch": 1602780825.591695,
+            "last_retested_at_iso": "2020-10-15T16:53:45.591695",
             "status": "INACTIVE"
         },
         "liputan6.com": {

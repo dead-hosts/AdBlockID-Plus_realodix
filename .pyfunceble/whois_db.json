@@ -1005,6 +1005,12 @@
         "server": "whois.pir.org",
         "state": "future"
     },
+    "kurofansubs.xyz": {
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "kuyhaa-me.com": {
         "epoch": 1625443200.0,
         "expiration_date": "05-jul-2021",
