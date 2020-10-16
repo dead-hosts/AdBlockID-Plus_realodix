@@ -917,6 +917,13 @@
             "last_retested_at_iso": "2020-10-13T16:57:02.900976",
             "status": "ACTIVE"
         },
+        "fedaro.me": {
+            "included_at_epoch": 1602867230.34983,
+            "included_at_iso": "2020-10-16T16:53:50.349830",
+            "last_retested_at_epoch": 1602867230.360113,
+            "last_retested_at_iso": "2020-10-16T16:53:50.360113",
+            "status": "ACTIVE"
+        },
         "festyy.com": {
             "included_at_epoch": 1601052013.160511,
             "included_at_iso": "2020-09-25T16:40:13.160511",
@@ -1525,6 +1532,13 @@
             "last_retested_at_epoch": 1602780825.591695,
             "last_retested_at_iso": "2020-10-15T16:53:45.591695",
             "status": "INACTIVE"
+        },
+        "link.kangapip.com": {
+            "included_at_epoch": 1602867230.369282,
+            "included_at_iso": "2020-10-16T16:53:50.369282",
+            "last_retested_at_epoch": 1602867230.369282,
+            "last_retested_at_iso": "2020-10-16T16:53:50.369282",
+            "status": "ACTIVE"
         },
         "liputan6.com": {
             "included_at_epoch": 1601052011.594118,

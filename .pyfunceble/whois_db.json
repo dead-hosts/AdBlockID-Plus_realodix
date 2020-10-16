@@ -591,6 +591,12 @@
         "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
+    "fedaro.me": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "server": "whois.nic.me",
+        "state": "future"
+    },
     "festyy.com": {
         "epoch": 1620172800.0,
         "expiration_date": "05-may-2021",
