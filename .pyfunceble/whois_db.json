@@ -1722,10 +1722,10 @@
         "state": "future"
     },
     "viid.me": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
         "server": "whois.nic.me",
-        "state": "past"
+        "state": "future"
     },
     "webkeren.net": {
         "epoch": 1617840000.0,
