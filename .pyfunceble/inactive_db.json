@@ -1393,6 +1393,13 @@
             "last_retested_at_iso": "2020-10-19T16:59:49.380307",
             "status": "ACTIVE"
         },
+        "kompaslampung.com": {
+            "included_at_epoch": 1603213074.452794,
+            "included_at_iso": "2020-10-20T16:57:54.452794",
+            "last_retested_at_epoch": 1603213074.452794,
+            "last_retested_at_iso": "2020-10-20T16:57:54.452794",
+            "status": "ACTIVE"
+        },
         "kordramass.com": {
             "included_at_epoch": 1601052012.644677,
             "included_at_iso": "2020-09-25T16:40:12.644677",

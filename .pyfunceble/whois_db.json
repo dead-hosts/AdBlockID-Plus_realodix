@@ -979,6 +979,12 @@
         "expiration_date": "15-aug-2021",
         "state": "future"
     },
+    "kompaslampung.com": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "kordramass.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
