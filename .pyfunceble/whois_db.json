@@ -1501,8 +1501,9 @@
         "state": "future"
     },
     "psikologicinta.com": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pspidjovisdv2.club": {
