@@ -85,10 +85,10 @@
             "status": "ACTIVE"
         },
         "178.128.82.236": {
-            "included_at_epoch": 1601138282.706273,
-            "included_at_iso": "2020-09-26T16:38:02.706273",
-            "last_retested_at_epoch": 1603392062.78445,
-            "last_retested_at_iso": "2020-10-22T18:41:02.784450",
+            "included_at_epoch": 1603558651.506098,
+            "included_at_iso": "2020-10-24T16:57:31.506098",
+            "last_retested_at_epoch": 1603558651.506098,
+            "last_retested_at_iso": "2020-10-24T16:57:31.506098",
             "status": "INACTIVE"
         },
         "185.217.95.238": {
@@ -113,10 +113,10 @@
             "status": "INACTIVE"
         },
         "185.63.253.33": {
-            "included_at_epoch": 1601138282.691807,
-            "included_at_iso": "2020-09-26T16:38:02.691807",
-            "last_retested_at_epoch": 1603392062.579998,
-            "last_retested_at_iso": "2020-10-22T18:41:02.579998",
+            "included_at_epoch": 1603558651.492868,
+            "included_at_iso": "2020-10-24T16:57:31.492868",
+            "last_retested_at_epoch": 1603558651.49994,
+            "last_retested_at_iso": "2020-10-24T16:57:31.499940",
             "status": "INACTIVE"
         },
         "193.164.131.42": {
