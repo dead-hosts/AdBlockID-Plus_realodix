@@ -441,13 +441,6 @@
             "last_retested_at_iso": "2020-10-23T17:53:42.350177",
             "status": "ACTIVE"
         },
-        "bioskop.red": {
-            "included_at_epoch": 1601570908.616921,
-            "included_at_iso": "2020-10-01T16:48:28.616921",
-            "last_retested_at_epoch": 1603392061.941751,
-            "last_retested_at_iso": "2020-10-22T18:41:01.941751",
-            "status": "ACTIVE"
-        },
         "bioskop021.com": {
             "included_at_epoch": 1603475622.040432,
             "included_at_iso": "2020-10-23T17:53:42.040432",
@@ -1078,13 +1071,6 @@
             "last_retested_at_iso": "2020-10-23T17:53:42.232831",
             "status": "ACTIVE"
         },
-        "gudangfilm.website": {
-            "included_at_epoch": 1601570908.603482,
-            "included_at_iso": "2020-10-01T16:48:28.603482",
-            "last_retested_at_epoch": 1603392061.871962,
-            "last_retested_at_iso": "2020-10-22T18:41:01.871962",
-            "status": "ACTIVE"
-        },
         "gudangfilm21.com": {
             "included_at_epoch": 1603475622.792444,
             "included_at_iso": "2020-10-23T17:53:42.792444",
@@ -1489,13 +1475,6 @@
             "included_at_iso": "2020-10-23T17:53:42.826333",
             "last_retested_at_epoch": 1603475622.826333,
             "last_retested_at_iso": "2020-10-23T17:53:42.826333",
-            "status": "ACTIVE"
-        },
-        "layarkeren.site": {
-            "included_at_epoch": 1601570908.62626,
-            "included_at_iso": "2020-10-01T16:48:28.626260",
-            "last_retested_at_epoch": 1603392062.736036,
-            "last_retested_at_iso": "2020-10-22T18:41:02.736036",
             "status": "ACTIVE"
         },
         "layarlebar.co": {
