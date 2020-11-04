@@ -140,13 +140,6 @@
             "last_retested_at_iso": "2020-10-23T17:53:43.091211",
             "status": "ACTIVE"
         },
-        "204.48.22.58": {
-            "included_at_epoch": 1602089407.589576,
-            "included_at_iso": "2020-10-07T16:50:07.589576",
-            "last_retested_at_epoch": 1603392062.790575,
-            "last_retested_at_iso": "2020-10-22T18:41:02.790575",
-            "status": "INACTIVE"
-        },
         "206.189.151.55": {
             "included_at_epoch": 1602434711.824913,
             "included_at_iso": "2020-10-11T16:45:11.824913",
