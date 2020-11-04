@@ -1,5 +1,5 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {
         "adblock": true
     },
@@ -16,7 +16,7 @@
     "name": "AdBlockID-Plus_realodix",
     "own_management": false,
     "ping": [],
-    "raw_link": "https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid-plus.txt",
+    "raw_link": "https://github.com/realodix/AdBlockID/raw/master/output/adblockid.txt",
     "start_datetime": "2020-11-04T17:47:38.546526",
     "start_timestamp": 1604512058.546526
 }
