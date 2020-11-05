@@ -227,6 +227,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "advertising-indonesia.id": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
     "agansultan.co": {
         "epoch": 1624665600.0,
         "expiration_date": "26-jun-2021",
@@ -285,10 +291,10 @@
         "state": "future"
     },
     "aimaniape.club": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
         "server": "whois.nic.club",
-        "state": "past"
+        "state": "future"
     },
     "airartapt.site": {
         "epoch": 1632873600.0,
@@ -375,6 +381,12 @@
         "epoch": 1626566400.0,
         "expiration_date": "18-jul-2021",
         "server": "whois.nic.club",
+        "state": "future"
+    },
+    "alona.co.id": {
+        "epoch": 1645920000.0,
+        "expiration_date": "27-feb-2022",
+        "server": "whois.id",
         "state": "future"
     },
     "amaumomt.com": {
@@ -678,10 +690,10 @@
         "state": "future"
     },
     "armaimapt.club": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
         "server": "whois.nic.club",
-        "state": "past"
+        "state": "future"
     },
     "armashair.site": {
         "epoch": 1633305600.0,
@@ -3216,6 +3228,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "indoads.xyz": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "indobikermags.com": {
         "epoch": 1623369600.0,
         "expiration_date": "11-jun-2021",
@@ -3436,6 +3454,12 @@
         "epoch": 1618012800.0,
         "expiration_date": "10-apr-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "itteholm.site": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "ivideosmart.com": {
