@@ -6399,10 +6399,10 @@
             "status": "INVALID"
         },
         "clampschoolholic.com": {
-            "included_at_epoch": 1602261995.494187,
-            "included_at_iso": "2020-10-09T16:46:35.494187",
-            "last_retested_at_epoch": 1603392061.207857,
-            "last_retested_at_iso": "2020-10-22T18:41:01.207857",
+            "included_at_epoch": 1604684530.438521,
+            "included_at_iso": "2020-11-06T17:42:10.438521",
+            "last_retested_at_epoch": 1604684530.438521,
+            "last_retested_at_iso": "2020-11-06T17:42:10.438521",
             "status": "ACTIVE"
         },
         "clc.la": {
@@ -8695,10 +8695,10 @@
             "status": "ACTIVE"
         },
         "ganool21.link": {
-            "included_at_epoch": 1602261995.508573,
-            "included_at_iso": "2020-10-09T16:46:35.508573",
-            "last_retested_at_epoch": 1603392061.795331,
-            "last_retested_at_iso": "2020-10-22T18:41:01.795331",
+            "included_at_epoch": 1604684530.50286,
+            "included_at_iso": "2020-11-06T17:42:10.502860",
+            "last_retested_at_epoch": 1604684530.595931,
+            "last_retested_at_iso": "2020-11-06T17:42:10.595931",
             "status": "ACTIVE"
         },
         "ganool21.watch": {
@@ -13959,10 +13959,10 @@
             "status": "INVALID"
         },
         "melongfilm.org": {
-            "included_at_epoch": 1602261995.536298,
-            "included_at_iso": "2020-10-09T16:46:35.536298",
-            "last_retested_at_epoch": 1603392062.344233,
-            "last_retested_at_iso": "2020-10-22T18:41:02.344233",
+            "included_at_epoch": 1604684530.642053,
+            "included_at_iso": "2020-11-06T17:42:10.642053",
+            "last_retested_at_epoch": 1604684530.642053,
+            "last_retested_at_iso": "2020-11-06T17:42:10.642053",
             "status": "ACTIVE"
         },
         "membertoto.": {
