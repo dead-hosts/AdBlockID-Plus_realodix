@@ -1156,10 +1156,10 @@
             "status": "ACTIVE"
         },
         "185.63.253.247": {
-            "included_at_epoch": 1602348290.617879,
-            "included_at_iso": "2020-10-10T16:44:50.617879",
-            "last_retested_at_epoch": 1603392062.8318,
-            "last_retested_at_iso": "2020-10-22T18:41:02.831800",
+            "included_at_epoch": 1604768410.164909,
+            "included_at_iso": "2020-11-07T17:00:10.164909",
+            "last_retested_at_epoch": 1604768410.273228,
+            "last_retested_at_iso": "2020-11-07T17:00:10.273228",
             "status": "INACTIVE"
         },
         "185.63.253.33": {
