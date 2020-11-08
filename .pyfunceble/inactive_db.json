@@ -225,10 +225,10 @@
             "status": "ACTIVE"
         },
         "111.90.142.151": {
-            "included_at_epoch": 1602434711.85643,
-            "included_at_iso": "2020-10-11T16:45:11.856430",
-            "last_retested_at_epoch": 1603392062.429234,
-            "last_retested_at_iso": "2020-10-22T18:41:02.429234",
+            "included_at_epoch": 1604858152.326781,
+            "included_at_iso": "2020-11-08T17:55:52.326781",
+            "last_retested_at_epoch": 1604858152.326781,
+            "last_retested_at_iso": "2020-11-08T17:55:52.326781",
             "status": "INACTIVE"
         },
         "111.90.150.31": {
@@ -1247,10 +1247,10 @@
             "status": "INACTIVE"
         },
         "198.204.248.230": {
-            "included_at_epoch": 1602434711.845208,
-            "included_at_iso": "2020-10-11T16:45:11.845208",
-            "last_retested_at_epoch": 1603392062.272979,
-            "last_retested_at_iso": "2020-10-22T18:41:02.272979",
+            "included_at_epoch": 1604858152.236606,
+            "included_at_iso": "2020-11-08T17:55:52.236606",
+            "last_retested_at_epoch": 1604858152.236606,
+            "last_retested_at_iso": "2020-11-08T17:55:52.236606",
             "status": "INACTIVE"
         },
         "198.54.112.38": {
@@ -1667,10 +1667,10 @@
             "status": "INACTIVE"
         },
         "206.189.151.55": {
-            "included_at_epoch": 1602434711.824913,
-            "included_at_iso": "2020-10-11T16:45:11.824913",
-            "last_retested_at_epoch": 1603392062.825816,
-            "last_retested_at_iso": "2020-10-22T18:41:02.825816",
+            "included_at_epoch": 1604858152.099638,
+            "included_at_iso": "2020-11-08T17:55:52.099638",
+            "last_retested_at_epoch": 1604858152.372444,
+            "last_retested_at_iso": "2020-11-08T17:55:52.372444",
             "status": "INACTIVE"
         },
         "206.189.175.126": {
@@ -1751,10 +1751,10 @@
             "status": "INACTIVE"
         },
         "209.97.170.87": {
-            "included_at_epoch": 1602434711.834022,
-            "included_at_iso": "2020-10-11T16:45:11.834022",
-            "last_retested_at_epoch": 1603392062.26121,
-            "last_retested_at_iso": "2020-10-22T18:41:02.261210",
+            "included_at_epoch": 1604858152.191724,
+            "included_at_iso": "2020-11-08T17:55:52.191724",
+            "last_retested_at_epoch": 1604858152.191724,
+            "last_retested_at_iso": "2020-11-08T17:55:52.191724",
             "status": "INACTIVE"
         },
         "209.97.174.116": {
@@ -14924,6 +14924,13 @@
             "last_retested_at_iso": "2020-11-05T18:21:56.600565",
             "status": "ACTIVE"
         },
+        "nezunime.com": {
+            "included_at_epoch": 1604858152.418855,
+            "included_at_iso": "2020-11-08T17:55:52.418855",
+            "last_retested_at_epoch": 1604858152.418855,
+            "last_retested_at_iso": "2020-11-08T17:55:52.418855",
+            "status": "ACTIVE"
+        },
         "ngopibareng.id": {
             "included_at_epoch": 1604526087.486323,
             "included_at_iso": "2020-11-04T21:41:27.486323",
@@ -15470,6 +15477,13 @@
             "last_retested_at_iso": "2020-11-05T18:22:11.508959",
             "status": "ACTIVE"
         },
+        "onsafelink.com": {
+            "included_at_epoch": 1604858152.54038,
+            "included_at_iso": "2020-11-08T17:55:52.540380",
+            "last_retested_at_epoch": 1604858152.54038,
+            "last_retested_at_iso": "2020-11-08T17:55:52.540380",
+            "status": "ACTIVE"
+        },
         "onwayaha.com": {
             "included_at_epoch": 1604526013.562914,
             "included_at_iso": "2020-11-04T21:40:13.562914",
@@ -15910,6 +15924,13 @@
             "last_retested_at_epoch": 1604600580.909746,
             "last_retested_at_iso": "2020-11-05T18:23:00.909746",
             "status": "INVALID"
+        },
+        "partyhomedecor.com": {
+            "included_at_epoch": 1604858152.486209,
+            "included_at_iso": "2020-11-08T17:55:52.486209",
+            "last_retested_at_epoch": 1604858152.486209,
+            "last_retested_at_iso": "2020-11-08T17:55:52.486209",
+            "status": "ACTIVE"
         },
         "pasangiklan.com": {
             "included_at_epoch": 1604526012.366619,
