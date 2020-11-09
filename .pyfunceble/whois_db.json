@@ -122,6 +122,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "absolutesmmpanel.com": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "accesstrade.co.id": {
         "epoch": 1629936000.0,
         "expiration_date": "26-aug-2021",
@@ -3450,6 +3456,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "itcjaya.com": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "itsafelink.com": {
         "epoch": 1618012800.0,
         "expiration_date": "10-apr-2021",
@@ -4687,6 +4699,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "luangusaha.com": {
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "lyehemarm.club": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -5690,6 +5708,12 @@
         "epoch": 1632009600.0,
         "expiration_date": "19-sep-2021",
         "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "oregonwave.org": {
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "otakotaku.com": {
@@ -6792,6 +6816,12 @@
         "server": "whois.id",
         "state": "future"
     },
+    "sgamepro.com": {
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "sh.st": {
         "epoch": 1625097600.0,
         "expiration_date": "01-jul-2021",
@@ -7010,9 +7040,21 @@
         "server": "whois.nic.space",
         "state": "future"
     },
+    "starchfoundation.org": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "steffifauziah.com": {
         "epoch": 1628812800.0,
         "expiration_date": "13-aug-2021",
+        "state": "future"
+    },
+    "stevendonziger.com": {
+        "epoch": 1633564800.0,
+        "expiration_date": "07-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "stfly.io": {

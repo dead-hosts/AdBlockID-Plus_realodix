@@ -1610,6 +1610,13 @@
             "last_retested_at_iso": "2020-11-05T18:23:26.838089",
             "status": "INACTIVE"
         },
+        "202.95.10.169": {
+            "included_at_epoch": 1604948064.400328,
+            "included_at_iso": "2020-11-09T18:54:24.400328",
+            "last_retested_at_epoch": 1604948064.400328,
+            "last_retested_at_iso": "2020-11-09T18:54:24.400328",
+            "status": "INACTIVE"
+        },
         "202.95.10.183": {
             "included_at_epoch": 1604526054.342574,
             "included_at_iso": "2020-11-04T21:40:54.342574",
@@ -1804,6 +1811,13 @@
             "included_at_iso": "2020-11-04T21:40:55.132802",
             "last_retested_at_epoch": 1604526055.132802,
             "last_retested_at_iso": "2020-11-04T21:40:55.132802",
+            "status": "INACTIVE"
+        },
+        "216.83.47.121": {
+            "included_at_epoch": 1604948064.444963,
+            "included_at_iso": "2020-11-09T18:54:24.444963",
+            "last_retested_at_epoch": 1604948064.444963,
+            "last_retested_at_iso": "2020-11-09T18:54:24.444963",
             "status": "INACTIVE"
         },
         "216.83.47.150": {
@@ -2618,6 +2632,13 @@
             "last_retested_at_iso": "2020-11-04T21:40:57.761777",
             "status": "INACTIVE"
         },
+        "94.176.236.16": {
+            "included_at_epoch": 1604948064.490499,
+            "included_at_iso": "2020-11-09T18:54:24.490499",
+            "last_retested_at_epoch": 1604948064.490499,
+            "last_retested_at_iso": "2020-11-09T18:54:24.490499",
+            "status": "INACTIVE"
+        },
         "94.237.65.107": {
             "included_at_epoch": 1604526057.726201,
             "included_at_iso": "2020-11-04T21:40:57.726201",
@@ -2771,6 +2792,13 @@
             "last_retested_at_epoch": 1604600543.844854,
             "last_retested_at_iso": "2020-11-05T18:22:23.844854",
             "status": "INVALID"
+        },
+        "absolutesmmpanel.com": {
+            "included_at_epoch": 1604948064.908987,
+            "included_at_iso": "2020-11-09T18:54:24.908987",
+            "last_retested_at_epoch": 1604948064.908987,
+            "last_retested_at_iso": "2020-11-09T18:54:24.908987",
+            "status": "ACTIVE"
         },
         "accesstrade.co.id": {
             "included_at_epoch": 1604526011.762815,
@@ -10731,6 +10759,13 @@
             "last_retested_at_iso": "2020-11-04T21:41:01.476761",
             "status": "ACTIVE"
         },
+        "itcjaya.com": {
+            "included_at_epoch": 1604948064.535744,
+            "included_at_iso": "2020-11-09T18:54:24.535744",
+            "last_retested_at_epoch": 1604948064.535744,
+            "last_retested_at_iso": "2020-11-09T18:54:24.535744",
+            "status": "ACTIVE"
+        },
         "itsafelink.com": {
             "included_at_epoch": 1604528780.521404,
             "included_at_iso": "2020-11-04T22:26:20.521404",
@@ -13139,6 +13174,13 @@
             "last_retested_at_iso": "2020-11-05T18:22:52.832026",
             "status": "INVALID"
         },
+        "luangusaha.com": {
+            "included_at_epoch": 1604948064.814118,
+            "included_at_iso": "2020-11-09T18:54:24.814118",
+            "last_retested_at_epoch": 1604948064.966923,
+            "last_retested_at_iso": "2020-11-09T18:54:24.966923",
+            "status": "ACTIVE"
+        },
         "luckyacepoker.": {
             "included_at_epoch": 1604526032.956887,
             "included_at_iso": "2020-11-04T21:40:32.956887",
@@ -15533,6 +15575,13 @@
             "last_retested_at_iso": "2020-11-05T18:23:00.096771",
             "status": "INVALID"
         },
+        "oregonwave.org": {
+            "included_at_epoch": 1604948064.593927,
+            "included_at_iso": "2020-11-09T18:54:24.593927",
+            "last_retested_at_epoch": 1604948064.593927,
+            "last_retested_at_iso": "2020-11-09T18:54:24.593927",
+            "status": "ACTIVE"
+        },
         "orientalpoker.": {
             "included_at_epoch": 1604526037.033673,
             "included_at_iso": "2020-11-04T21:40:37.033673",
@@ -15713,6 +15762,13 @@
             "included_at_iso": "2020-11-04T21:40:11.705066",
             "last_retested_at_epoch": 1604600513.733085,
             "last_retested_at_iso": "2020-11-05T18:21:53.733085",
+            "status": "ACTIVE"
+        },
+        "pagead2.googlesyndication.com": {
+            "included_at_epoch": 1604948064.867911,
+            "included_at_iso": "2020-11-09T18:54:24.867911",
+            "last_retested_at_epoch": 1604948064.867911,
+            "last_retested_at_iso": "2020-11-09T18:54:24.867911",
             "status": "ACTIVE"
         },
         "paitowarnahk6d.com": {
@@ -18354,6 +18410,13 @@
             "last_retested_at_iso": "2020-11-05T18:23:08.906284",
             "status": "INVALID"
         },
+        "sgamepro.com": {
+            "included_at_epoch": 1604948064.650865,
+            "included_at_iso": "2020-11-09T18:54:24.650865",
+            "last_retested_at_epoch": 1604948064.650865,
+            "last_retested_at_iso": "2020-11-09T18:54:24.650865",
+            "status": "ACTIVE"
+        },
         "sgopoker.": {
             "included_at_epoch": 1604526042.160718,
             "included_at_iso": "2020-11-04T21:40:42.160718",
@@ -18858,6 +18921,13 @@
             "last_retested_at_iso": "2020-11-05T18:23:10.321013",
             "status": "INVALID"
         },
+        "starchfoundation.org": {
+            "included_at_epoch": 1604948064.760192,
+            "included_at_iso": "2020-11-09T18:54:24.760192",
+            "last_retested_at_epoch": 1604948064.760192,
+            "last_retested_at_iso": "2020-11-09T18:54:24.760192",
+            "status": "ACTIVE"
+        },
         "stardomino.": {
             "included_at_epoch": 1604526043.077228,
             "included_at_iso": "2020-11-04T21:40:43.077228",
@@ -18884,6 +18954,13 @@
             "included_at_iso": "2020-10-23T17:53:41.768365",
             "last_retested_at_epoch": 1603475621.768365,
             "last_retested_at_iso": "2020-10-23T17:53:41.768365",
+            "status": "ACTIVE"
+        },
+        "stevendonziger.com": {
+            "included_at_epoch": 1604948064.705518,
+            "included_at_iso": "2020-11-09T18:54:24.705518",
+            "last_retested_at_epoch": 1604948064.705518,
+            "last_retested_at_iso": "2020-11-09T18:54:24.705518",
             "status": "ACTIVE"
         },
         "stfly.io": {
