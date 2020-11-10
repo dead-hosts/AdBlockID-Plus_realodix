@@ -625,8 +625,8 @@
         "state": "future"
     },
     "aptantasp.site": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
         "server": "whois.nic.site",
         "state": "future"
     },
@@ -969,6 +969,12 @@
         "server": "whois.nic.vip",
         "state": "future"
     },
+    "bantengmerah.id": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
     "bantenkini.com": {
         "epoch": 1613779200.0,
         "expiration_date": "20-feb-2021",
@@ -1159,6 +1165,12 @@
         "expiration_date": "07-jan-2021",
         "state": "future"
     },
+    "betflix.id": {
+        "epoch": 1697068800.0,
+        "expiration_date": "12-oct-2023",
+        "server": "whois.id",
+        "state": "future"
+    },
     "bigfish22.com": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
@@ -1274,8 +1286,9 @@
         "state": "future"
     },
     "blackavelic.com": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "blockchainmedia.id": {
@@ -1339,10 +1352,10 @@
         "state": "future"
     },
     "bolaa3m.com": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "bolagalaxy.org": {
         "epoch": 1616025600.0,
@@ -1396,14 +1409,14 @@
         "state": "future"
     },
     "boyaidare.club": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
         "server": "whois.nic.club",
         "state": "future"
     },
     "boyalebut.site": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
         "server": "whois.nic.site",
         "state": "future"
     },
@@ -1613,6 +1626,12 @@
         "epoch": 1630454400.0,
         "expiration_date": "01-sep-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "clc.la": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "server": "whois.nic.la",
         "state": "future"
     },
     "cli.re": {
@@ -2021,8 +2040,9 @@
         "state": "future"
     },
     "doramaku.me": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "doramaku.org": {
@@ -2066,8 +2086,9 @@
         "state": "future"
     },
     "drakorindo.fun": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.nic.fun",
         "state": "future"
     },
     "drakorindofilms.net": {
@@ -2847,8 +2868,9 @@
         "state": "future"
     },
     "hakanime.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hallhesyaw.com": {
@@ -3056,6 +3078,12 @@
         "epoch": 1626393600.0,
         "expiration_date": "16-jul-2021",
         "server": "whois.nic.icu",
+        "state": "future"
+    },
+    "hitsbola.id": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "hobybaca.com": {
@@ -3587,8 +3615,9 @@
         "state": "future"
     },
     "jfnonton.com": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jnn.co.id": {
@@ -4661,8 +4690,9 @@
         "state": "future"
     },
     "lk21tv.com": {
-        "epoch": 1603670400.0,
-        "expiration_date": "26-oct-2020",
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lk21v.fun": {
@@ -4818,8 +4848,9 @@
         "state": "future"
     },
     "manganime.in": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1668038400.0,
+        "expiration_date": "10-nov-2022",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "mangareceh.id": {
@@ -7825,8 +7856,8 @@
         "state": "future"
     },
     "vylowgaming.net": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
