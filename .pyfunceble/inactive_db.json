@@ -722,10 +722,10 @@
             "status": "ACTIVE"
         },
         "149.3.170.35": {
-            "included_at_epoch": 1602780825.569988,
-            "included_at_iso": "2020-10-15T16:53:45.569988",
-            "last_retested_at_epoch": 1605034307.871297,
-            "last_retested_at_iso": "2020-11-10T18:51:47.871297",
+            "included_at_epoch": 1605204875.987123,
+            "included_at_iso": "2020-11-12T18:14:35.987123",
+            "last_retested_at_epoch": 1605204876.030644,
+            "last_retested_at_iso": "2020-11-12T18:14:36.030644",
             "status": "INACTIVE"
         },
         "149.56.142.48": {
@@ -3708,6 +3708,13 @@
             "included_at_iso": "2020-11-04T21:40:15.647774",
             "last_retested_at_epoch": 1605034202.857259,
             "last_retested_at_iso": "2020-11-10T18:50:02.857259",
+            "status": "ACTIVE"
+        },
+        "analytics.s.id": {
+            "included_at_epoch": 1605204875.94364,
+            "included_at_iso": "2020-11-12T18:14:35.943640",
+            "last_retested_at_epoch": 1605204875.94364,
+            "last_retested_at_iso": "2020-11-12T18:14:35.943640",
             "status": "ACTIVE"
         },
         "anangcozz.com": {
@@ -12594,10 +12601,10 @@
             "status": "ACTIVE"
         },
         "kurofansubs.xyz": {
-            "included_at_epoch": 1602780825.582144,
-            "included_at_iso": "2020-10-15T16:53:45.582144",
-            "last_retested_at_epoch": 1605034310.386063,
-            "last_retested_at_iso": "2020-11-10T18:51:50.386063",
+            "included_at_epoch": 1605204876.072089,
+            "included_at_iso": "2020-11-12T18:14:36.072089",
+            "last_retested_at_epoch": 1605204876.072089,
+            "last_retested_at_iso": "2020-11-12T18:14:36.072089",
             "status": "ACTIVE"
         },
         "kursiqq.": {
@@ -12944,10 +12951,10 @@
             "status": "ACTIVE"
         },
         "lewat.tautan.pro": {
-            "included_at_epoch": 1602780825.591695,
-            "included_at_iso": "2020-10-15T16:53:45.591695",
-            "last_retested_at_epoch": 1603392063.735994,
-            "last_retested_at_iso": "2020-10-22T18:41:03.735994",
+            "included_at_epoch": 1605204876.114584,
+            "included_at_iso": "2020-11-12T18:14:36.114584",
+            "last_retested_at_epoch": 1605204876.156673,
+            "last_retested_at_iso": "2020-11-12T18:14:36.156673",
             "status": "INACTIVE"
         },
         "lg88.online": {
