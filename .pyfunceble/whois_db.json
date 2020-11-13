@@ -1183,6 +1183,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "biggreenweek.com": {
+        "epoch": 1633651200.0,
+        "expiration_date": "08-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "binpartner.com": {
         "epoch": 1628640000.0,
         "expiration_date": "11-aug-2021",
@@ -1694,6 +1700,12 @@
     "cnnindonesia.com": {
         "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
+    "cnnxxi.com": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coba.dev": {
@@ -2280,6 +2292,12 @@
         "expiration_date": "04-feb-2021",
         "state": "future"
     },
+    "ebolafc.net": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "eirudo.com": {
         "epoch": 1633392000.0,
         "expiration_date": "05-oct-2021",
@@ -2850,6 +2868,18 @@
         "expiration_date": "17-jan-2021",
         "state": "future"
     },
+    "gudangfilm.pro": {
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "gudangfilm.us": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "server": "whois.nic.us",
+        "state": "future"
+    },
     "gudangfilm.website": {
         "epoch": 1629244800.0,
         "expiration_date": "18-aug-2021",
@@ -3364,6 +3394,12 @@
         "epoch": 1691884800.0,
         "expiration_date": "13-aug-2023",
         "server": "whois.id",
+        "state": "future"
+    },
+    "infoastronomy.org": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "infojambi.com": {
@@ -5234,6 +5270,12 @@
         "expiration_date": "22-feb-2021",
         "state": "future"
     },
+    "missionsandiego.com": {
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "mitratoday.com": {
         "epoch": 1609718400.0,
         "expiration_date": "04-jan-2021",
@@ -5888,6 +5930,12 @@
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "paiza99.me": {
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "palapabola.com": {
@@ -6907,6 +6955,12 @@
         "server": "whois.id",
         "state": "future"
     },
+    "sflare.com": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "sgamepro.com": {
         "epoch": 1624752000.0,
         "expiration_date": "27-jun-2021",
@@ -6989,6 +7043,12 @@
     "siapbisnis.net": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "siapbos21.com": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
