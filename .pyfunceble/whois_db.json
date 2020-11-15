@@ -1469,8 +1469,8 @@
         "state": "future"
     },
     "budiarto.id": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
         "server": "whois.id",
         "state": "future"
     },
@@ -1761,10 +1761,10 @@
         "state": "future"
     },
     "cosmogirl.co.id": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
         "server": "whois.id",
-        "state": "past"
+        "state": "future"
     },
     "covelign.com": {
         "epoch": 1612137600.0,
@@ -3479,8 +3479,8 @@
         "state": "future"
     },
     "insidepontianak.com": {
-        "epoch": 1605052800.0,
-        "expiration_date": "11-nov-2020",
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -5718,8 +5718,8 @@
         "state": "future"
     },
     "nusabali.com": {
-        "epoch": 1605225600.0,
-        "expiration_date": "13-nov-2020",
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
