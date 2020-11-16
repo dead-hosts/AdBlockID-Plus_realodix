@@ -4,6 +4,12 @@
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "1001win.loan": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "server": "whois.nic.loan",
+        "state": "future"
+    },
     "1001win.net": {
         "epoch": 1606262400.0,
         "expiration_date": "25-nov-2020",
@@ -2302,6 +2308,12 @@
         "epoch": 1622073600.0,
         "expiration_date": "27-may-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "efek.stream": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "server": "whois.nic.stream",
         "state": "future"
     },
     "eirudo.com": {
@@ -6189,6 +6201,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "pikiran-rakyat.com": {
+        "epoch": 1662163200.0,
+        "expiration_date": "03-sep-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "pilaradiocirebon.com": {
         "epoch": 1617753600.0,
         "expiration_date": "07-apr-2021",
@@ -7887,6 +7905,12 @@
         "epoch": 1632096000.0,
         "expiration_date": "20-sep-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "uniplay99.org": {
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "unique-tutorials.info": {

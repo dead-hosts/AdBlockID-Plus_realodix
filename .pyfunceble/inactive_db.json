@@ -28,6 +28,13 @@
             "last_retested_at_iso": "2020-11-15T17:25:15.919585",
             "status": "ACTIVE"
         },
+        "1001win.loan": {
+            "included_at_epoch": 1605549586.087178,
+            "included_at_iso": "2020-11-16T17:59:46.087178",
+            "last_retested_at_epoch": 1605549586.087178,
+            "last_retested_at_iso": "2020-11-16T17:59:46.087178",
+            "status": "ACTIVE"
+        },
         "1001win.net": {
             "included_at_epoch": 1604526058.155214,
             "included_at_iso": "2020-11-04T21:40:58.155214",
@@ -1071,6 +1078,13 @@
             "last_retested_at_iso": "2020-11-15T17:25:07.912894",
             "status": "ACTIVE"
         },
+        "172.105.242.100": {
+            "included_at_epoch": 1605549586.03714,
+            "included_at_iso": "2020-11-16T17:59:46.037140",
+            "last_retested_at_epoch": 1605549586.03714,
+            "last_retested_at_iso": "2020-11-16T17:59:46.037140",
+            "status": "ACTIVE"
+        },
         "172.96.189.133": {
             "included_at_epoch": 1603475622.21591,
             "included_at_iso": "2020-10-23T17:53:42.215910",
@@ -1552,6 +1566,13 @@
             "included_at_iso": "2020-11-14T17:12:06.203329",
             "last_retested_at_epoch": 1605461145.218016,
             "last_retested_at_iso": "2020-11-15T17:25:45.218016",
+            "status": "ACTIVE"
+        },
+        "199.231.164.28": {
+            "included_at_epoch": 1605549586.201622,
+            "included_at_iso": "2020-11-16T17:59:46.201622",
+            "last_retested_at_epoch": 1605549586.201622,
+            "last_retested_at_iso": "2020-11-16T17:59:46.201622",
             "status": "ACTIVE"
         },
         "199.30.55.63": {
@@ -8209,6 +8230,13 @@
             "included_at_iso": "2020-11-04T22:26:18.113052",
             "last_retested_at_epoch": 1604528778.113052,
             "last_retested_at_iso": "2020-11-04T22:26:18.113052",
+            "status": "ACTIVE"
+        },
+        "efek.stream": {
+            "included_at_epoch": 1605549586.244611,
+            "included_at_iso": "2020-11-16T17:59:46.244611",
+            "last_retested_at_epoch": 1605549586.244611,
+            "last_retested_at_iso": "2020-11-16T17:59:46.244611",
             "status": "ACTIVE"
         },
         "ehebborc.com": {
@@ -16597,6 +16625,13 @@
             "last_retested_at_iso": "2020-11-15T17:23:50.746712",
             "status": "ACTIVE"
         },
+        "pikiran-rakyat.com": {
+            "included_at_epoch": 1605549586.30424,
+            "included_at_iso": "2020-11-16T17:59:46.304240",
+            "last_retested_at_epoch": 1605549586.450635,
+            "last_retested_at_iso": "2020-11-16T17:59:46.450635",
+            "status": "ACTIVE"
+        },
         "pilaradiocirebon.com": {
             "included_at_epoch": 1604526019.024278,
             "included_at_iso": "2020-11-04T21:40:19.024278",
@@ -20748,6 +20783,13 @@
             "last_retested_at_iso": "2020-11-15T17:25:24.485272",
             "status": "ACTIVE"
         },
+        "uniplay99.org": {
+            "included_at_epoch": 1605549586.146006,
+            "included_at_iso": "2020-11-16T17:59:46.146006",
+            "last_retested_at_epoch": 1605549586.146006,
+            "last_retested_at_iso": "2020-11-16T17:59:46.146006",
+            "status": "ACTIVE"
+        },
         "universal-qq.": {
             "included_at_epoch": 1604526045.892796,
             "included_at_iso": "2020-11-04T21:40:45.892796",
@@ -21600,6 +21642,13 @@
             "included_at_iso": "2020-11-04T21:40:19.472001",
             "last_retested_at_epoch": 1605461047.537591,
             "last_retested_at_iso": "2020-11-15T17:24:07.537591",
+            "status": "ACTIVE"
+        },
+        "www-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1605549586.359672,
+            "included_at_iso": "2020-11-16T17:59:46.359672",
+            "last_retested_at_epoch": 1605549586.401626,
+            "last_retested_at_iso": "2020-11-16T17:59:46.401626",
             "status": "ACTIVE"
         },
         "www.niagahoster.co.id": {
