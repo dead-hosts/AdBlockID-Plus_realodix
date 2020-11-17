@@ -21,6 +21,13 @@
             "last_retested_at_iso": "2020-11-15T17:24:08.631923",
             "status": "INVALID"
         },
+        "1001win.bid": {
+            "included_at_epoch": 1605639391.660326,
+            "included_at_iso": "2020-11-17T18:56:31.660326",
+            "last_retested_at_epoch": 1605639391.660326,
+            "last_retested_at_iso": "2020-11-17T18:56:31.660326",
+            "status": "ACTIVE"
+        },
         "1001win.fun": {
             "included_at_epoch": 1604526058.082537,
             "included_at_iso": "2020-11-04T21:40:58.082537",
@@ -706,6 +713,13 @@
             "last_retested_at_epoch": 1605461154.992671,
             "last_retested_at_iso": "2020-11-15T17:25:54.992671",
             "status": "ACTIVE"
+        },
+        "147.135.40.215": {
+            "included_at_epoch": 1605639391.617335,
+            "included_at_iso": "2020-11-17T18:56:31.617335",
+            "last_retested_at_epoch": 1605639391.617335,
+            "last_retested_at_iso": "2020-11-17T18:56:31.617335",
+            "status": "INACTIVE"
         },
         "148.72.239.4": {
             "included_at_epoch": 1604526050.906825,
@@ -5054,6 +5068,13 @@
             "last_retested_at_iso": "2020-11-15T17:24:16.724576",
             "status": "INVALID"
         },
+        "beantowntapfest.com": {
+            "included_at_epoch": 1605639391.718127,
+            "included_at_iso": "2020-11-17T18:56:31.718127",
+            "last_retested_at_epoch": 1605639391.718127,
+            "last_retested_at_iso": "2020-11-17T18:56:31.718127",
+            "status": "ACTIVE"
+        },
         "beasiswaindo.com": {
             "included_at_epoch": 1604526017.33164,
             "included_at_iso": "2020-11-04T21:40:17.331640",
@@ -6690,6 +6711,13 @@
             "included_at_iso": "2020-11-04T21:40:14.407389",
             "last_retested_at_epoch": 1605034199.290916,
             "last_retested_at_iso": "2020-11-10T18:49:59.290916",
+            "status": "ACTIVE"
+        },
+        "cloudmediabiz.com": {
+            "included_at_epoch": 1605639391.53653,
+            "included_at_iso": "2020-11-17T18:56:31.536530",
+            "last_retested_at_epoch": 1605639391.53653,
+            "last_retested_at_iso": "2020-11-17T18:56:31.536530",
             "status": "ACTIVE"
         },
         "cmcbet.": {
@@ -8799,11 +8827,25 @@
             "last_retested_at_iso": "2020-11-04T22:26:22.723981",
             "status": "ACTIVE"
         },
+        "fpalondon.net": {
+            "included_at_epoch": 1605639391.772418,
+            "included_at_iso": "2020-11-17T18:56:31.772418",
+            "last_retested_at_epoch": 1605639391.772418,
+            "last_retested_at_iso": "2020-11-17T18:56:31.772418",
+            "status": "ACTIVE"
+        },
         "franchiseglobal.com": {
             "included_at_epoch": 1604526016.884114,
             "included_at_iso": "2020-11-04T21:40:16.884114",
             "last_retested_at_epoch": 1605461040.753518,
             "last_retested_at_iso": "2020-11-15T17:24:00.753518",
+            "status": "ACTIVE"
+        },
+        "fromthebasement.tv": {
+            "included_at_epoch": 1605639391.827003,
+            "included_at_iso": "2020-11-17T18:56:31.827003",
+            "last_retested_at_epoch": 1605639391.827003,
+            "last_retested_at_iso": "2020-11-17T18:56:31.827003",
             "status": "ACTIVE"
         },
         "fryawlauk.com": {
@@ -12440,10 +12482,10 @@
             "status": "ACTIVE"
         },
         "kompaslampung.com": {
-            "included_at_epoch": 1603213074.452794,
-            "included_at_iso": "2020-10-20T16:57:54.452794",
-            "last_retested_at_epoch": 1605461137.458585,
-            "last_retested_at_iso": "2020-11-15T17:25:37.458585",
+            "included_at_epoch": 1605639391.881838,
+            "included_at_iso": "2020-11-17T18:56:31.881838",
+            "last_retested_at_epoch": 1605639391.881838,
+            "last_retested_at_iso": "2020-11-17T18:56:31.881838",
             "status": "ACTIVE"
         },
         "kompaslima.com": {
