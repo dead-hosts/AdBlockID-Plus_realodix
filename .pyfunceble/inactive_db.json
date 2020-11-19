@@ -4851,6 +4851,13 @@
             "last_retested_at_iso": "2020-11-15T17:24:03.666883",
             "status": "ACTIVE"
         },
+        "bagitekno.net": {
+            "included_at_epoch": 1605818957.950473,
+            "included_at_iso": "2020-11-19T20:49:17.950473",
+            "last_retested_at_epoch": 1605818957.950473,
+            "last_retested_at_iso": "2020-11-19T20:49:17.950473",
+            "status": "ACTIVE"
+        },
         "bagusqq.": {
             "included_at_epoch": 1604526022.51393,
             "included_at_iso": "2020-11-04T21:40:22.513930",
@@ -11319,6 +11326,13 @@
             "last_retested_at_iso": "2020-11-15T17:24:33.895177",
             "status": "INVALID"
         },
+        "jalantikus-com.cdn.ampproject.org": {
+            "included_at_epoch": 1605818958.030643,
+            "included_at_iso": "2020-11-19T20:49:18.030643",
+            "last_retested_at_epoch": 1605818958.030643,
+            "last_retested_at_iso": "2020-11-19T20:49:18.030643",
+            "status": "ACTIVE"
+        },
         "jalantikus.com": {
             "included_at_epoch": 1604526017.856918,
             "included_at_iso": "2020-11-04T21:40:17.856918",
@@ -12040,6 +12054,13 @@
             "last_retested_at_iso": "2020-11-15T17:24:35.422348",
             "status": "INVALID"
         },
+        "keepo-me.cdn.ampproject.org": {
+            "included_at_epoch": 1605818958.071373,
+            "included_at_iso": "2020-11-19T20:49:18.071373",
+            "last_retested_at_epoch": 1605818958.071373,
+            "last_retested_at_iso": "2020-11-19T20:49:18.071373",
+            "status": "ACTIVE"
+        },
         "keisekaikuy.blogspot.com": {
             "included_at_epoch": 1604528779.930838,
             "included_at_iso": "2020-11-04T22:26:19.930838",
@@ -12759,6 +12780,13 @@
             "included_at_iso": "2020-11-04T21:41:02.438995",
             "last_retested_at_epoch": 1605461120.594586,
             "last_retested_at_iso": "2020-11-15T17:25:20.594586",
+            "status": "ACTIVE"
+        },
+        "kuotamedia.net": {
+            "included_at_epoch": 1605818958.211606,
+            "included_at_iso": "2020-11-19T20:49:18.211606",
+            "last_retested_at_epoch": 1605818958.211606,
+            "last_retested_at_iso": "2020-11-19T20:49:18.211606",
             "status": "ACTIVE"
         },
         "kupastuntas.co": {
@@ -16154,6 +16182,13 @@
             "included_at_iso": "2020-11-13T18:24:31.155870",
             "last_retested_at_epoch": 1605461122.021822,
             "last_retested_at_iso": "2020-11-15T17:25:22.021822",
+            "status": "ACTIVE"
+        },
+        "paketinternet.net": {
+            "included_at_epoch": 1605818958.155851,
+            "included_at_iso": "2020-11-19T20:49:18.155851",
+            "last_retested_at_epoch": 1605818958.155851,
+            "last_retested_at_iso": "2020-11-19T20:49:18.155851",
             "status": "ACTIVE"
         },
         "palapabola.com": {
@@ -21698,6 +21733,13 @@
             "included_at_iso": "2020-11-04T21:40:19.472001",
             "last_retested_at_epoch": 1605461047.537591,
             "last_retested_at_iso": "2020-11-15T17:24:07.537591",
+            "status": "ACTIVE"
+        },
+        "www-idntimes-com.cdn.ampproject.org": {
+            "included_at_epoch": 1605818958.113609,
+            "included_at_iso": "2020-11-19T20:49:18.113609",
+            "last_retested_at_epoch": 1605818958.113609,
+            "last_retested_at_iso": "2020-11-19T20:49:18.113609",
             "status": "ACTIVE"
         },
         "www-pikiran--rakyat-com.cdn.ampproject.org": {

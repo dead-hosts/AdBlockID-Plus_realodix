@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID-Plus_realodix/domains.list": {
         "base": {
-            "datetime_iso": "2020-11-18T18:09:37.443904",
-            "hash": "bb52c62fbe800b2b5ce97e93890fe8a6d529056dddb9fd4eff5912aa"
+            "datetime_iso": "2020-11-19T20:48:15.055563",
+            "hash": "7b2e613709cfd0497f66d950cce278c0eeedb4c00f9d6b3332e5e778"
         },
         "latest": {
-            "datetime_iso": "2020-11-18T18:09:37.443904",
-            "hash": "bb52c62fbe800b2b5ce97e93890fe8a6d529056dddb9fd4eff5912aa"
+            "datetime_iso": "2020-11-19T20:48:15.055563",
+            "hash": "7b2e613709cfd0497f66d950cce278c0eeedb4c00f9d6b3332e5e778"
         },
         "position": 0
     }

@@ -915,6 +915,12 @@
         "server": "whois.afilias.net",
         "state": "future"
     },
+    "bagitekno.net": {
+        "epoch": 1652054400.0,
+        "expiration_date": "09-may-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "baksomerdeka.com": {
         "epoch": 1631145600.0,
         "expiration_date": "09-sep-2021",
@@ -4490,6 +4496,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "kuotamedia.net": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "kupastuntas.co": {
         "epoch": 1615852800.0,
         "expiration_date": "16-mar-2021",
@@ -5990,6 +6002,12 @@
         "epoch": 1613779200.0,
         "expiration_date": "20-feb-2021",
         "server": "whois.nic.me",
+        "state": "future"
+    },
+    "paketinternet.net": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "palapabola.com": {
