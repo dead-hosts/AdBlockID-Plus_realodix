@@ -5264,6 +5264,13 @@
             "last_retested_at_iso": "2020-11-15T17:26:17.674244",
             "status": "ACTIVE"
         },
+        "beritaminang.com": {
+            "included_at_epoch": 1606066370.523837,
+            "included_at_iso": "2020-11-22T17:32:50.523837",
+            "last_retested_at_epoch": 1606066370.69738,
+            "last_retested_at_iso": "2020-11-22T17:32:50.697380",
+            "status": "ACTIVE"
+        },
         "beritasampit.co.id": {
             "included_at_epoch": 1604526103.283492,
             "included_at_iso": "2020-11-04T21:41:43.283492",
@@ -6852,6 +6859,13 @@
             "last_retested_at_epoch": 1605461062.026045,
             "last_retested_at_iso": "2020-11-15T17:24:22.026045",
             "status": "INVALID"
+        },
+        "copydev.com": {
+            "included_at_epoch": 1606066371.771915,
+            "included_at_iso": "2020-11-22T17:32:51.771915",
+            "last_retested_at_epoch": 1606066371.771915,
+            "last_retested_at_iso": "2020-11-22T17:32:51.771915",
+            "status": "ACTIVE"
         },
         "corneey.com": {
             "included_at_epoch": 1605903884.913206,
@@ -9694,6 +9708,13 @@
             "last_retested_at_epoch": 1605461069.069949,
             "last_retested_at_iso": "2020-11-15T17:24:29.069949",
             "status": "INVALID"
+        },
+        "hantaran.co": {
+            "included_at_epoch": 1606066370.868683,
+            "included_at_iso": "2020-11-22T17:32:50.868683",
+            "last_retested_at_epoch": 1606066371.716126,
+            "last_retested_at_iso": "2020-11-22T17:32:51.716126",
+            "status": "ACTIVE"
         },
         "happistar8.com": {
             "included_at_epoch": 1604526060.956386,
@@ -14567,6 +14588,13 @@
             "last_retested_at_iso": "2020-11-15T17:24:41.512941",
             "status": "INVALID"
         },
+        "minangsatu.com": {
+            "included_at_epoch": 1606066370.459229,
+            "included_at_iso": "2020-11-22T17:32:50.459229",
+            "last_retested_at_epoch": 1606066370.754935,
+            "last_retested_at_iso": "2020-11-22T17:32:50.754935",
+            "status": "ACTIVE"
+        },
         "mingguqq.": {
             "included_at_epoch": 1604526034.76848,
             "included_at_iso": "2020-11-04T21:40:34.768480",
@@ -16121,6 +16149,20 @@
             "last_retested_at_iso": "2020-11-15T17:24:45.480387",
             "status": "INVALID"
         },
+        "padangkita.com": {
+            "included_at_epoch": 1606066370.581745,
+            "included_at_iso": "2020-11-22T17:32:50.581745",
+            "last_retested_at_epoch": 1606066370.581745,
+            "last_retested_at_iso": "2020-11-22T17:32:50.581745",
+            "status": "ACTIVE"
+        },
+        "padangmedia.com": {
+            "included_at_epoch": 1606066370.811497,
+            "included_at_iso": "2020-11-22T17:32:50.811497",
+            "last_retested_at_epoch": 1606066371.660673,
+            "last_retested_at_iso": "2020-11-22T17:32:51.660673",
+            "status": "ACTIVE"
+        },
         "padangtime.com": {
             "included_at_epoch": 1604526088.299748,
             "included_at_iso": "2020-11-04T21:41:28.299748",
@@ -16863,6 +16905,13 @@
             "last_retested_at_iso": "2020-11-15T17:26:19.402172",
             "status": "ACTIVE"
         },
+        "posmetropadang.co.id": {
+            "included_at_epoch": 1606066370.983827,
+            "included_at_iso": "2020-11-22T17:32:50.983827",
+            "last_retested_at_epoch": 1606066371.096454,
+            "last_retested_at_iso": "2020-11-22T17:32:51.096454",
+            "status": "ACTIVE"
+        },
         "power338bet.": {
             "included_at_epoch": 1604526038.169839,
             "included_at_iso": "2020-11-04T21:40:38.169839",
@@ -16973,6 +17022,13 @@
             "included_at_iso": "2020-11-04T21:40:17.387391",
             "last_retested_at_epoch": 1605461042.216375,
             "last_retested_at_iso": "2020-11-15T17:24:02.216375",
+            "status": "ACTIVE"
+        },
+        "prokabar.com": {
+            "included_at_epoch": 1606066371.322048,
+            "included_at_iso": "2020-11-22T17:32:51.322048",
+            "last_retested_at_epoch": 1606066371.604363,
+            "last_retested_at_iso": "2020-11-22T17:32:51.604363",
             "status": "ACTIVE"
         },
         "promo855.com": {

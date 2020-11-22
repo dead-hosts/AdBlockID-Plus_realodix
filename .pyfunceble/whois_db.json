@@ -1154,6 +1154,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "beritaminang.com": {
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "beritasampit.co.id": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
@@ -1776,6 +1782,12 @@
     "contohblog.com": {
         "epoch": 1632960000.0,
         "expiration_date": "30-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "copydev.com": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3010,6 +3022,12 @@
         "epoch": 1626220800.0,
         "expiration_date": "14-jul-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "hantaran.co": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "happistar8.com": {
@@ -5315,6 +5333,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "minangsatu.com": {
+        "epoch": 1666569600.0,
+        "expiration_date": "24-oct-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "mirafaren.pw": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
@@ -5982,6 +6006,18 @@
         "expiration_date": "16-mar-2021",
         "state": "future"
     },
+    "padangkita.com": {
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "padangmedia.com": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "padangtime.com": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
@@ -6340,6 +6376,12 @@
         "server": "whois.id",
         "state": "future"
     },
+    "posmetropadang.co.id": {
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
     "pradjadj.com": {
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
@@ -6391,6 +6433,12 @@
         "epoch": 1661299200.0,
         "expiration_date": "24-aug-2022",
         "server": "whois.nic.co",
+        "state": "future"
+    },
+    "prokabar.com": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "promo855.com": {
