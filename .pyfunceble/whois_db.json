@@ -46,10 +46,10 @@
         "state": "future"
     },
     "1x2018.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "1xdota2.com": {
         "epoch": 1599436800.0,
@@ -70,10 +70,10 @@
         "state": "future"
     },
     "1xliga.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "1xliga.net": {
         "epoch": 1599782400.0,
@@ -1382,8 +1382,8 @@
         "state": "future"
     },
     "bokep8.icu": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
         "server": "whois.nic.icu",
         "state": "future"
     },
@@ -1451,8 +1451,8 @@
         "state": "future"
     },
     "bosqq.online": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
         "server": "whois.nic.online",
         "state": "future"
     },
@@ -2048,8 +2048,8 @@
         "state": "future"
     },
     "digtara.com": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -2072,8 +2072,9 @@
         "state": "future"
     },
     "ditonton.com": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ditonton.net": {
@@ -2180,8 +2181,9 @@
         "state": "future"
     },
     "dramafilm21.com": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dramamu.net": {
@@ -3976,8 +3978,8 @@
         "state": "future"
     },
     "kagetweb.com": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -4232,8 +4234,8 @@
         "state": "future"
     },
     "klikpositif.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -5092,8 +5094,8 @@
         "state": "future"
     },
     "masteriklan.net": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -6705,8 +6707,8 @@
         "state": "future"
     },
     "referensipublik.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -6915,8 +6917,9 @@
         "state": "future"
     },
     "santaibareng.net": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sasambonews.com": {
@@ -7169,8 +7172,8 @@
         "state": "future"
     },
     "siapbisnis.net": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -7378,8 +7381,8 @@
         "state": "future"
     },
     "suarajatimpost.com": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -8183,8 +8186,8 @@
         "state": "future"
     },
     "wasiteuro.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -8195,8 +8198,8 @@
         "state": "future"
     },
     "waspadaaceh.com": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
