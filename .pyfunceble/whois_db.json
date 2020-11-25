@@ -176,6 +176,18 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "ad4msan.com": {
+        "epoch": 1723593600.0,
+        "expiration_date": "14-aug-2024",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ad4msan.win": {
+        "epoch": 1797379200.0,
+        "expiration_date": "16-dec-2026",
+        "server": "whois.nic.win",
+        "state": "future"
+    },
     "addesigner.com": {
         "epoch": 1627430400.0,
         "expiration_date": "28-jul-2021",
@@ -2646,6 +2658,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "gabungyuk.com": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "gabut.net": {
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
@@ -3650,6 +3668,12 @@
         "server": "whois.nic.site",
         "state": "future"
     },
+    "ivfihumeajjmbc.com": {
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "ivideosmart.com": {
         "epoch": 1616112000.0,
         "expiration_date": "19-mar-2021",
@@ -4151,6 +4175,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "kidrarsi.net": {
+        "epoch": 1636416000.0,
+        "expiration_date": "09-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "kiminime.com": {
         "epoch": 1630368000.0,
         "expiration_date": "31-aug-2021",
@@ -4552,6 +4582,12 @@
         "expiration_date": "30-jul-2021",
         "state": "future"
     },
+    "labkom.co.id": {
+        "epoch": 1653091200.0,
+        "expiration_date": "21-may-2022",
+        "server": "whois.id",
+        "state": "future"
+    },
     "ladsanz.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
@@ -4773,6 +4809,12 @@
     "liputanbengkulu.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "liputanberita21.com": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -5134,6 +5176,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "maxnime.com": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "mazterize.co": {
         "epoch": 1618444800.0,
         "expiration_date": "15-apr-2021",
@@ -5261,6 +5309,12 @@
     "menangpiala.com": {
         "epoch": 1624320000.0,
         "expiration_date": "22-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "menantisenja.com": {
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -6812,6 +6866,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "rukim.id": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
     "rumahdrama.com": {
         "epoch": 1654646400.0,
         "expiration_date": "08-jun-2022",
@@ -7322,6 +7382,12 @@
         "server": "whois.nic.space",
         "state": "future"
     },
+    "sqhneencmysrk.com": {
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "starchfoundation.org": {
         "epoch": 1631145600.0,
         "expiration_date": "09-sep-2021",
@@ -7532,6 +7598,12 @@
         "epoch": 1622678400.0,
         "expiration_date": "03-jun-2021",
         "server": "whois.id",
+        "state": "future"
+    },
+    "surgatekno.com": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sviklutt.site": {
