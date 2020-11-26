@@ -17,14 +17,14 @@
         "state": "future"
     },
     "1001win.net": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1001win.org": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
         "server": "whois.pir.org",
         "state": "future"
     },
@@ -5496,7 +5496,8 @@
     "movieajip.com": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "movieindoxxi.co": {
         "epoch": 1619740800.0,
@@ -7171,6 +7172,12 @@
     "shinobijawi.id": {
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
+    "shinyspiesyou.com": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "shiokambing2.com": {
