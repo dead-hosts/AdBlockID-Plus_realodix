@@ -176,6 +176,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "ad-loupe.com": {
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "ad4msan.com": {
         "epoch": 1723593600.0,
         "expiration_date": "14-aug-2024",
@@ -1704,6 +1710,12 @@
         "epoch": 1613088000.0,
         "expiration_date": "12-feb-2021",
         "server": "whois.nic.re",
+        "state": "future"
+    },
+    "click2go.me": {
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "clickmedia.co.id": {
@@ -5034,6 +5046,12 @@
     "mangacanblog.com": {
         "epoch": 1623628800.0,
         "expiration_date": "14-jun-2021",
+        "state": "future"
+    },
+    "mangaid.click": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "server": "whois.uniregistry.net",
         "state": "future"
     },
     "mangaid.id": {
