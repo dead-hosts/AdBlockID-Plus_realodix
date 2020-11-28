@@ -3338,6 +3338,12 @@
         "expiration_date": "17-dec-2020",
         "state": "future"
     },
+    "idxx1.link": {
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.uniregistry.net",
+        "state": "future"
+    },
     "iframe.ly": {
         "epoch": 1613260800.0,
         "expiration_date": "14-feb-2021",

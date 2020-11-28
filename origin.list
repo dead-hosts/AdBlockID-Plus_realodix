@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.332.669
+! Version: 20.333.759
 ! Title: AdBlockID
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 27 Nov 2020 11:09 UTC
+! Last modified: 28 Nov 2020 12:39 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -830,6 +830,7 @@ _GIF1200x120-
 ###top_sponsor_besar
 ###top_sponsor_kecil
 ###tupiklan
+###twoColAds
 ###under-video-ads
 ##.--banner-ads
 ##.Area_Iklan_Atas
@@ -843,6 +844,7 @@ _GIF1200x120-
 ##.ad-bawah
 ##.ad-before
 ##.ad-float-image
+##.ad-heder-320-50
 ##.ad1-desktop
 ##.ad1-wrapper
 ##.ad2-desktop
@@ -1045,6 +1047,7 @@ _GIF1200x120-
 ##.hero_adslot
 ##.home-ads-bar
 ##.home-banner-big-ads
+##.homepagead
 ##.idblog-center-ads
 ##.idmuvi-banner-aftercontent
 ##.idmuvi-banner-beforecontent
@@ -1233,6 +1236,8 @@ _GIF1200x120-
 ##.inner-floatbanner-bottom
 ##.inner-post-ads
 ##.isiAds
+##.ivs-overlay-adcontainer
+##.ivs-overlay-ads
 ##.ixlan
 ##.ixlan-besar
 ##.ixlan-kecil
@@ -1312,6 +1317,7 @@ _GIF1200x120-
 ##.sec-iklan-lands
 ##.sec-iklan-lands-top-v2
 ##.sec-iklan-pot
+##.sectionpagesads
 ##.set-ads-468
 ##.sf-ad-header-below
 ##.single_ad_728x90
@@ -1337,6 +1343,7 @@ _GIF1200x120-
 ##.topline-ads
 ##.tr-ad
 ##.tutupAds
+##.twoColAds
 ##.video-content-bottom-ads
 ##.video-content-top-ads
 ##.videoOverAdBig
@@ -1673,7 +1680,6 @@ _GIF1200x120-
 ||iklanhoki.com^$third-party
 ||indoads.xyz^$third-party
 ||itteholm.site^$third-party
-||ivideosmart.com^$domain=bolasport.com|brilio.net|feedme.id|geeq.id|idntimes.com|kompas.com|kontan.co.id|styl.id|sulselsatu.com
 ||jasaiklan.com^$third-party
 ||jayaiklan.com^$third-party
 ||jodklub.online^$third-party
@@ -2226,13 +2232,13 @@ mariodevan.com,motorrio.com##.wpa:-abp-contains(Advertisement)
 klubpria.com##center:-abp-contains(Sponsor)
 ! 
 bukalapak.com###display_product_search .endorsed-products
-bukalapak.com###product-explorer-container .bl-product-card:-abp-has(img[src*="pc-ico-ads." i])
-bukalapak.com###search-main-mobile .dp-card-container:-abp-has([name*="ico_promotion" i])
+bukalapak.com###product-explorer-container .bl-product-card:has(img[src*="pc-ico-ads." i])
+bukalapak.com###search-main-mobile .dp-card-container:has([name*="ico_promotion" i])
 shopee.co.id##.search-page .item-card-list__item-card-wrapper:-abp-contains(Iklan)
 shopee.co.id##.shopee-search-item-result__item:-abp-contains(Iklan)
-m.tokopedia.com##[data-testid="masonryProduct"]:-abp-has(img[alt*="topads" i])
+m.tokopedia.com##[data-testid="masonryProduct"]:has(img[alt*="topads" i])
 tokopedia.com##[data-testid="topadsCPMWrapper"]
-tokopedia.com##[label-atm="taProduct"]:-abp-has(img[alt*="topads" i])
+tokopedia.com##[label-atm="taProduct"]:has(img[alt*="topads" i])
 tokopedia.com##div[data-testid="divSRPContentProducts"] > div[class^="css-"]:has( > a[data-testid="lnkProductContainer"] > div[data-testid="divProductWrapper"] > div[class^="css-"] > div[class^="css-"] > div[class^="css-"] > img[alt="topads icon"])
 ! 
 ! Mobile
@@ -8573,7 +8579,7 @@ lk21.london##.ml-announce
 narashika.cc##.popbox
 drakoric.com,drakorindo.fun##.sg-popup-content
 drakoric.com,drakorindo.fun##.sgpb-popup-overlay
-111.90.150.31,178.128.82.236,185.224.130.67,185.231.223.71,193.164.131.42,204.48.22.58,cinemaday.org,indxxi.vip,odading21.com##.swal-overlay
+111.90.150.31,178.128.82.236,185.224.130.67,185.231.223.71,193.164.131.42,204.48.22.58,cinemaday.org,idxx1.link,indxxi.vip,odading21.com##.swal-overlay
 206.189.151.55##.tvtubeads
 185.63.253.247##.wpb-image-popup
 213.166.69.166,movieindoxxi.co,rumahdrama.com##.wpb-outer-wrap
@@ -9405,10 +9411,12 @@ protapriau.com##img[width="989"][height="153"]
 tempo.co##video[width="468"][height="60"]
 ! 
 arenabola.id##.col-lg-3:-abp-contains(Ads)
+sindonews.com##.ctn-mid li:-abp-contains(Sponsored)
 urbanasia.com##.paralax:has(div[id^="div-gpt-ad"])
 genpi.co##.post-text > .caption:-abp-contains(ADVERTISEMENT)
 hops.id##.stream-item:-abp-contains(Sponsored)
 tabikpun.com##.widget:-abp-contains(IKLAN)
+detiksumsel.com##.widget:-abp-contains(Pojok Iklan)
 malangtimes.com##aside.widget:-abp-contains(Advertisement)
 radarnews.id##aside.widget:-abp-contains(IKLAN)
 radarnews.id##aside.widget:-abp-contains(Iklan)
@@ -9472,18 +9480,15 @@ balipost.com##.paralax_div
 ! 
 ! ANNOYANCE
 ! --------------------------------------------------------------
-kompas.com##+js(aopr, setTimeout, iframeTestTimeMS)
 ! Anti Right Click
 wartaterkini.news##+js(aopr, disable_copy)
 ! Anti Select
 wartaterkini.news##+js(aopr, document.oncontextmenu)
 wartaterkini.news##body.unselectable:style(-webkit-touch-callout: default!important; user-select: text!important)
 ! Frame & subdocument
-okezone.com###metube_div
-||20.detik.com/embed/$frame,redirect=click2load.html,domain=~20.detik.com
-||okezone.rctiplus.com/video/$subdocument,domain=okezone.com
-||okezone.visionplus.id/player-prd.html?*&autoplay=true&mute=true$subdocument,domain=okezone.com
-||sindikasi.okezone.com/widget/metube$subdocument,domain=okezone.com
+||20.detik.com/embed/$redirect=click2load.html,subdocument,domain=~20.detik.com
+||ivideosmart.com/ivsplayer/$script,domain=bolasport.com|brilio.net|feedme.id|geeq.id|genpi.co|idntimes.com|kompas.com|kontan.co.id|styl.id|sulselsatu.com
+||sindonews.com/frame/$redirect=click2load.html,subdocument
 ! *** abid:src/packages/sl_anti-adblock.adbl ***
 ! SAFE LINK - ANTI-ADBLOCK
 ! --------------------------------------------------------------
@@ -9924,4 +9929,4 @@ iklanpopuler.com,sebariklanbaris.net,ziyata.com#@#[src*="/iklan/"]
 ! 
 ! https://github.com/realodix/AdBlockID/issues/467
 @@/social-sharing-$script,domain=axe.com
-! Checksum: 3tqlfWu2yzaNJoVQAmRpKg
+! Checksum: 0ggqDkL6SuyDfNTQeMPzeQ
