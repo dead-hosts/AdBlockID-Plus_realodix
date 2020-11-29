@@ -7721,6 +7721,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "talikanews.com": {
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "tampilcantik.com": {
         "epoch": 1902787200.0,
         "expiration_date": "19-apr-2030",

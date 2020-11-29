@@ -20062,6 +20062,13 @@
             "last_retested_at_iso": "2020-11-26T19:32:49.338167",
             "status": "INVALID"
         },
+        "talikanews.com": {
+            "included_at_epoch": 1606670719.822536,
+            "included_at_iso": "2020-11-29T17:25:19.822536",
+            "last_retested_at_epoch": 1606670719.822536,
+            "last_retested_at_iso": "2020-11-29T17:25:19.822536",
+            "status": "ACTIVE"
+        },
         "tamanqq.": {
             "included_at_epoch": 1604526043.836443,
             "included_at_iso": "2020-11-04T21:40:43.836443",
@@ -21901,6 +21908,13 @@
             "included_at_iso": "2020-11-19T20:49:18.113609",
             "last_retested_at_epoch": 1606419118.331232,
             "last_retested_at_iso": "2020-11-26T19:31:58.331232",
+            "status": "ACTIVE"
+        },
+        "www-malangtimes-com.cdn.ampproject.org": {
+            "included_at_epoch": 1606670719.89056,
+            "included_at_iso": "2020-11-29T17:25:19.890560",
+            "last_retested_at_epoch": 1606670719.934324,
+            "last_retested_at_iso": "2020-11-29T17:25:19.934324",
             "status": "ACTIVE"
         },
         "www-pikiran--rakyat-com.cdn.ampproject.org": {
