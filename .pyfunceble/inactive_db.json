@@ -12824,6 +12824,13 @@
             "last_retested_at_iso": "2020-11-26T19:31:48.572573",
             "status": "ACTIVE"
         },
+        "kotakputih.casa": {
+            "included_at_epoch": 1606856779.104159,
+            "included_at_iso": "2020-12-01T21:06:19.104159",
+            "last_retested_at_epoch": 1606856779.104159,
+            "last_retested_at_iso": "2020-12-01T21:06:19.104159",
+            "status": "ACTIVE"
+        },
         "kotaksilver.casa": {
             "included_at_epoch": 1605903866.034561,
             "included_at_iso": "2020-11-20T20:24:26.034561",

@@ -4550,6 +4550,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "kotakputih.casa": {
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.nic.casa",
+        "state": "future"
+    },
     "kotaksilver.casa": {
         "epoch": 1633132800.0,
         "expiration_date": "02-oct-2021",
