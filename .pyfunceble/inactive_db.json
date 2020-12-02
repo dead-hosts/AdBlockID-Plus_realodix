@@ -1316,6 +1316,13 @@
             "last_retested_at_iso": "2020-11-26T19:33:03.170903",
             "status": "INACTIVE"
         },
+        "192.175.104.71": {
+            "included_at_epoch": 1606942834.682429,
+            "included_at_iso": "2020-12-02T21:00:34.682429",
+            "last_retested_at_epoch": 1606942834.682429,
+            "last_retested_at_iso": "2020-12-02T21:00:34.682429",
+            "status": "INACTIVE"
+        },
         "193.164.131.42": {
             "included_at_epoch": 1605903877.239386,
             "included_at_iso": "2020-11-20T20:24:37.239386",
@@ -3703,6 +3710,13 @@
             "last_retested_at_iso": "2020-11-26T19:31:36.510775",
             "status": "ACTIVE"
         },
+        "alexanews.id": {
+            "included_at_epoch": 1606942835.237696,
+            "included_at_iso": "2020-12-02T21:00:35.237696",
+            "last_retested_at_epoch": 1606942835.237696,
+            "last_retested_at_iso": "2020-12-02T21:00:35.237696",
+            "status": "ACTIVE"
+        },
         "alexavegascasino.win": {
             "included_at_epoch": 1604526059.0088,
             "included_at_iso": "2020-11-04T21:40:59.008800",
@@ -5243,6 +5257,13 @@
             "last_retested_at_iso": "2020-11-26T19:33:12.615521",
             "status": "ACTIVE"
         },
+        "beredukasi.com": {
+            "included_at_epoch": 1606942835.013882,
+            "included_at_iso": "2020-12-02T21:00:35.013882",
+            "last_retested_at_epoch": 1606942835.125984,
+            "last_retested_at_iso": "2020-12-02T21:00:35.125984",
+            "status": "ACTIVE"
+        },
         "beritaasatu.com": {
             "included_at_epoch": 1604526086.929341,
             "included_at_iso": "2020-11-04T21:41:26.929341",
@@ -6130,6 +6151,13 @@
             "included_at_iso": "2020-11-04T21:40:11.866133",
             "last_retested_at_epoch": 1606419093.097324,
             "last_retested_at_iso": "2020-11-26T19:31:33.097324",
+            "status": "ACTIVE"
+        },
+        "brantasnews.co.id": {
+            "included_at_epoch": 1606942834.95789,
+            "included_at_iso": "2020-12-02T21:00:34.957890",
+            "last_retested_at_epoch": 1606942834.95789,
+            "last_retested_at_iso": "2020-12-02T21:00:34.957890",
             "status": "ACTIVE"
         },
         "breakingnews.co.id": {
@@ -10003,6 +10031,13 @@
             "last_retested_at_iso": "2020-11-26T19:31:39.275409",
             "status": "ACTIVE"
         },
+        "historia-id.cdn.ampproject.org": {
+            "included_at_epoch": 1606942834.587057,
+            "included_at_iso": "2020-12-02T21:00:34.587057",
+            "last_retested_at_epoch": 1606942834.63592,
+            "last_retested_at_iso": "2020-12-02T21:00:34.635920",
+            "status": "ACTIVE"
+        },
         "hitadsmedia.com": {
             "included_at_epoch": 1604526011.99529,
             "included_at_iso": "2020-11-04T21:40:11.995290",
@@ -12080,6 +12115,13 @@
             "included_at_iso": "2020-11-20T20:24:27.056014",
             "last_retested_at_epoch": 1606419243.894559,
             "last_retested_at_iso": "2020-11-26T19:34:03.894559",
+            "status": "ACTIVE"
+        },
+        "karawangnews.com": {
+            "included_at_epoch": 1606942834.728943,
+            "included_at_iso": "2020-12-02T21:00:34.728943",
+            "last_retested_at_epoch": 1606942834.845749,
+            "last_retested_at_iso": "2020-12-02T21:00:34.845749",
             "status": "ACTIVE"
         },
         "karebatoraja.com": {
@@ -14460,6 +14502,13 @@
             "included_at_iso": "2020-11-04T21:41:38.816011",
             "last_retested_at_epoch": 1606419255.285014,
             "last_retested_at_iso": "2020-11-26T19:34:15.285014",
+            "status": "ACTIVE"
+        },
+        "mediaseruni.co.id": {
+            "included_at_epoch": 1606942834.901509,
+            "included_at_iso": "2020-12-02T21:00:34.901509",
+            "last_retested_at_epoch": 1606942835.069919,
+            "last_retested_at_iso": "2020-12-02T21:00:35.069919",
             "status": "ACTIVE"
         },
         "mediatrias.com": {
@@ -17324,6 +17373,13 @@
             "last_retested_at_epoch": 1606419160.64427,
             "last_retested_at_iso": "2020-11-26T19:32:40.644270",
             "status": "INVALID"
+        },
+        "purwakartapost.co.id": {
+            "included_at_epoch": 1606942835.182205,
+            "included_at_iso": "2020-12-02T21:00:35.182205",
+            "last_retested_at_epoch": 1606942835.182205,
+            "last_retested_at_iso": "2020-12-02T21:00:35.182205",
+            "status": "ACTIVE"
         },
         "purworejonews.com": {
             "included_at_epoch": 1604526095.787662,
@@ -20881,6 +20937,13 @@
             "last_retested_at_iso": "2020-11-26T19:31:45.878684",
             "status": "ACTIVE"
         },
+        "transjabar.com": {
+            "included_at_epoch": 1606942834.789314,
+            "included_at_iso": "2020-12-02T21:00:34.789314",
+            "last_retested_at_epoch": 1606942834.789314,
+            "last_retested_at_iso": "2020-12-02T21:00:34.789314",
+            "status": "ACTIVE"
+        },
         "transpoker.": {
             "included_at_epoch": 1604526045.249,
             "included_at_iso": "2020-11-04T21:40:45.249000",
@@ -22105,6 +22168,13 @@
             "last_retested_at_epoch": 1606419175.863597,
             "last_retested_at_iso": "2020-11-26T19:32:55.863597",
             "status": "INVALID"
+        },
+        "youtube.com": {
+            "included_at_epoch": 1606942835.294035,
+            "included_at_iso": "2020-12-02T21:00:35.294035",
+            "last_retested_at_epoch": 1606942835.294035,
+            "last_retested_at_iso": "2020-12-02T21:00:35.294035",
+            "status": "ACTIVE"
         },
         "yoyopoker.": {
             "included_at_epoch": 1604526048.122611,
