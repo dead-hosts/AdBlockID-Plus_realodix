@@ -373,8 +373,8 @@
         "state": "future"
     },
     "alasannews.com": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -432,8 +432,8 @@
         "state": "future"
     },
     "amaumomt.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -1448,8 +1448,8 @@
         "state": "future"
     },
     "bolasport.com": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -1554,6 +1554,12 @@
     "cafecinema.vip": {
         "epoch": 1619913600.0,
         "expiration_date": "02-may-2021",
+        "state": "future"
+    },
+    "cakrawalajabar.com": {
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cangkal.info": {
@@ -1707,8 +1713,8 @@
         "state": "future"
     },
     "citrust.id": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
         "server": "whois.id",
         "state": "future"
     },
@@ -2083,6 +2089,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "dialogpublik.com": {
+        "epoch": 1681862400.0,
+        "expiration_date": "19-apr-2023",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "diaridona.com": {
         "epoch": 1630195200.0,
         "expiration_date": "29-aug-2021",
@@ -2422,8 +2434,14 @@
         "state": "future"
     },
     "ekagoblog.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "eljabar.com": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -2520,6 +2538,12 @@
     "faktabali.com": {
         "epoch": 1635379200.0,
         "expiration_date": "28-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "faktabandungraya.com": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3294,8 +3318,8 @@
         "state": "future"
     },
     "hops.id": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
         "server": "whois.id",
         "state": "future"
     },
@@ -3378,6 +3402,12 @@
     "idtube.me": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
+    "idxx1.id": {
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "idxx1.link": {
@@ -3621,6 +3651,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "inisumedang.com": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "inonton.com": {
         "epoch": 1629244800.0,
         "expiration_date": "18-aug-2021",
@@ -3687,8 +3723,8 @@
         "state": "past"
     },
     "islampos.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3960,6 +3996,12 @@
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
         "server": "whois.id",
+        "state": "future"
+    },
+    "jurnalisnews.com": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jurnaljatim.com": {
@@ -4544,6 +4586,12 @@
         "server": "whois.id",
         "state": "future"
     },
+    "korsum.id": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
     "kostjakarta.com": {
         "epoch": 1626480000.0,
         "expiration_date": "17-jul-2021",
@@ -4647,6 +4695,12 @@
     "kuncihijau.com": {
         "epoch": 1630540800.0,
         "expiration_date": "02-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "kuninganterkini.com": {
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -5066,6 +5120,12 @@
     "maachanime.com": {
         "epoch": 1609891200.0,
         "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
+    "madaninews.id": {
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "madsans.com": {
@@ -5951,6 +6011,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "notif.id": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
     "novelgo.id": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
@@ -6363,8 +6429,8 @@
         "state": "future"
     },
     "payseluler.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -6762,8 +6828,8 @@
         "state": "future"
     },
     "radarnews.id": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
         "server": "whois.id",
         "state": "future"
     },
@@ -6780,8 +6846,8 @@
         "state": "future"
     },
     "radartuba.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -7169,6 +7235,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "sebelas12.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "sederet.com": {
         "epoch": 1737763200.0,
         "expiration_date": "25-jan-2025",
@@ -7248,6 +7320,12 @@
         "epoch": 1633910400.0,
         "expiration_date": "11-oct-2021",
         "server": "whois.id",
+        "state": "future"
+    },
+    "seputarkuningan.com": {
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "serangid.id": {
@@ -7612,6 +7690,12 @@
     "suarakristen.com": {
         "epoch": 1612483200.0,
         "expiration_date": "05-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "suarakuningan.com": {
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -8006,6 +8090,12 @@
     "terbit21.show": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "terbit21.win": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "server": "whois.nic.win",
         "state": "future"
     },
     "terkininews.com": {
@@ -8526,8 +8616,8 @@
         "state": "future"
     },
     "womenhaircolors.review": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
         "server": "whois.nic.review",
         "state": "future"
     },
@@ -8607,8 +8697,8 @@
         "state": "future"
     },
     "zonalampung.co": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
         "server": "whois.nic.co",
         "state": "future"
     },
