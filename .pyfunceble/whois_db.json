@@ -349,6 +349,12 @@
         "expiration_date": "05-oct-2022",
         "state": "future"
     },
+    "akbardwi.my.id": {
+        "epoch": 1733788800.0,
+        "expiration_date": "10-dec-2024",
+        "server": "whois.id",
+        "state": "future"
+    },
     "aksensei.com": {
         "epoch": 1616716800.0,
         "expiration_date": "26-mar-2021",
@@ -2305,6 +2311,12 @@
         "epoch": 1635379200.0,
         "expiration_date": "28-oct-2021",
         "server": "whois.nic.me",
+        "state": "future"
+    },
+    "dropshipin.id": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "dropsymooant.com": {
@@ -5421,10 +5433,10 @@
         "state": "future"
     },
     "mediatulis.net": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "medinaslampungnews.co.id": {
         "epoch": 1615766400.0,
@@ -5772,6 +5784,12 @@
     "nabire.net": {
         "epoch": 1623715200.0,
         "expiration_date": "15-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "nafaskuda.com": {
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -7230,8 +7248,8 @@
         "state": "future"
     },
     "sebariklanbaris.net": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
