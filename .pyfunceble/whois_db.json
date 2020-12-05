@@ -1951,6 +1951,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "dailymotion.com": {
+        "epoch": 1647302400.0,
+        "expiration_date": "15-mar-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "daizurin.com": {
         "epoch": 1628294400.0,
         "expiration_date": "07-aug-2021",
@@ -4036,6 +4042,12 @@
         "expiration_date": "29-mar-2021",
         "state": "future"
     },
+    "jubi.co.id": {
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
     "juraganasli.com": {
         "epoch": 1633305600.0,
         "expiration_date": "04-oct-2021",
@@ -4868,6 +4880,12 @@
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "lampungpro.co": {
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "lampungtoday.com": {
@@ -8280,6 +8298,12 @@
     "tikusliar.com": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "timikaexpress.com": {
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },

@@ -1275,10 +1275,10 @@
             "status": "INACTIVE"
         },
         "185.63.253.247": {
-            "included_at_epoch": 1604768410.164909,
-            "included_at_iso": "2020-11-07T17:00:10.164909",
-            "last_retested_at_epoch": 1606419229.384846,
-            "last_retested_at_iso": "2020-11-26T19:33:49.384846",
+            "included_at_epoch": 1607189756.035577,
+            "included_at_iso": "2020-12-05T17:35:56.035577",
+            "last_retested_at_epoch": 1607189756.133564,
+            "last_retested_at_iso": "2020-12-05T17:35:56.133564",
             "status": "INACTIVE"
         },
         "185.63.253.33": {
@@ -3640,6 +3640,13 @@
             "last_retested_at_iso": "2020-12-04T02:08:16.791222",
             "status": "ACTIVE"
         },
+        "aksarajabar-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.359992,
+            "included_at_iso": "2020-12-05T17:35:56.359992",
+            "last_retested_at_epoch": 1607189757.863932,
+            "last_retested_at_iso": "2020-12-05T17:35:57.863932",
+            "status": "ACTIVE"
+        },
         "aksensei.com": {
             "included_at_epoch": 1605903881.057278,
             "included_at_iso": "2020-11-20T20:24:41.057278",
@@ -5180,6 +5187,13 @@
             "last_retested_at_iso": "2020-12-04T02:08:17.304580",
             "status": "ACTIVE"
         },
+        "bekasi-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.910583,
+            "included_at_iso": "2020-12-05T17:35:57.910583",
+            "last_retested_at_epoch": 1607189757.910583,
+            "last_retested_at_iso": "2020-12-05T17:35:57.910583",
+            "status": "ACTIVE"
+        },
         "belapendidikan.com": {
             "included_at_epoch": 1607030156.124736,
             "included_at_iso": "2020-12-03T21:15:56.124736",
@@ -5803,6 +5817,13 @@
             "last_retested_at_iso": "2020-12-03T21:15:57.168569",
             "status": "ACTIVE"
         },
+        "bocimiupdate-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.405145,
+            "included_at_iso": "2020-12-05T17:35:56.405145",
+            "last_retested_at_epoch": 1607189757.957285,
+            "last_retested_at_iso": "2020-12-05T17:35:57.957285",
+            "status": "ACTIVE"
+        },
         "bogornews.com": {
             "included_at_epoch": 1607030228.83374,
             "included_at_iso": "2020-12-03T21:17:08.833740",
@@ -6221,6 +6242,13 @@
             "included_at_iso": "2020-12-03T21:15:54.627710",
             "last_retested_at_epoch": 1607030157.766967,
             "last_retested_at_iso": "2020-12-03T21:15:57.766967",
+            "status": "ACTIVE"
+        },
+        "bulukumba-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.451332,
+            "included_at_iso": "2020-12-05T17:35:56.451332",
+            "last_retested_at_epoch": 1607189758.002403,
+            "last_retested_at_iso": "2020-12-05T17:35:58.002403",
             "status": "ACTIVE"
         },
         "bunchofwinners.": {
@@ -6649,6 +6677,13 @@
             "last_retested_at_epoch": 1607030163.239327,
             "last_retested_at_iso": "2020-12-03T21:16:03.239327",
             "status": "INVALID"
+        },
+        "cianjurpedia-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.498413,
+            "included_at_iso": "2020-12-05T17:35:56.498413",
+            "last_retested_at_epoch": 1607189758.049418,
+            "last_retested_at_iso": "2020-12-05T17:35:58.049418",
+            "status": "ACTIVE"
         },
         "cimbbet.": {
             "included_at_epoch": 1607030163.257924,
@@ -7182,6 +7217,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:03.758319",
             "status": "INVALID"
         },
+        "dailymotion.com": {
+            "included_at_epoch": 1607189759.783399,
+            "included_at_iso": "2020-12-05T17:35:59.783399",
+            "last_retested_at_epoch": 1607189759.783399,
+            "last_retested_at_iso": "2020-12-05T17:35:59.783399",
+            "status": "ACTIVE"
+        },
         "daizurin.com": {
             "included_at_epoch": 1605903881.883371,
             "included_at_iso": "2020-11-20T20:24:41.883371",
@@ -7321,6 +7363,13 @@
             "last_retested_at_epoch": 1607030163.936124,
             "last_retested_at_iso": "2020-12-03T21:16:03.936124",
             "status": "INVALID"
+        },
+        "depok-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189758.096157,
+            "included_at_iso": "2020-12-05T17:35:58.096157",
+            "last_retested_at_epoch": 1607189758.096157,
+            "last_retested_at_iso": "2020-12-05T17:35:58.096157",
+            "status": "ACTIVE"
         },
         "depoqq.": {
             "included_at_epoch": 1607030163.956816,
@@ -7558,6 +7607,13 @@
             "included_at_iso": "2020-12-03T21:16:56.774074",
             "last_retested_at_epoch": 1607030219.693802,
             "last_retested_at_iso": "2020-12-03T21:16:59.693802",
+            "status": "ACTIVE"
+        },
+        "dialektikakuningan-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.54683,
+            "included_at_iso": "2020-12-05T17:35:56.546830",
+            "last_retested_at_epoch": 1607189758.142647,
+            "last_retested_at_iso": "2020-12-05T17:35:58.142647",
             "status": "ACTIVE"
         },
         "dialogpublik.com": {
@@ -8862,6 +8918,27 @@
             "last_retested_at_iso": "2020-12-03T21:15:52.995245",
             "status": "ACTIVE"
         },
+        "fixjambi-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.594399,
+            "included_at_iso": "2020-12-05T17:35:56.594399",
+            "last_retested_at_epoch": 1607189758.190301,
+            "last_retested_at_iso": "2020-12-05T17:35:58.190301",
+            "status": "ACTIVE"
+        },
+        "fixpadang-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.640715,
+            "included_at_iso": "2020-12-05T17:35:56.640715",
+            "last_retested_at_epoch": 1607189758.237307,
+            "last_retested_at_iso": "2020-12-05T17:35:58.237307",
+            "status": "ACTIVE"
+        },
+        "fixpekanbaru-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.690092,
+            "included_at_iso": "2020-12-05T17:35:56.690092",
+            "last_retested_at_epoch": 1607189758.284822,
+            "last_retested_at_iso": "2020-12-05T17:35:58.284822",
+            "status": "ACTIVE"
+        },
         "fixsirrod.site": {
             "included_at_epoch": 1607030151.620169,
             "included_at_iso": "2020-12-03T21:15:51.620169",
@@ -9709,6 +9786,13 @@
             "last_retested_at_iso": "2020-12-03T21:15:53.039232",
             "status": "ACTIVE"
         },
+        "halodepok-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.736566,
+            "included_at_iso": "2020-12-05T17:35:56.736566",
+            "last_retested_at_epoch": 1607189758.332644,
+            "last_retested_at_iso": "2020-12-05T17:35:58.332644",
+            "status": "ACTIVE"
+        },
         "halodewa.": {
             "included_at_epoch": 1607030166.792235,
             "included_at_iso": "2020-12-03T21:16:06.792235",
@@ -9728,6 +9812,13 @@
             "included_at_iso": "2020-12-03T21:17:11.832179",
             "last_retested_at_epoch": 1607030232.504537,
             "last_retested_at_iso": "2020-12-03T21:17:12.504537",
+            "status": "ACTIVE"
+        },
+        "haloyouth-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.783073,
+            "included_at_iso": "2020-12-05T17:35:56.783073",
+            "last_retested_at_epoch": 1607189758.380328,
+            "last_retested_at_iso": "2020-12-05T17:35:58.380328",
             "status": "ACTIVE"
         },
         "haluanindonesia.co.id": {
@@ -10745,6 +10836,13 @@
             "last_retested_at_iso": "2020-12-03T21:15:51.971515",
             "status": "ACTIVE"
         },
+        "indobalinews-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.830486,
+            "included_at_iso": "2020-12-05T17:35:56.830486",
+            "last_retested_at_epoch": 1607189758.42827,
+            "last_retested_at_iso": "2020-12-05T17:35:58.428270",
+            "status": "ACTIVE"
+        },
         "indobikermags.com": {
             "included_at_epoch": 1607030157.502417,
             "included_at_iso": "2020-12-03T21:15:57.502417",
@@ -11191,6 +11289,13 @@
             "included_at_iso": "2020-12-03T21:16:40.745941",
             "last_retested_at_epoch": 1607030200.745941,
             "last_retested_at_iso": "2020-12-03T21:16:40.745941",
+            "status": "ACTIVE"
+        },
+        "isubogor-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.877663,
+            "included_at_iso": "2020-12-05T17:35:56.877663",
+            "last_retested_at_epoch": 1607189758.476214,
+            "last_retested_at_iso": "2020-12-05T17:35:58.476214",
             "status": "ACTIVE"
         },
         "itc303.com": {
@@ -11781,6 +11886,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:09.823363",
             "status": "INVALID"
         },
+        "jubi.co.id": {
+            "included_at_epoch": 1607189756.244139,
+            "included_at_iso": "2020-12-05T17:35:56.244139",
+            "last_retested_at_epoch": 1607189756.301838,
+            "last_retested_at_iso": "2020-12-05T17:35:56.301838",
+            "status": "ACTIVE"
+        },
         "juraganasli.com": {
             "included_at_epoch": 1607030200.936287,
             "included_at_iso": "2020-12-03T21:16:40.936287",
@@ -11842,6 +11954,20 @@
             "included_at_iso": "2020-11-11T18:44:56.257068",
             "last_retested_at_epoch": 1606419240.656231,
             "last_retested_at_iso": "2020-11-26T19:34:00.656231",
+            "status": "ACTIVE"
+        },
+        "jurnalpalopo-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.92523,
+            "included_at_iso": "2020-12-05T17:35:56.925230",
+            "last_retested_at_epoch": 1607189758.523934,
+            "last_retested_at_iso": "2020-12-05T17:35:58.523934",
+            "status": "ACTIVE"
+        },
+        "jurnalsoreang-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189756.981995,
+            "included_at_iso": "2020-12-05T17:35:56.981995",
+            "last_retested_at_epoch": 1607189758.571939,
+            "last_retested_at_iso": "2020-12-05T17:35:58.571939",
             "status": "ACTIVE"
         },
         "jurnalsumbar.com": {
@@ -11956,6 +12082,13 @@
             "last_retested_at_iso": "2020-12-03T21:17:06.835281",
             "status": "ACTIVE"
         },
+        "kabartegal-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.029202,
+            "included_at_iso": "2020-12-05T17:35:57.029202",
+            "last_retested_at_epoch": 1607189758.619423,
+            "last_retested_at_iso": "2020-12-05T17:35:58.619423",
+            "status": "ACTIVE"
+        },
         "kabarterkini.co.id": {
             "included_at_epoch": 1606763509.893169,
             "included_at_iso": "2020-11-30T19:11:49.893169",
@@ -12031,6 +12164,13 @@
             "included_at_iso": "2020-12-03T21:16:59.185895",
             "last_retested_at_epoch": 1607030219.185895,
             "last_retested_at_iso": "2020-12-03T21:16:59.185895",
+            "status": "ACTIVE"
+        },
+        "kaltarabicara-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.124157,
+            "included_at_iso": "2020-12-05T17:35:57.124157",
+            "last_retested_at_epoch": 1607189758.66855,
+            "last_retested_at_iso": "2020-12-05T17:35:58.668550",
             "status": "ACTIVE"
         },
         "kaltarabisnis.co": {
@@ -13111,6 +13251,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:11.110801",
             "status": "INVALID"
         },
+        "lamongantoday-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.076873,
+            "included_at_iso": "2020-12-05T17:35:57.076873",
+            "last_retested_at_epoch": 1607189758.71583,
+            "last_retested_at_iso": "2020-12-05T17:35:58.715830",
+            "status": "ACTIVE"
+        },
         "lampost.co": {
             "included_at_epoch": 1607030224.344031,
             "included_at_iso": "2020-12-03T21:17:04.344031",
@@ -13130,6 +13277,13 @@
             "included_at_iso": "2020-12-03T21:17:15.889727",
             "last_retested_at_epoch": 1607030239.97334,
             "last_retested_at_iso": "2020-12-03T21:17:19.973340",
+            "status": "ACTIVE"
+        },
+        "lampungpro.co": {
+            "included_at_epoch": 1607189756.182496,
+            "included_at_iso": "2020-12-05T17:35:56.182496",
+            "last_retested_at_epoch": 1607189756.182496,
+            "last_retested_at_iso": "2020-12-05T17:35:56.182496",
             "status": "ACTIVE"
         },
         "lampungtoday.com": {
@@ -13312,6 +13466,13 @@
             "included_at_iso": "2020-11-20T20:24:40.276635",
             "last_retested_at_epoch": 1606419230.130772,
             "last_retested_at_iso": "2020-11-26T19:33:50.130772",
+            "status": "ACTIVE"
+        },
+        "lensapurbalingga-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189758.763505,
+            "included_at_iso": "2020-12-05T17:35:58.763505",
+            "last_retested_at_epoch": 1607189758.763505,
+            "last_retested_at_iso": "2020-12-05T17:35:58.763505",
             "status": "ACTIVE"
         },
         "leoceran.pw": {
@@ -13515,6 +13676,13 @@
             "included_at_iso": "2020-12-03T21:17:06.876889",
             "last_retested_at_epoch": 1607030226.876889,
             "last_retested_at_iso": "2020-12-03T21:17:06.876889",
+            "status": "ACTIVE"
+        },
+        "literasinews-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.171371,
+            "included_at_iso": "2020-12-05T17:35:57.171371",
+            "last_retested_at_epoch": 1607189758.81035,
+            "last_retested_at_iso": "2020-12-05T17:35:58.810350",
             "status": "ACTIVE"
         },
         "livedrawhkpools.com": {
@@ -13963,6 +14131,13 @@
             "included_at_iso": "2020-12-03T21:17:15.119675",
             "last_retested_at_epoch": 1607030235.119675,
             "last_retested_at_iso": "2020-12-03T21:17:15.119675",
+            "status": "ACTIVE"
+        },
+        "majalengka-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.218667,
+            "included_at_iso": "2020-12-05T17:35:57.218667",
+            "last_retested_at_epoch": 1607189758.859045,
+            "last_retested_at_iso": "2020-12-05T17:35:58.859045",
             "status": "ACTIVE"
         },
         "majupoker.": {
@@ -14455,6 +14630,13 @@
             "last_retested_at_iso": "2020-12-03T21:17:04.827985",
             "status": "ACTIVE"
         },
+        "mediablitar-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.264081,
+            "included_at_iso": "2020-12-05T17:35:57.264081",
+            "last_retested_at_epoch": 1607189758.906308,
+            "last_retested_at_iso": "2020-12-05T17:35:58.906308",
+            "status": "ACTIVE"
+        },
         "mediakendari.com": {
             "included_at_epoch": 1607030228.744814,
             "included_at_iso": "2020-12-03T21:17:08.744814",
@@ -14474,6 +14656,13 @@
             "included_at_iso": "2020-12-03T21:15:52.117715",
             "last_retested_at_epoch": 1607030152.117715,
             "last_retested_at_iso": "2020-12-03T21:15:52.117715",
+            "status": "ACTIVE"
+        },
+        "mediapakuan-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.309313,
+            "included_at_iso": "2020-12-05T17:35:57.309313",
+            "last_retested_at_epoch": 1607189757.309313,
+            "last_retested_at_iso": "2020-12-05T17:35:57.309313",
             "status": "ACTIVE"
         },
         "mediaqq.": {
@@ -16478,6 +16667,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:16.218989",
             "status": "INVALID"
         },
+        "pangandaran-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189758.953324,
+            "included_at_iso": "2020-12-05T17:35:58.953324",
+            "last_retested_at_epoch": 1607189758.953324,
+            "last_retested_at_iso": "2020-12-05T17:35:58.953324",
+            "status": "ACTIVE"
+        },
         "pangeran1.com": {
             "included_at_epoch": 1607030202.918867,
             "included_at_iso": "2020-12-03T21:16:42.918867",
@@ -17059,6 +17255,34 @@
             "last_retested_at_iso": "2020-12-03T21:17:03.381604",
             "status": "ACTIVE"
         },
+        "portalbandungtimur-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.387667,
+            "included_at_iso": "2020-12-05T17:35:57.387667",
+            "last_retested_at_epoch": 1607189759.001254,
+            "last_retested_at_iso": "2020-12-05T17:35:59.001254",
+            "status": "ACTIVE"
+        },
+        "portalbangkabelitung-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.433902,
+            "included_at_iso": "2020-12-05T17:35:57.433902",
+            "last_retested_at_epoch": 1607189759.048988,
+            "last_retested_at_iso": "2020-12-05T17:35:59.048988",
+            "status": "ACTIVE"
+        },
+        "portallebak-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189759.096902,
+            "included_at_iso": "2020-12-05T17:35:59.096902",
+            "last_retested_at_epoch": 1607189759.096902,
+            "last_retested_at_iso": "2020-12-05T17:35:59.096902",
+            "status": "ACTIVE"
+        },
+        "portalmajalengka-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.481041,
+            "included_at_iso": "2020-12-05T17:35:57.481041",
+            "last_retested_at_epoch": 1607189759.144796,
+            "last_retested_at_iso": "2020-12-05T17:35:59.144796",
+            "status": "ACTIVE"
+        },
         "portalsulutnews.com": {
             "included_at_epoch": 1607030230.671676,
             "included_at_iso": "2020-12-03T21:17:10.671676",
@@ -17092,6 +17316,13 @@
             "included_at_iso": "2020-12-04T02:08:16.360394",
             "last_retested_at_epoch": 1607047696.360394,
             "last_retested_at_iso": "2020-12-04T02:08:16.360394",
+            "status": "ACTIVE"
+        },
+        "prbandungraya-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.529066,
+            "included_at_iso": "2020-12-05T17:35:57.529066",
+            "last_retested_at_epoch": 1607189759.192401,
+            "last_retested_at_iso": "2020-12-05T17:35:59.192401",
             "status": "ACTIVE"
         },
         "prediksi855.": {
@@ -17148,6 +17379,13 @@
             "included_at_iso": "2020-11-30T19:11:50.512918",
             "last_retested_at_epoch": 1606763511.304439,
             "last_retested_at_iso": "2020-11-30T19:11:51.304439",
+            "status": "ACTIVE"
+        },
+        "prfmnews-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189759.240023,
+            "included_at_iso": "2020-12-05T17:35:59.240023",
+            "last_retested_at_epoch": 1607189759.240023,
+            "last_retested_at_iso": "2020-12-05T17:35:59.240023",
             "status": "ACTIVE"
         },
         "priceza.co.id": {
@@ -17373,6 +17611,13 @@
             "last_retested_at_epoch": 1607030177.737613,
             "last_retested_at_iso": "2020-12-03T21:16:17.737613",
             "status": "INVALID"
+        },
+        "qeluarga-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.577088,
+            "included_at_iso": "2020-12-05T17:35:57.577088",
+            "last_retested_at_epoch": 1607189759.287367,
+            "last_retested_at_iso": "2020-12-05T17:35:59.287367",
+            "status": "ACTIVE"
         },
         "qq-domino.": {
             "included_at_epoch": 1607030177.7644,
@@ -17899,6 +18144,13 @@
             "last_retested_at_iso": "2020-12-03T21:17:00.252909",
             "status": "ACTIVE"
         },
+        "rakyatku-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189759.335861,
+            "included_at_iso": "2020-12-05T17:35:59.335861",
+            "last_retested_at_epoch": 1607189759.335861,
+            "last_retested_at_iso": "2020-12-05T17:35:59.335861",
+            "status": "ACTIVE"
+        },
         "rakyatku.com": {
             "included_at_epoch": 1607030248.88793,
             "included_at_iso": "2020-12-03T21:17:28.887930",
@@ -18032,6 +18284,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:19.403545",
             "status": "INVALID"
         },
+        "referensiberita-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.623765,
+            "included_at_iso": "2020-12-05T17:35:57.623765",
+            "last_retested_at_epoch": 1607189759.381879,
+            "last_retested_at_iso": "2020-12-05T17:35:59.381879",
+            "status": "ACTIVE"
+        },
         "referensipublik.com": {
             "included_at_epoch": 1607030220.559412,
             "included_at_iso": "2020-12-03T21:17:00.559412",
@@ -18044,6 +18303,13 @@
             "included_at_iso": "2020-12-03T21:17:19.605938",
             "last_retested_at_epoch": 1607030239.605938,
             "last_retested_at_iso": "2020-12-03T21:17:19.605938",
+            "status": "ACTIVE"
+        },
+        "rembangbicara-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.671312,
+            "included_at_iso": "2020-12-05T17:35:57.671312",
+            "last_retested_at_epoch": 1607189759.431054,
+            "last_retested_at_iso": "2020-12-05T17:35:59.431054",
             "status": "ACTIVE"
         },
         "rencanamu.id": {
@@ -18163,6 +18429,20 @@
             "included_at_iso": "2020-11-20T20:24:42.711156",
             "last_retested_at_epoch": 1605903883.90595,
             "last_retested_at_iso": "2020-11-20T20:24:43.905950",
+            "status": "ACTIVE"
+        },
+        "ringtimesbali-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189759.482238,
+            "included_at_iso": "2020-12-05T17:35:59.482238",
+            "last_retested_at_epoch": 1607189759.482238,
+            "last_retested_at_iso": "2020-12-05T17:35:59.482238",
+            "status": "ACTIVE"
+        },
+        "ringtimesbanyuwangi-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.719768,
+            "included_at_iso": "2020-12-05T17:35:57.719768",
+            "last_retested_at_epoch": 1607189759.528458,
+            "last_retested_at_iso": "2020-12-05T17:35:59.528458",
             "status": "ACTIVE"
         },
         "rivapoker.": {
@@ -18968,6 +19248,13 @@
             "included_at_iso": "2020-12-03T21:17:23.325590",
             "last_retested_at_epoch": 1607030243.32559,
             "last_retested_at_iso": "2020-12-03T21:17:23.325590",
+            "status": "ACTIVE"
+        },
+        "seputartangsel-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189759.575463,
+            "included_at_iso": "2020-12-05T17:35:59.575463",
+            "last_retested_at_epoch": 1607189759.575463,
+            "last_retested_at_iso": "2020-12-05T17:35:59.575463",
             "status": "ACTIVE"
         },
         "serangid.id": {
@@ -20515,6 +20802,13 @@
             "included_at_iso": "2020-11-20T20:24:28.054817",
             "last_retested_at_epoch": 1606419212.721398,
             "last_retested_at_iso": "2020-11-26T19:33:32.721398",
+            "status": "ACTIVE"
+        },
+        "timikaexpress.com": {
+            "included_at_epoch": 1607189759.720235,
+            "included_at_iso": "2020-12-05T17:35:59.720235",
+            "last_retested_at_epoch": 1607189759.720235,
+            "last_retested_at_iso": "2020-12-05T17:35:59.720235",
             "status": "ACTIVE"
         },
         "timnasjunior.com": {
@@ -22176,6 +22470,13 @@
             "last_retested_at_iso": "2020-11-26T19:33:39.271854",
             "status": "ACTIVE"
         },
+        "zonajakarta-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.771089,
+            "included_at_iso": "2020-12-05T17:35:57.771089",
+            "last_retested_at_epoch": 1607189759.623312,
+            "last_retested_at_iso": "2020-12-05T17:35:59.623312",
+            "status": "ACTIVE"
+        },
         "zonalampung.co": {
             "included_at_epoch": 1607030227.899259,
             "included_at_iso": "2020-12-03T21:17:07.899259",
@@ -22189,6 +22490,13 @@
             "last_retested_at_epoch": 1607030187.776555,
             "last_retested_at_iso": "2020-12-03T21:16:27.776555",
             "status": "INVALID"
+        },
+        "zonapriangan-pikiran--rakyat-com.cdn.ampproject.org": {
+            "included_at_epoch": 1607189757.817399,
+            "included_at_iso": "2020-12-05T17:35:57.817399",
+            "last_retested_at_epoch": 1607189759.670919,
+            "last_retested_at_iso": "2020-12-05T17:35:59.670919",
+            "status": "ACTIVE"
         },
         "zonasultra.com": {
             "included_at_epoch": 1607030228.788362,
