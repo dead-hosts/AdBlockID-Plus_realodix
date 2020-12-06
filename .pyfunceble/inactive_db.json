@@ -4746,6 +4746,13 @@
             "last_retested_at_iso": "2020-12-03T21:17:04.782637",
             "status": "ACTIVE"
         },
+        "ayobekasi.net": {
+            "included_at_epoch": 1607275982.990869,
+            "included_at_iso": "2020-12-06T17:33:02.990869",
+            "last_retested_at_epoch": 1607275982.990869,
+            "last_retested_at_iso": "2020-12-06T17:33:02.990869",
+            "status": "ACTIVE"
+        },
         "ayobogor.com": {
             "included_at_epoch": 1607030217.570945,
             "included_at_iso": "2020-12-03T21:16:57.570945",
@@ -6677,6 +6684,13 @@
             "last_retested_at_epoch": 1607030163.239327,
             "last_retested_at_iso": "2020-12-03T21:16:03.239327",
             "status": "INVALID"
+        },
+        "cianjurekspres.net": {
+            "included_at_epoch": 1607275983.170124,
+            "included_at_iso": "2020-12-06T17:33:03.170124",
+            "last_retested_at_epoch": 1607275983.170124,
+            "last_retested_at_iso": "2020-12-06T17:33:03.170124",
+            "status": "ACTIVE"
         },
         "cianjurpedia-pikiran--rakyat-com.cdn.ampproject.org": {
             "included_at_epoch": 1607189756.498413,
@@ -17892,6 +17906,13 @@
             "last_retested_at_iso": "2020-12-03T21:17:15.797408",
             "status": "ACTIVE"
         },
+        "radarcianjur.com": {
+            "included_at_epoch": 1607275983.055507,
+            "included_at_iso": "2020-12-06T17:33:03.055507",
+            "last_retested_at_epoch": 1607275983.113121,
+            "last_retested_at_iso": "2020-12-06T17:33:03.113121",
+            "status": "ACTIVE"
+        },
         "radarlampung.co.id": {
             "included_at_epoch": 1607030227.728709,
             "included_at_iso": "2020-12-03T21:17:07.728709",
@@ -21706,6 +21727,13 @@
             "last_retested_at_epoch": 1607030185.868825,
             "last_retested_at_iso": "2020-12-03T21:16:25.868825",
             "status": "INVALID"
+        },
+        "viral-topics.com": {
+            "included_at_epoch": 1607275983.227086,
+            "included_at_iso": "2020-12-06T17:33:03.227086",
+            "last_retested_at_epoch": 1607275983.227086,
+            "last_retested_at_iso": "2020-12-06T17:33:03.227086",
+            "status": "ACTIVE"
         },
         "viralkaltim.com": {
             "included_at_epoch": 1607030226.32338,

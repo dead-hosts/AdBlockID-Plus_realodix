@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.340.708
+! Version: 20.341.785
 ! Title: AdBlockID
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 05 Dec 2020 11:48 UTC
+! Last modified: 06 Dec 2020 13:05 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -9294,7 +9294,7 @@ kontan.co.id###div-Halfpage-Peluangusaha
 kontan.co.id###div-Halfpage-Personalfinance
 kontan.co.id###div-Halfpage-Regional
 kontan.co.id###div-Halfpage-Yangter
-ayobogor.com,ayopurwakarta.com,ayotasik.com###fix-banner-top
+ayobekasi.net,ayobogor.com,ayopurwakarta.com,ayotasik.com###fix-banner-top
 faktabanten.co.id,seruji.co.id###fixedban
 apahabar.com###header-banner
 kompas.com###js-banner-sticky
@@ -9398,6 +9398,7 @@ medcom.id##.parallax_ads
 lampost.co##.pop_ads
 ngopibareng.id##.scroll-ad
 ngopibareng.id##.scroll-ad-visible
+suara.com##.serbada
 suluttimes.com##.sgpb-content
 harianjogja.com##.size-300x250
 suara.com##.skin_left
@@ -9428,7 +9429,9 @@ koranbanjar.net##.widget-area img[width="420"][height="575"]
 haluansumatera.com##.widget_banner
 viralkaltim.com##.wpb_wrapper
 fajarmanado.com,sulutreview.com##.wrap-banner
+radarcianjur.com##[alt^="iklan" i]
 winnetnews.com##[href*="winnetnews.com/other/ads/"]
+radarcianjur.com##[href] > picture
 suarantb.com##[href^="http://bit.ly/"] > img
 nusabali.com##[href^="https://bit.ly/"] > img
 talikanews.com##[id^="adni_widget"]
@@ -9449,6 +9452,7 @@ tabloidjubi.com##img[alt*="advertisement"]
 smartcitymakassar.com##img[alt*="banner" i]
 corongrakyat.co.id##img[alt*="banner"]
 sakanews.com##img[alt="Your ads"]
+cianjurekspres.net##img[alt^="728"]
 detikglobalnews.com,manadotoday.co.id##img[alt^="Banner"]
 bogornews.com,mediakendari.com,zonasultra.com##img[alt^="Iklan"]
 sulselsatu.com##img[alt^="iklan" i]
@@ -9972,13 +9976,15 @@ wartaterkini.news##+js(aopr, disable_copy)
 ! Anti Select
 wartaterkini.news##+js(aopr, document.oncontextmenu)
 wartaterkini.news##body.unselectable:style(-webkit-touch-callout: default!important; user-select: text!important)
-! Frame & subdocument
+! Video Embed
+grid.id##.videoPlaylistPlugClass-carousel
 ||20.detik.com/embed/$frame,redirect=click2load.html,domain=~20.detik.com
 ||dailymotion.com/embed/$frame,important,redirect=click2load.html,domain=viva.co.id
-||ivideosmart.com/ivsplayer/$script,domain=bolasport.com|brilio.net|feedme.id|geeq.id|genpi.co|idntimes.com|jubi.co.id|kompas.com|kontan.co.id|styl.id|sulselsatu.com|tempo.co|~video.tempo.co
+||ivideosmart.com/ivsplayer/$script,domain=bolasport.com|brilio.net|feedme.id|geeq.id|genpi.co|grid.id|idntimes.com|jubi.co.id|kompas.com|kontan.co.id|styl.id|sulselsatu.com|tempo.co|~video.tempo.co
+||ivideosmart.com/ivxplayer/$script,domain=grid.id|kompas.com
 ||sindonews.com/frame/$frame,redirect=click2load.html
 ||video.sindonews.com/embedjw/$frame,redirect=click2load.html
-||youtube.com/embed/$frame,redirect=click2load.html,domain=grid.id
+||youtube.com/embed/$frame,redirect=click2load.html,domain=grid.id|~video.grid.id
 ! *** abid:src/packages/sl_anti-adblock.adbl ***
 ! SAFE LINK - ANTI-ADBLOCK
 ! --------------------------------------------------------------
@@ -9986,7 +9992,7 @@ wartaterkini.news##body.unselectable:style(-webkit-touch-callout: default!import
 cararoot.id,liveshootv.com,miuiku.com,safeku.com,sekilastekno.com##+js(acis, eval, ignielAdBlock)
 apasih.pw,fc.lc,nurhamka.com,rikucan.com##+js(aopr, adBlockDetected)
 apamanfaat.id##+js(aopr, anOptions, anOptionAdsSelectors)
-adsafelink.com,dz4link.com,fotodovana.com,jefriapriyandi.com,lewat.club,sekilastekno.com,shrinkme.in,stfly.io,womenhaircolors.review##+js(aopr, app_vars.force_disable_adblock)
+adsafelink.com,dz4link.com,fotodovana.com,jefriapriyandi.com,lewat.club,sekilastekno.com,shrinkme.in,stfly.io,viral-topics.com,womenhaircolors.review##+js(aopr, app_vars.force_disable_adblock)
 masihbelajar.com##+js(aopr, mdpDeBlocker)
 copydev.com,ljutkeunvpn.blogspot.com##+js(aopr, mql)
 saungfirmware.id##+js(aopr, short_url_app_vars.force_disable_adblock)
@@ -10370,6 +10376,7 @@ selebsquad.com##+js(set, config.adblock, null)
 @@/iklan-langganan.$image
 @@/pasang-google-$image
 @@/pasang-iklan-$image
+@@_iklan.$domain=iklandisini.com
 ! 
 ! --------------------------------------------------------------
 jualo.com#@#.ad-title
@@ -10417,4 +10424,4 @@ iklanpopuler.com,sebariklanbaris.net,ziyata.com#@#[src*="/iklan/"]
 ! 
 ! https://github.com/realodix/AdBlockID/issues/467
 @@/social-sharing-$script,domain=axe.com
-! Checksum: 7ny/692tPw8krN8YmsdM7A
+! Checksum: sxNjUykvXkKe/HdKDJSxyg
