@@ -2379,6 +2379,12 @@
         "server": "whois.afilias.net",
         "state": "future"
     },
+    "dumetschool.com": {
+        "epoch": 1656806400.0,
+        "expiration_date": "03-jul-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "dunia21.download": {
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
@@ -3048,6 +3054,12 @@
         "server": "whois.nic.gl",
         "state": "future"
     },
+    "goodnewsfromindonesia.id": {
+        "epoch": 1641859200.0,
+        "expiration_date": "11-jan-2022",
+        "server": "whois.id",
+        "state": "future"
+    },
     "googlesyndication.com": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
@@ -3264,6 +3276,12 @@
         "epoch": 1625961600.0,
         "expiration_date": "11-jul-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "hariansilampari.co.id": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "hariansinggalang.co.id": {
@@ -5458,6 +5476,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "matanusantara.com": {
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "matatelinga.com": {
         "epoch": 1624492800.0,
         "expiration_date": "24-jun-2021",
@@ -6617,6 +6641,12 @@
     "penamerdeka.com": {
         "epoch": 1615075200.0,
         "expiration_date": "07-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "pengusahamuslim.com": {
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
