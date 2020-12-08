@@ -5621,6 +5621,13 @@
             "last_retested_at_iso": "2020-11-26T19:33:38.944070",
             "status": "ACTIVE"
         },
+        "bioskopkeren.stream": {
+            "included_at_epoch": 1607453796.59634,
+            "included_at_iso": "2020-12-08T18:56:36.596340",
+            "last_retested_at_epoch": 1607453796.59634,
+            "last_retested_at_iso": "2020-12-08T18:56:36.596340",
+            "status": "ACTIVE"
+        },
         "bioskopkerenin.club": {
             "included_at_epoch": 1605903870.715815,
             "included_at_iso": "2020-11-20T20:24:30.715815",
@@ -8267,6 +8274,13 @@
             "last_retested_at_iso": "2020-12-03T21:17:30.522145",
             "status": "ACTIVE"
         },
+        "dunia21.blog": {
+            "included_at_epoch": 1607453796.80011,
+            "included_at_iso": "2020-12-08T18:56:36.800110",
+            "last_retested_at_epoch": 1607453796.80011,
+            "last_retested_at_iso": "2020-12-08T18:56:36.800110",
+            "status": "ACTIVE"
+        },
         "dunia21.download": {
             "included_at_epoch": 1605903870.870359,
             "included_at_iso": "2020-11-20T20:24:30.870359",
@@ -8820,6 +8834,13 @@
             "last_retested_at_iso": "2020-12-03T21:15:57.631298",
             "status": "ACTIVE"
         },
+        "fb21.club": {
+            "included_at_epoch": 1607453797.03584,
+            "included_at_iso": "2020-12-08T18:56:37.035840",
+            "last_retested_at_epoch": 1607453797.096724,
+            "last_retested_at_iso": "2020-12-08T18:56:37.096724",
+            "status": "ACTIVE"
+        },
         "fb21.tv": {
             "included_at_epoch": 1605903876.528831,
             "included_at_iso": "2020-11-20T20:24:36.528831",
@@ -8902,6 +8923,13 @@
             "included_at_iso": "2020-11-20T20:24:40.769492",
             "last_retested_at_epoch": 1606419231.070585,
             "last_retested_at_iso": "2020-11-26T19:33:51.070585",
+            "status": "ACTIVE"
+        },
+        "filmindo.link": {
+            "included_at_epoch": 1607453796.743233,
+            "included_at_iso": "2020-12-08T18:56:36.743233",
+            "last_retested_at_epoch": 1607453796.743233,
+            "last_retested_at_iso": "2020-12-08T18:56:36.743233",
             "status": "ACTIVE"
         },
         "filmindo.stream": {
@@ -9182,6 +9210,13 @@
             "included_at_iso": "2020-11-20T20:24:31.145506",
             "last_retested_at_epoch": 1606419216.920771,
             "last_retested_at_iso": "2020-11-26T19:33:36.920771",
+            "status": "ACTIVE"
+        },
+        "ganool21.asia": {
+            "included_at_epoch": 1607453796.685513,
+            "included_at_iso": "2020-12-08T18:56:36.685513",
+            "last_retested_at_epoch": 1607453796.685513,
+            "last_retested_at_iso": "2020-12-08T18:56:36.685513",
             "status": "ACTIVE"
         },
         "ganool21.link": {
@@ -15330,6 +15365,13 @@
             "last_retested_at_iso": "2020-11-26T19:33:37.064046",
             "status": "ACTIVE"
         },
+        "movies21.host": {
+            "included_at_epoch": 1607453796.975842,
+            "included_at_iso": "2020-12-08T18:56:36.975842",
+            "last_retested_at_epoch": 1607453796.975842,
+            "last_retested_at_iso": "2020-12-08T18:56:36.975842",
+            "status": "ACTIVE"
+        },
         "movies21.link": {
             "included_at_epoch": 1605903871.066608,
             "included_at_iso": "2020-11-20T20:24:31.066608",
@@ -15890,6 +15932,13 @@
             "last_retested_at_iso": "2020-12-03T21:15:55.508840",
             "status": "ACTIVE"
         },
+        "nonton.pro": {
+            "included_at_epoch": 1607453796.858692,
+            "included_at_iso": "2020-12-08T18:56:36.858692",
+            "last_retested_at_epoch": 1607453796.858692,
+            "last_retested_at_iso": "2020-12-08T18:56:36.858692",
+            "status": "ACTIVE"
+        },
         "nonton45.com": {
             "included_at_epoch": 1605903872.270677,
             "included_at_iso": "2020-11-20T20:24:32.270677",
@@ -16315,6 +16364,13 @@
             "included_at_iso": "2020-11-20T20:24:31.301564",
             "last_retested_at_epoch": 1606419217.254686,
             "last_retested_at_iso": "2020-11-26T19:33:37.254686",
+            "status": "ACTIVE"
+        },
+        "onestopmovie.net": {
+            "included_at_epoch": 1607453796.917171,
+            "included_at_iso": "2020-12-08T18:56:36.917171",
+            "last_retested_at_epoch": 1607453796.917171,
+            "last_retested_at_iso": "2020-12-08T18:56:36.917171",
             "status": "ACTIVE"
         },
         "onlinecorp.me": {

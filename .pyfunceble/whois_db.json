@@ -1330,6 +1330,12 @@
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
+    "bioskopkeren.stream": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "server": "whois.nic.stream",
+        "state": "future"
+    },
     "bioskopkerenin.club": {
         "epoch": 1618704000.0,
         "expiration_date": "18-apr-2021",
@@ -2385,6 +2391,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "dunia21.blog": {
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.nic.blog",
+        "state": "future"
+    },
     "dunia21.download": {
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
@@ -2649,6 +2661,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "fb21.club": {
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.nic.club",
+        "state": "future"
+    },
     "fb21.tv": {
         "epoch": 1637107200.0,
         "expiration_date": "17-nov-2021",
@@ -2708,6 +2726,12 @@
     "filmboxoffice.web.id": {
         "epoch": 1606953600.0,
         "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
+    "filmindo.link": {
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.uniregistry.net",
         "state": "future"
     },
     "filmindo.stream": {
@@ -2846,6 +2870,12 @@
     "ganool.world": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "ganool21.asia": {
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
+        "server": "whois.nic.asia",
         "state": "future"
     },
     "ganool21.link": {
@@ -5862,6 +5892,12 @@
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
+    "movies21.host": {
+        "epoch": 1669507200.0,
+        "expiration_date": "27-nov-2022",
+        "server": "whois.nic.host",
+        "state": "future"
+    },
     "movies21.link": {
         "epoch": 1622592000.0,
         "expiration_date": "02-jun-2021",
@@ -6110,6 +6146,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "nonton.pro": {
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "nonton33.tech": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
@@ -6310,6 +6352,12 @@
     "onestopmovie.com": {
         "epoch": 1626307200.0,
         "expiration_date": "15-jul-2021",
+        "state": "future"
+    },
+    "onestopmovie.net": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "onlinecorp.me": {
