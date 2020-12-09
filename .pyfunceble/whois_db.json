@@ -885,7 +885,19 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "ayocirebon.com": {
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "ayopurwakarta.com": {
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ayosurabaya.com": {
         "epoch": 1634256000.0,
         "expiration_date": "15-oct-2021",
         "server": "whois.verisign-grs.com",
@@ -1098,6 +1110,12 @@
         "epoch": 1626566400.0,
         "expiration_date": "18-jul-2021",
         "server": "whois.nic.club",
+        "state": "future"
+    },
+    "beepdo.com": {
+        "epoch": 1725235200.0,
+        "expiration_date": "02-sep-2024",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "beigeiros.pw": {
@@ -2218,6 +2236,12 @@
     "doathair.com": {
         "epoch": 1629072000.0,
         "expiration_date": "16-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "doktersehat.com": {
+        "epoch": 1669507200.0,
+        "expiration_date": "27-nov-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -6847,6 +6871,12 @@
         "server": "whois.id",
         "state": "future"
     },
+    "potret24.com": {
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "pradjadj.com": {
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
@@ -7070,6 +7100,12 @@
     "radartuba.com": {
         "epoch": 1638316800.0,
         "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "radiokucing.com": {
+        "epoch": 1641513600.0,
+        "expiration_date": "07-jan-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -8688,6 +8724,12 @@
         "epoch": 1634428800.0,
         "expiration_date": "17-oct-2021",
         "server": "whois.nic.me",
+        "state": "future"
+    },
+    "vimanews.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "viral-topics.com": {
