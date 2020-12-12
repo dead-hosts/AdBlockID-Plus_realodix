@@ -722,10 +722,10 @@
             "status": "ACTIVE"
         },
         "144.91.98.14": {
-            "included_at_epoch": 1605373926.108783,
-            "included_at_iso": "2020-11-14T17:12:06.108783",
-            "last_retested_at_epoch": 1606419232.68777,
-            "last_retested_at_iso": "2020-11-26T19:33:52.687770",
+            "included_at_epoch": 1607795833.873156,
+            "included_at_iso": "2020-12-12T17:57:13.873156",
+            "last_retested_at_epoch": 1607795834.204648,
+            "last_retested_at_iso": "2020-12-12T17:57:14.204648",
             "status": "ACTIVE"
         },
         "147.135.40.215": {
@@ -1268,17 +1268,17 @@
             "status": "ACTIVE"
         },
         "185.231.223.71": {
-            "included_at_epoch": 1605373926.250788,
-            "included_at_iso": "2020-11-14T17:12:06.250788",
-            "last_retested_at_epoch": 1606419229.104276,
-            "last_retested_at_iso": "2020-11-26T19:33:49.104276",
+            "included_at_epoch": 1607795834.015716,
+            "included_at_iso": "2020-12-12T17:57:14.015716",
+            "last_retested_at_epoch": 1607795834.015716,
+            "last_retested_at_iso": "2020-12-12T17:57:14.015716",
             "status": "ACTIVE"
         },
         "185.63.253.222": {
-            "included_at_epoch": 1605373926.065218,
-            "included_at_iso": "2020-11-14T17:12:06.065218",
-            "last_retested_at_epoch": 1606419220.160598,
-            "last_retested_at_iso": "2020-11-26T19:33:40.160598",
+            "included_at_epoch": 1607795833.82475,
+            "included_at_iso": "2020-12-12T17:57:13.824750",
+            "last_retested_at_epoch": 1607795833.922319,
+            "last_retested_at_iso": "2020-12-12T17:57:13.922319",
             "status": "INACTIVE"
         },
         "185.63.253.247": {
@@ -1611,10 +1611,10 @@
             "status": "INACTIVE"
         },
         "199.231.164.17": {
-            "included_at_epoch": 1605373926.203329,
-            "included_at_iso": "2020-11-14T17:12:06.203329",
-            "last_retested_at_epoch": 1606419221.851371,
-            "last_retested_at_iso": "2020-11-26T19:33:41.851371",
+            "included_at_epoch": 1607795833.969127,
+            "included_at_iso": "2020-12-12T17:57:13.969127",
+            "last_retested_at_epoch": 1607795833.969127,
+            "last_retested_at_iso": "2020-12-12T17:57:13.969127",
             "status": "ACTIVE"
         },
         "199.231.164.28": {
@@ -5860,10 +5860,10 @@
             "status": "ACTIVE"
         },
         "boaphaps.net": {
-            "included_at_epoch": 1605373926.005451,
-            "included_at_iso": "2020-11-14T17:12:06.005451",
-            "last_retested_at_epoch": 1606419092.9588,
-            "last_retested_at_iso": "2020-11-26T19:31:32.958800",
+            "included_at_epoch": 1607795833.77729,
+            "included_at_iso": "2020-12-12T17:57:13.777290",
+            "last_retested_at_epoch": 1607795833.77729,
+            "last_retested_at_iso": "2020-12-12T17:57:13.777290",
             "status": "ACTIVE"
         },
         "boayipids.com": {
@@ -16255,10 +16255,10 @@
             "status": "ACTIVE"
         },
         "odading21.com": {
-            "included_at_epoch": 1605373926.298875,
-            "included_at_iso": "2020-11-14T17:12:06.298875",
-            "last_retested_at_epoch": 1606419229.291128,
-            "last_retested_at_iso": "2020-11-26T19:33:49.291128",
+            "included_at_epoch": 1607795834.064911,
+            "included_at_iso": "2020-12-12T17:57:14.064911",
+            "last_retested_at_epoch": 1607795834.064911,
+            "last_retested_at_iso": "2020-12-12T17:57:14.064911",
             "status": "ACTIVE"
         },
         "offgashah.club": {
@@ -18824,10 +18824,10 @@
             "status": "INACTIVE"
         },
         "s.kamerafoto.net": {
-            "included_at_epoch": 1605373926.498422,
-            "included_at_iso": "2020-11-14T17:12:06.498422",
-            "last_retested_at_epoch": 1605373926.498422,
-            "last_retested_at_iso": "2020-11-14T17:12:06.498422",
+            "included_at_epoch": 1607795834.251428,
+            "included_at_iso": "2020-12-12T17:57:14.251428",
+            "last_retested_at_epoch": 1607795834.251428,
+            "last_retested_at_iso": "2020-12-12T17:57:14.251428",
             "status": "ACTIVE"
         },
         "s7bola.": {
