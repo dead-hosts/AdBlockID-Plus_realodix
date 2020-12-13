@@ -9772,6 +9772,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:06.745161",
             "status": "INVALID"
         },
+        "gosipyuk.com": {
+            "included_at_epoch": 1607880877.005267,
+            "included_at_iso": "2020-12-13T17:34:37.005267",
+            "last_retested_at_epoch": 1607880877.005267,
+            "last_retested_at_iso": "2020-12-13T17:34:37.005267",
+            "status": "ACTIVE"
+        },
         "gotvnews.co.id": {
             "included_at_epoch": 1606763509.724367,
             "included_at_iso": "2020-11-30T19:11:49.724367",
@@ -12180,6 +12187,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:56.523259",
             "status": "ACTIVE"
         },
+        "kabarnusa.com": {
+            "included_at_epoch": 1607880877.063994,
+            "included_at_iso": "2020-12-13T17:34:37.063994",
+            "last_retested_at_epoch": 1607880877.123287,
+            "last_retested_at_iso": "2020-12-13T17:34:37.123287",
+            "status": "ACTIVE"
+        },
         "kabarpapua.co": {
             "included_at_epoch": 1607030241.484735,
             "included_at_iso": "2020-12-03T21:17:21.484735",
@@ -12542,6 +12556,13 @@
             "included_at_iso": "2020-12-03T21:15:53.164217",
             "last_retested_at_epoch": 1607030153.164217,
             "last_retested_at_iso": "2020-12-03T21:15:53.164217",
+            "status": "ACTIVE"
+        },
+        "kepogaul.com": {
+            "included_at_epoch": 1607880876.689816,
+            "included_at_iso": "2020-12-13T17:34:36.689816",
+            "last_retested_at_epoch": 1607880876.828673,
+            "last_retested_at_iso": "2020-12-13T17:34:36.828673",
             "status": "ACTIVE"
         },
         "kerenslot.net": {
@@ -17472,11 +17493,25 @@
             "last_retested_at_iso": "2020-12-03T21:17:26.346486",
             "status": "ACTIVE"
         },
+        "posbagus.com": {
+            "included_at_epoch": 1607880876.769762,
+            "included_at_iso": "2020-12-13T17:34:36.769762",
+            "last_retested_at_epoch": 1607880876.887084,
+            "last_retested_at_iso": "2020-12-13T17:34:36.887084",
+            "status": "ACTIVE"
+        },
         "posbali.co.id": {
             "included_at_epoch": 1607030239.14719,
             "included_at_iso": "2020-12-03T21:17:19.147190",
             "last_retested_at_epoch": 1607030246.918751,
             "last_retested_at_iso": "2020-12-03T21:17:26.918751",
+            "status": "ACTIVE"
+        },
+        "poskata.com": {
+            "included_at_epoch": 1607880876.945415,
+            "included_at_iso": "2020-12-13T17:34:36.945415",
+            "last_retested_at_epoch": 1607880876.945415,
+            "last_retested_at_iso": "2020-12-13T17:34:36.945415",
             "status": "ACTIVE"
         },
         "posmetropadang.co.id": {

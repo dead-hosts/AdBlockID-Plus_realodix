@@ -3136,6 +3136,12 @@
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "gosipyuk.com": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "gotvnews.co.id": {
         "epoch": 1639267200.0,
         "expiration_date": "12-dec-2021",
@@ -4266,6 +4272,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "kabarnusa.com": {
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "kabarpapua.co": {
         "epoch": 1638144000.0,
         "expiration_date": "29-nov-2021",
@@ -4462,6 +4474,12 @@
     "kenfeeask.com": {
         "epoch": 1616198400.0,
         "expiration_date": "20-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "kepogaul.com": {
+        "epoch": 1682035200.0,
+        "expiration_date": "21-apr-2023",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -6889,10 +6907,22 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "posbagus.com": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "posbali.co.id": {
         "epoch": 1619222400.0,
         "expiration_date": "24-apr-2021",
         "server": "whois.id",
+        "state": "future"
+    },
+    "poskata.com": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "posmetropadang.co.id": {

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.345.1022
+! Version: 20.348.803
 ! Title: AdBlockID
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 10 Dec 2020 17:02 UTC
+! Last modified: 13 Dec 2020 13:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -679,6 +679,7 @@ _980x60.
 _980x90.
 _981x100.gif
 _996x50.gif
+_ads_733x.$image
 _GIF1200x120-
 ! *** abid:src/general_hide.adbl ***
 ###Ad300B
@@ -697,6 +698,10 @@ _GIF1200x120-
 ###ad_bgbottomright
 ###ad_divRight
 ###ad_global_below_navbar
+###ads-2
+###ads-2a
+###ads-3
+###ads-3a
 ###ads-960-mid
 ###ads-atas-player
 ###ads-atas-player-m
@@ -2556,6 +2561,8 @@ waralabakan.com##.banneritem
 radiotemansejati.com##.bannersinglefot
 brainly.co.id##.brn-ab-detection-screening
 rumus.co.id,rumusbilangan.com,rumusrumus.com##.closads
+kepogaul.com,posbagus.com##.content .box-height-100px-250px
+kepogaul.com,posbagus.com##.content .box-height-300px
 urbandigital.id##.direct-ads
 gamebrott.com##.floatingbanner
 otakotaku.com##.footer .col-md-3
@@ -2601,9 +2608,10 @@ cermati.com##.sticky-banner
 productnation.co##.sticky-close
 bagitekno.net##.stickyads
 duniafintech.com##.td-a-rec
+poskata.com##.textwidget > .box-450h
 baliekbis.com##.textwidget > .img-hyperlink
 juragancipir.com##.topad
-bacaanasik.cc,cerpen.co.id,diaridona.com,pastiseru.com##.ui_adblock
+bacaanasik.cc,cerpen.co.id,diaridona.com,gosipyuk.com,pastiseru.com##.ui_adblock
 konsultasisyariah.com##.widget a[target="_blank"] img
 bayufitri.com##.widget-area a[target="_blank"] img
 kompiajaib.com##.widget-wrapper .link-btn:has-text(Iklan)
@@ -9345,11 +9353,12 @@ kapanlagi.com###v8-leaderboard
 tribunnews.com###wideskyscraper
 solopos.com##.ad--widget
 matamatapolitik.com##.ad-code-block
+kabarnusa.com##.ad_honda
 solopos.com##.adcontainer
 lampungpro.co##.add-img
 dialeksis.com##.add-space
 cendananews.com,sultrakini.com##.adloc-is-banner
-jalantikus.com,minangsatu.com,okezone.com,tabloidjubi.com,terasjabar.id##.ads
+jalantikus.com,kabarnusa.com,minangsatu.com,okezone.com,tabloidjubi.com,terasjabar.id##.ads
 kompas.tv##.ads-foot
 kontan.co.id##.ads-r1
 winnetnews.com##.ads-slider
@@ -10023,7 +10032,10 @@ wartaterkini.news##body.unselectable:style(-webkit-touch-callout: default!import
 ! Video Embed
 grid.id##.videoPlaylistPlugClass-carousel
 ||20.detik.com/embed/$frame,redirect=click2load.html,domain=~20.detik.com|~adsmart.detik.com
+||cnbcindonesia.com/embed/video/$frame,redirect=click2load.html
 ||dailymotion.com/embed/$frame,important,redirect=click2load.html,domain=viva.co.id
+||haibunda.com/embed/video/$frame,redirect=click2load.html
+||insertlive.com/embed/video/$frame,redirect=click2load.html
 ||ivideosmart.com/ivsplayer/$script,domain=bolasport.com|brilio.net|feedme.id|geeq.id|genpi.co|grid.id|idntimes.com|jubi.co.id|kompas.com|kontan.co.id|styl.id|sulselsatu.com|tempo.co|~video.tempo.co
 ||ivideosmart.com/ivxplayer/$script,domain=grid.id|kompas.com
 ||sindonews.com/frame/$frame,redirect=click2load.html
@@ -10475,4 +10487,4 @@ iklanpopuler.com,sebariklanbaris.net,ziyata.com#@#[src*="/iklan/"]
 ! 
 ! https://github.com/realodix/AdBlockID/issues/467
 @@/social-sharing-$script,domain=axe.com
-! Checksum: BftxFYC5A7XqV5xl0oKE1w
+! Checksum: DVPkExk5JpzI/S2YTRKsdA
