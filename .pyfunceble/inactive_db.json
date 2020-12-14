@@ -43,10 +43,10 @@
             "status": "ACTIVE"
         },
         "1001win.loan": {
-            "included_at_epoch": 1605549586.087178,
-            "included_at_iso": "2020-11-16T17:59:46.087178",
-            "last_retested_at_epoch": 1606419190.892391,
-            "last_retested_at_iso": "2020-11-26T19:33:10.892391",
+            "included_at_epoch": 1607970456.937076,
+            "included_at_iso": "2020-12-14T18:27:36.937076",
+            "last_retested_at_epoch": 1607970456.937076,
+            "last_retested_at_iso": "2020-12-14T18:27:36.937076",
             "status": "ACTIVE"
         },
         "1001win.net": {
@@ -1121,10 +1121,10 @@
             "status": "ACTIVE"
         },
         "172.105.242.100": {
-            "included_at_epoch": 1605549586.03714,
-            "included_at_iso": "2020-11-16T17:59:46.037140",
-            "last_retested_at_epoch": 1606419182.282549,
-            "last_retested_at_iso": "2020-11-26T19:33:02.282549",
+            "included_at_epoch": 1607970456.888577,
+            "included_at_iso": "2020-12-14T18:27:36.888577",
+            "last_retested_at_epoch": 1607970456.888577,
+            "last_retested_at_iso": "2020-12-14T18:27:36.888577",
             "status": "ACTIVE"
         },
         "172.96.189.133": {
@@ -1618,10 +1618,10 @@
             "status": "ACTIVE"
         },
         "199.231.164.28": {
-            "included_at_epoch": 1605549586.201622,
-            "included_at_iso": "2020-11-16T17:59:46.201622",
-            "last_retested_at_epoch": 1606419223.568392,
-            "last_retested_at_iso": "2020-11-26T19:33:43.568392",
+            "included_at_epoch": 1607970457.031133,
+            "included_at_iso": "2020-12-14T18:27:37.031133",
+            "last_retested_at_epoch": 1607970457.031133,
+            "last_retested_at_iso": "2020-12-14T18:27:37.031133",
             "status": "ACTIVE"
         },
         "199.30.55.63": {
@@ -6510,6 +6510,13 @@
             "last_retested_at_iso": "2020-11-20T20:24:43.519180",
             "status": "ACTIVE"
         },
+        "casafelink2.blogspot.com": {
+            "included_at_epoch": 1607970457.371826,
+            "included_at_iso": "2020-12-14T18:27:37.371826",
+            "last_retested_at_epoch": 1607970457.371826,
+            "last_retested_at_iso": "2020-12-14T18:27:37.371826",
+            "status": "ACTIVE"
+        },
         "cash-harvest.": {
             "included_at_epoch": 1607030162.881825,
             "included_at_iso": "2020-12-03T21:16:02.881825",
@@ -8520,10 +8527,10 @@
             "status": "ACTIVE"
         },
         "efek.stream": {
-            "included_at_epoch": 1605549586.244611,
-            "included_at_iso": "2020-11-16T17:59:46.244611",
-            "last_retested_at_epoch": 1606419226.038797,
-            "last_retested_at_iso": "2020-11-26T19:33:46.038797",
+            "included_at_epoch": 1607970457.077116,
+            "included_at_iso": "2020-12-14T18:27:37.077116",
+            "last_retested_at_epoch": 1607970457.077116,
+            "last_retested_at_iso": "2020-12-14T18:27:37.077116",
             "status": "ACTIVE"
         },
         "ehebborc.com": {
@@ -13622,6 +13629,13 @@
             "last_retested_at_iso": "2020-11-26T19:33:51.470298",
             "status": "ACTIVE"
         },
+        "leafpro.website": {
+            "included_at_epoch": 1607970457.123681,
+            "included_at_iso": "2020-12-14T18:27:37.123681",
+            "last_retested_at_epoch": 1607970457.123681,
+            "last_retested_at_iso": "2020-12-14T18:27:37.123681",
+            "status": "ACTIVE"
+        },
         "lebahmovie.com": {
             "included_at_epoch": 1605903880.276635,
             "included_at_iso": "2020-11-20T20:24:40.276635",
@@ -17312,10 +17326,10 @@
             "status": "ACTIVE"
         },
         "pikiran-rakyat.com": {
-            "included_at_epoch": 1605549586.30424,
-            "included_at_iso": "2020-11-16T17:59:46.304240",
-            "last_retested_at_epoch": 1605549586.450635,
-            "last_retested_at_iso": "2020-11-16T17:59:46.450635",
+            "included_at_epoch": 1607970457.18627,
+            "included_at_iso": "2020-12-14T18:27:37.186270",
+            "last_retested_at_epoch": 1607970457.278758,
+            "last_retested_at_iso": "2020-12-14T18:27:37.278758",
             "status": "ACTIVE"
         },
         "pilaradiocirebon.com": {
@@ -21701,10 +21715,10 @@
             "status": "ACTIVE"
         },
         "uniplay99.org": {
-            "included_at_epoch": 1605549586.146006,
-            "included_at_iso": "2020-11-16T17:59:46.146006",
-            "last_retested_at_epoch": 1606419200.213952,
-            "last_retested_at_iso": "2020-11-26T19:33:20.213952",
+            "included_at_epoch": 1607970456.985131,
+            "included_at_iso": "2020-12-14T18:27:36.985131",
+            "last_retested_at_epoch": 1607970456.985131,
+            "last_retested_at_iso": "2020-12-14T18:27:36.985131",
             "status": "ACTIVE"
         },
         "universal-qq.": {
@@ -22597,10 +22611,10 @@
             "status": "ACTIVE"
         },
         "www-pikiran--rakyat-com.cdn.ampproject.org": {
-            "included_at_epoch": 1605549586.359672,
-            "included_at_iso": "2020-11-16T17:59:46.359672",
-            "last_retested_at_epoch": 1605549586.401626,
-            "last_retested_at_iso": "2020-11-16T17:59:46.401626",
+            "included_at_epoch": 1607970457.232003,
+            "included_at_iso": "2020-12-14T18:27:37.232003",
+            "last_retested_at_epoch": 1607970457.325171,
+            "last_retested_at_iso": "2020-12-14T18:27:37.325171",
             "status": "ACTIVE"
         },
         "www.beepdo.com": {
