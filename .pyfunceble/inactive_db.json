@@ -29,10 +29,10 @@
             "status": "ACTIVE"
         },
         "1001win.bid": {
-            "included_at_epoch": 1605639391.660326,
-            "included_at_iso": "2020-11-17T18:56:31.660326",
-            "last_retested_at_epoch": 1606419190.799314,
-            "last_retested_at_iso": "2020-11-26T19:33:10.799314",
+            "included_at_epoch": 1608059660.105402,
+            "included_at_iso": "2020-12-15T19:14:20.105402",
+            "last_retested_at_epoch": 1608059660.105402,
+            "last_retested_at_iso": "2020-12-15T19:14:20.105402",
             "status": "ACTIVE"
         },
         "1001win.fun": {
@@ -729,10 +729,10 @@
             "status": "ACTIVE"
         },
         "147.135.40.215": {
-            "included_at_epoch": 1605639391.617335,
-            "included_at_iso": "2020-11-17T18:56:31.617335",
-            "last_retested_at_epoch": 1606419180.056367,
-            "last_retested_at_iso": "2020-11-26T19:33:00.056367",
+            "included_at_epoch": 1608059660.056789,
+            "included_at_iso": "2020-12-15T19:14:20.056789",
+            "last_retested_at_epoch": 1608059660.056789,
+            "last_retested_at_iso": "2020-12-15T19:14:20.056789",
             "status": "INACTIVE"
         },
         "148.72.239.4": {
@@ -5188,10 +5188,10 @@
             "status": "INVALID"
         },
         "beantowntapfest.com": {
-            "included_at_epoch": 1605639391.718127,
-            "included_at_iso": "2020-11-17T18:56:31.718127",
-            "last_retested_at_epoch": 1606419192.474798,
-            "last_retested_at_iso": "2020-11-26T19:33:12.474798",
+            "included_at_epoch": 1608059660.151352,
+            "included_at_iso": "2020-12-15T19:14:20.151352",
+            "last_retested_at_epoch": 1608059660.151352,
+            "last_retested_at_iso": "2020-12-15T19:14:20.151352",
             "status": "ACTIVE"
         },
         "beasiswaindo.com": {
@@ -6910,10 +6910,10 @@
             "status": "ACTIVE"
         },
         "cloudmediabiz.com": {
-            "included_at_epoch": 1605639391.53653,
-            "included_at_iso": "2020-11-17T18:56:31.536530",
-            "last_retested_at_epoch": 1606419106.239004,
-            "last_retested_at_iso": "2020-11-26T19:31:46.239004",
+            "included_at_epoch": 1608059659.984714,
+            "included_at_iso": "2020-12-15T19:14:19.984714",
+            "last_retested_at_epoch": 1608059659.984714,
+            "last_retested_at_iso": "2020-12-15T19:14:19.984714",
             "status": "ACTIVE"
         },
         "cmcbet.": {
@@ -9129,10 +9129,10 @@
             "status": "ACTIVE"
         },
         "fpalondon.net": {
-            "included_at_epoch": 1605639391.772418,
-            "included_at_iso": "2020-11-17T18:56:31.772418",
-            "last_retested_at_epoch": 1606419193.90678,
-            "last_retested_at_iso": "2020-11-26T19:33:13.906780",
+            "included_at_epoch": 1608059660.198057,
+            "included_at_iso": "2020-12-15T19:14:20.198057",
+            "last_retested_at_epoch": 1608059660.198057,
+            "last_retested_at_iso": "2020-12-15T19:14:20.198057",
             "status": "ACTIVE"
         },
         "franchiseglobal.com": {
@@ -9143,10 +9143,10 @@
             "status": "ACTIVE"
         },
         "fromthebasement.tv": {
-            "included_at_epoch": 1605639391.827003,
-            "included_at_iso": "2020-11-17T18:56:31.827003",
-            "last_retested_at_epoch": 1606419193.953816,
-            "last_retested_at_iso": "2020-11-26T19:33:13.953816",
+            "included_at_epoch": 1608059660.244934,
+            "included_at_iso": "2020-12-15T19:14:20.244934",
+            "last_retested_at_epoch": 1608059660.244934,
+            "last_retested_at_iso": "2020-12-15T19:14:20.244934",
             "status": "ACTIVE"
         },
         "fryawlauk.com": {
@@ -12979,10 +12979,10 @@
             "status": "ACTIVE"
         },
         "kompaslampung.com": {
-            "included_at_epoch": 1605639391.881838,
-            "included_at_iso": "2020-11-17T18:56:31.881838",
-            "last_retested_at_epoch": 1606419213.719763,
-            "last_retested_at_iso": "2020-11-26T19:33:33.719763",
+            "included_at_epoch": 1608059660.291576,
+            "included_at_iso": "2020-12-15T19:14:20.291576",
+            "last_retested_at_epoch": 1608059660.291576,
+            "last_retested_at_iso": "2020-12-15T19:14:20.291576",
             "status": "ACTIVE"
         },
         "kompaslima.com": {
