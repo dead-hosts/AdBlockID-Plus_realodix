@@ -925,10 +925,10 @@
             "status": "ACTIVE"
         },
         "162.213.249.103": {
-            "included_at_epoch": 1605723049.857742,
-            "included_at_iso": "2020-11-18T18:10:49.857742",
-            "last_retested_at_epoch": 1606419226.086373,
-            "last_retested_at_iso": "2020-11-26T19:33:46.086373",
+            "included_at_epoch": 1608142523.900419,
+            "included_at_iso": "2020-12-16T18:15:23.900419",
+            "last_retested_at_epoch": 1608142523.900419,
+            "last_retested_at_iso": "2020-12-16T18:15:23.900419",
             "status": "INACTIVE"
         },
         "162.213.249.123": {
@@ -939,10 +939,10 @@
             "status": "ACTIVE"
         },
         "162.213.249.26": {
-            "included_at_epoch": 1605723049.794571,
-            "included_at_iso": "2020-11-18T18:10:49.794571",
-            "last_retested_at_epoch": 1606419181.297615,
-            "last_retested_at_iso": "2020-11-26T19:33:01.297615",
+            "included_at_epoch": 1608142523.555615,
+            "included_at_iso": "2020-12-16T18:15:23.555615",
+            "last_retested_at_epoch": 1608142523.555615,
+            "last_retested_at_iso": "2020-12-16T18:15:23.555615",
             "status": "INACTIVE"
         },
         "162.213.249.4": {
@@ -2807,6 +2807,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:37.448170",
             "status": "INACTIVE"
         },
+        "85.114.138.56": {
+            "included_at_epoch": 1608142523.942597,
+            "included_at_iso": "2020-12-16T18:15:23.942597",
+            "last_retested_at_epoch": 1608142523.942597,
+            "last_retested_at_iso": "2020-12-16T18:15:23.942597",
+            "status": "ACTIVE"
+        },
         "855bandar.": {
             "included_at_epoch": 1607030158.8906,
             "included_at_iso": "2020-12-03T21:15:58.890600",
@@ -4667,6 +4674,13 @@
             "included_at_iso": "2020-12-04T02:08:15.732947",
             "last_retested_at_epoch": 1607047695.732947,
             "last_retested_at_iso": "2020-12-04T02:08:15.732947",
+            "status": "ACTIVE"
+        },
+        "ataeh.blogspot.com": {
+            "included_at_epoch": 1608142523.692507,
+            "included_at_iso": "2020-12-16T18:15:23.692507",
+            "last_retested_at_epoch": 1608142523.692507,
+            "last_retested_at_iso": "2020-12-16T18:15:23.692507",
             "status": "ACTIVE"
         },
         "atwenbat.com": {
@@ -10962,6 +10976,13 @@
             "last_retested_at_iso": "2020-12-03T21:15:54.498217",
             "status": "ACTIVE"
         },
+        "inblogspot.com": {
+            "included_at_epoch": 1608142523.782148,
+            "included_at_iso": "2020-12-16T18:15:23.782148",
+            "last_retested_at_epoch": 1608142523.782148,
+            "last_retested_at_iso": "2020-12-16T18:15:23.782148",
+            "status": "ACTIVE"
+        },
         "incar-qq.": {
             "included_at_epoch": 1607030168.369158,
             "included_at_iso": "2020-12-03T21:16:08.369158",
@@ -13223,6 +13244,13 @@
             "last_retested_at_iso": "2020-11-26T19:33:50.880782",
             "status": "ACTIVE"
         },
+        "kuliahkomputer.com": {
+            "included_at_epoch": 1608142523.986652,
+            "included_at_iso": "2020-12-16T18:15:23.986652",
+            "last_retested_at_epoch": 1608142523.986652,
+            "last_retested_at_iso": "2020-12-16T18:15:23.986652",
+            "status": "ACTIVE"
+        },
         "kumparan.com": {
             "included_at_epoch": 1607030216.647466,
             "included_at_iso": "2020-12-03T21:16:56.647466",
@@ -14245,6 +14273,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:42.240470",
             "status": "ACTIVE"
         },
+        "mahirngoding.blogspot.com": {
+            "included_at_epoch": 1608142523.600776,
+            "included_at_iso": "2020-12-16T18:15:23.600776",
+            "last_retested_at_epoch": 1608142523.737584,
+            "last_retested_at_iso": "2020-12-16T18:15:23.737584",
+            "status": "ACTIVE"
+        },
         "mahkotabola.": {
             "included_at_epoch": 1607030172.128191,
             "included_at_iso": "2020-12-03T21:16:12.128191",
@@ -14887,6 +14922,13 @@
             "included_at_iso": "2020-12-03T21:17:10.800378",
             "last_retested_at_epoch": 1607030244.399141,
             "last_retested_at_iso": "2020-12-03T21:17:24.399141",
+            "status": "ACTIVE"
+        },
+        "meganebuk.net": {
+            "included_at_epoch": 1608142523.843278,
+            "included_at_iso": "2020-12-16T18:15:23.843278",
+            "last_retested_at_epoch": 1608142523.843278,
+            "last_retested_at_iso": "2020-12-16T18:15:23.843278",
             "status": "ACTIVE"
         },
         "megapolitanpos.com": {
@@ -19108,6 +19150,13 @@
             "included_at_iso": "2020-12-04T19:59:11.222054",
             "last_retested_at_epoch": 1607111951.222054,
             "last_retested_at_iso": "2020-12-04T19:59:11.222054",
+            "status": "ACTIVE"
+        },
+        "satugoogle.blogspot.com": {
+            "included_at_epoch": 1608142523.647065,
+            "included_at_iso": "2020-12-16T18:15:23.647065",
+            "last_retested_at_epoch": 1608142523.647065,
+            "last_retested_at_iso": "2020-12-16T18:15:23.647065",
             "status": "ACTIVE"
         },
         "saungfirmware.id": {

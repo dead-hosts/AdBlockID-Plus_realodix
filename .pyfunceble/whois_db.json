@@ -3661,6 +3661,12 @@
         "expiration_date": "28-feb-2021",
         "state": "future"
     },
+    "inblogspot.com": {
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "indcit.com": {
         "epoch": 1622937600.0,
         "expiration_date": "06-jun-2021",
@@ -4890,6 +4896,12 @@
         "expiration_date": "02-mar-2021",
         "state": "future"
     },
+    "kuliahkomputer.com": {
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "kumparan.com": {
         "epoch": 1643760000.0,
         "expiration_date": "02-feb-2022",
@@ -5682,6 +5694,12 @@
         "epoch": 1615766400.0,
         "expiration_date": "15-mar-2021",
         "server": "whois.id",
+        "state": "future"
+    },
+    "meganebuk.net": {
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "megapolitanpos.com": {
