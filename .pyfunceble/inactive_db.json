@@ -3647,6 +3647,13 @@
             "last_retested_at_iso": "2020-12-03T21:15:52.395429",
             "status": "ACTIVE"
         },
+        "ainamulyana.blogspot.com": {
+            "included_at_epoch": 1608230827.54095,
+            "included_at_iso": "2020-12-17T18:47:07.540950",
+            "last_retested_at_epoch": 1608230827.54095,
+            "last_retested_at_iso": "2020-12-17T18:47:07.540950",
+            "status": "ACTIVE"
+        },
         "airartapt.site": {
             "included_at_epoch": 1607030152.424266,
             "included_at_iso": "2020-12-03T21:15:52.424266",
@@ -3927,6 +3934,13 @@
             "last_retested_at_iso": "2020-12-03T21:15:56.726693",
             "status": "ACTIVE"
         },
+        "androidapksfree.com": {
+            "included_at_epoch": 1608230828.604733,
+            "included_at_iso": "2020-12-17T18:47:08.604733",
+            "last_retested_at_epoch": 1608230828.604733,
+            "last_retested_at_iso": "2020-12-17T18:47:08.604733",
+            "status": "ACTIVE"
+        },
         "androidbusiness.us": {
             "included_at_epoch": 1605903883.561357,
             "included_at_iso": "2020-11-20T20:24:43.561357",
@@ -4179,6 +4193,13 @@
             "last_retested_at_iso": "2020-11-26T19:33:35.033924",
             "status": "ACTIVE"
         },
+        "apk-support.cdn.ampproject.org": {
+            "included_at_epoch": 1608230828.72313,
+            "included_at_iso": "2020-12-17T18:47:08.723130",
+            "last_retested_at_epoch": 1608230828.72313,
+            "last_retested_at_iso": "2020-12-17T18:47:08.723130",
+            "status": "ACTIVE"
+        },
         "apk.miuiku.com": {
             "included_at_epoch": 1605903884.28528,
             "included_at_iso": "2020-11-20T20:24:44.285280",
@@ -4198,6 +4219,41 @@
             "included_at_iso": "2020-11-20T20:24:44.326857",
             "last_retested_at_epoch": 1605903887.086156,
             "last_retested_at_iso": "2020-11-20T20:24:47.086156",
+            "status": "ACTIVE"
+        },
+        "apk.support": {
+            "included_at_epoch": 1608230828.439273,
+            "included_at_iso": "2020-12-17T18:47:08.439273",
+            "last_retested_at_epoch": 1608230828.543352,
+            "last_retested_at_iso": "2020-12-17T18:47:08.543352",
+            "status": "ACTIVE"
+        },
+        "apkgezegeni.com": {
+            "included_at_epoch": 1608230828.830457,
+            "included_at_iso": "2020-12-17T18:47:08.830457",
+            "last_retested_at_epoch": 1608230828.830457,
+            "last_retested_at_iso": "2020-12-17T18:47:08.830457",
+            "status": "ACTIVE"
+        },
+        "apkmodif.com": {
+            "included_at_epoch": 1608230828.663401,
+            "included_at_iso": "2020-12-17T18:47:08.663401",
+            "last_retested_at_epoch": 1608230828.663401,
+            "last_retested_at_iso": "2020-12-17T18:47:08.663401",
+            "status": "ACTIVE"
+        },
+        "apkmody.io": {
+            "included_at_epoch": 1608230828.260147,
+            "included_at_iso": "2020-12-17T18:47:08.260147",
+            "last_retested_at_epoch": 1608230828.260147,
+            "last_retested_at_iso": "2020-12-17T18:47:08.260147",
+            "status": "ACTIVE"
+        },
+        "apkpure.com": {
+            "included_at_epoch": 1608230828.380434,
+            "included_at_iso": "2020-12-17T18:47:08.380434",
+            "last_retested_at_epoch": 1608230828.380434,
+            "last_retested_at_iso": "2020-12-17T18:47:08.380434",
             "status": "ACTIVE"
         },
         "aplikasipc.com": {
@@ -5271,6 +5327,13 @@
             "last_retested_at_iso": "2020-12-05T17:35:57.910583",
             "status": "ACTIVE"
         },
+        "belajarmembuatwebsite.com": {
+            "included_at_epoch": 1608230828.019446,
+            "included_at_iso": "2020-12-17T18:47:08.019446",
+            "last_retested_at_epoch": 1608230828.019446,
+            "last_retested_at_iso": "2020-12-17T18:47:08.019446",
+            "status": "ACTIVE"
+        },
         "belapendidikan.com": {
             "included_at_epoch": 1607030156.124736,
             "included_at_iso": "2020-12-03T21:15:56.124736",
@@ -5836,6 +5899,13 @@
             "included_at_iso": "2020-12-03T21:15:55.401969",
             "last_retested_at_epoch": 1607030156.896818,
             "last_retested_at_iso": "2020-12-03T21:15:56.896818",
+            "status": "ACTIVE"
+        },
+        "bloging-gampang.blogspot.com": {
+            "included_at_epoch": 1608230827.870325,
+            "included_at_iso": "2020-12-17T18:47:07.870325",
+            "last_retested_at_epoch": 1608230827.870325,
+            "last_retested_at_iso": "2020-12-17T18:47:07.870325",
             "status": "ACTIVE"
         },
         "blogsecond.com": {
@@ -7392,6 +7462,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:39.713516",
             "status": "ACTIVE"
         },
+        "datadikdasmen.com": {
+            "included_at_epoch": 1608230827.749654,
+            "included_at_iso": "2020-12-17T18:47:07.749654",
+            "last_retested_at_epoch": 1608230827.749654,
+            "last_retested_at_iso": "2020-12-17T18:47:07.749654",
+            "status": "ACTIVE"
+        },
         "datahk69.com": {
             "included_at_epoch": 1607030199.675547,
             "included_at_iso": "2020-12-03T21:16:39.675547",
@@ -7768,6 +7845,13 @@
             "included_at_iso": "2020-12-03T21:15:53.879652",
             "last_retested_at_epoch": 1607030153.879652,
             "last_retested_at_iso": "2020-12-03T21:15:53.879652",
+            "status": "ACTIVE"
+        },
+        "digitaladies.id": {
+            "included_at_epoch": 1608230827.584855,
+            "included_at_iso": "2020-12-17T18:47:07.584855",
+            "last_retested_at_epoch": 1608230827.584855,
+            "last_retested_at_iso": "2020-12-17T18:47:07.584855",
             "status": "ACTIVE"
         },
         "digtara.com": {
@@ -8890,6 +8974,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:05.702423",
             "status": "INVALID"
         },
+        "famfonts.com": {
+            "included_at_epoch": 1608230828.767154,
+            "included_at_iso": "2020-12-17T18:47:08.767154",
+            "last_retested_at_epoch": 1608230828.767154,
+            "last_retested_at_iso": "2020-12-17T18:47:08.767154",
+            "status": "ACTIVE"
+        },
         "fandmo.com": {
             "included_at_epoch": 1607030151.887823,
             "included_at_iso": "2020-12-03T21:15:51.887823",
@@ -8987,6 +9078,13 @@
             "last_retested_at_epoch": 1607030165.788831,
             "last_retested_at_iso": "2020-12-03T21:16:05.788831",
             "status": "INVALID"
+        },
+        "filehorse.com": {
+            "included_at_epoch": 1608230828.498461,
+            "included_at_iso": "2020-12-17T18:47:08.498461",
+            "last_retested_at_epoch": 1608230828.498461,
+            "last_retested_at_iso": "2020-12-17T18:47:08.498461",
+            "status": "ACTIVE"
         },
         "film21ku.xyz": {
             "included_at_epoch": 1607030215.744453,
@@ -9275,6 +9373,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:40.093225",
             "status": "ACTIVE"
         },
+        "gamebrott-com.cdn.ampproject.org": {
+            "included_at_epoch": 1608230827.259183,
+            "included_at_iso": "2020-12-17T18:47:07.259183",
+            "last_retested_at_epoch": 1608230827.259183,
+            "last_retested_at_iso": "2020-12-17T18:47:07.259183",
+            "status": "ACTIVE"
+        },
         "gamebrott.com": {
             "included_at_epoch": 1607030155.274554,
             "included_at_iso": "2020-12-03T21:15:55.274554",
@@ -9540,6 +9645,13 @@
             "last_retested_at_epoch": 1607030166.429473,
             "last_retested_at_iso": "2020-12-03T21:16:06.429473",
             "status": "INVALID"
+        },
+        "geograpik.blogspot.com": {
+            "included_at_epoch": 1608230827.705367,
+            "included_at_iso": "2020-12-17T18:47:07.705367",
+            "last_retested_at_epoch": 1608230827.705367,
+            "last_retested_at_iso": "2020-12-17T18:47:07.705367",
+            "status": "ACTIVE"
         },
         "geraifilm.com": {
             "included_at_epoch": 1605903878.108467,
@@ -9911,6 +10023,13 @@
             "last_retested_at_epoch": 1607030166.767632,
             "last_retested_at_iso": "2020-12-03T21:16:06.767632",
             "status": "INVALID"
+        },
+        "guru-id.com": {
+            "included_at_epoch": 1608230827.423441,
+            "included_at_iso": "2020-12-17T18:47:07.423441",
+            "last_retested_at_epoch": 1608230827.423441,
+            "last_retested_at_iso": "2020-12-17T18:47:07.423441",
+            "status": "ACTIVE"
         },
         "hagobola.org": {
             "included_at_epoch": 1607030200.366548,
@@ -11142,6 +11261,13 @@
             "included_at_iso": "2020-12-11T21:50:20.025372",
             "last_retested_at_epoch": 1607723420.025372,
             "last_retested_at_iso": "2020-12-11T21:50:20.025372",
+            "status": "ACTIVE"
+        },
+        "infoguruku.net": {
+            "included_at_epoch": 1608230827.646106,
+            "included_at_iso": "2020-12-17T18:47:07.646106",
+            "last_retested_at_epoch": 1608230827.646106,
+            "last_retested_at_iso": "2020-12-17T18:47:07.646106",
             "status": "ACTIVE"
         },
         "infojambi.com": {
@@ -12642,6 +12768,13 @@
             "last_retested_at_iso": "2020-12-03T21:15:54.295297",
             "status": "ACTIVE"
         },
+        "kherysuryawan.id": {
+            "included_at_epoch": 1608230827.364875,
+            "included_at_iso": "2020-12-17T18:47:07.364875",
+            "last_retested_at_epoch": 1608230827.91434,
+            "last_retested_at_iso": "2020-12-17T18:47:07.914340",
+            "status": "ACTIVE"
+        },
         "khg97644rvbg.com": {
             "included_at_epoch": 1607030153.762869,
             "included_at_iso": "2020-12-03T21:15:53.762869",
@@ -12668,6 +12801,13 @@
             "included_at_iso": "2020-11-20T20:24:33.190468",
             "last_retested_at_epoch": 1606419231.280728,
             "last_retested_at_iso": "2020-11-26T19:33:51.280728",
+            "status": "ACTIVE"
+        },
+        "kincir.com": {
+            "included_at_epoch": 1608230827.201003,
+            "included_at_iso": "2020-12-17T18:47:07.201003",
+            "last_retested_at_epoch": 1608230827.30292,
+            "last_retested_at_iso": "2020-12-17T18:47:07.302920",
             "status": "ACTIVE"
         },
         "king368.": {
@@ -15925,6 +16065,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:14.997866",
             "status": "INVALID"
         },
+        "nesia.my.id": {
+            "included_at_epoch": 1608230827.138523,
+            "included_at_iso": "2020-12-17T18:47:07.138523",
+            "last_retested_at_epoch": 1608230827.138523,
+            "last_retested_at_iso": "2020-12-17T18:47:07.138523",
+            "status": "ACTIVE"
+        },
         "netizenbola.club": {
             "included_at_epoch": 1607030202.670849,
             "included_at_iso": "2020-12-03T21:16:42.670849",
@@ -18270,6 +18417,13 @@
             "last_retested_at_iso": "2020-12-03T21:17:26.256021",
             "status": "ACTIVE"
         },
+        "rahmancyber.net": {
+            "included_at_epoch": 1608230827.811928,
+            "included_at_iso": "2020-12-17T18:47:07.811928",
+            "last_retested_at_epoch": 1608230827.811928,
+            "last_retested_at_iso": "2020-12-17T18:47:07.811928",
+            "status": "ACTIVE"
+        },
         "raja111.": {
             "included_at_epoch": 1607030178.678018,
             "included_at_iso": "2020-12-03T21:16:18.678018",
@@ -18913,6 +19067,13 @@
             "last_retested_at_epoch": 1607030153.436939,
             "last_retested_at_iso": "2020-12-03T21:15:53.436939",
             "status": "INACTIVE"
+        },
+        "rzkbdlhsn.blogspot.com": {
+            "included_at_epoch": 1608230828.080942,
+            "included_at_iso": "2020-12-17T18:47:08.080942",
+            "last_retested_at_epoch": 1608230828.080942,
+            "last_retested_at_iso": "2020-12-17T18:47:08.080942",
+            "status": "ACTIVE"
         },
         "s.kamerafoto.net": {
             "included_at_epoch": 1607795834.251428,
@@ -20139,6 +20300,13 @@
             "last_retested_at_iso": "2020-12-03T21:16:22.164747",
             "status": "INVALID"
         },
+        "sportif.id": {
+            "included_at_epoch": 1608230828.216282,
+            "included_at_iso": "2020-12-17T18:47:08.216282",
+            "last_retested_at_epoch": 1608230828.216282,
+            "last_retested_at_iso": "2020-12-17T18:47:08.216282",
+            "status": "ACTIVE"
+        },
         "sportmarket88.": {
             "included_at_epoch": 1607030182.194768,
             "included_at_iso": "2020-12-03T21:16:22.194768",
@@ -20228,6 +20396,13 @@
             "included_at_iso": "2020-11-20T20:24:42.937281",
             "last_retested_at_epoch": 1605903885.767767,
             "last_retested_at_iso": "2020-11-20T20:24:45.767767",
+            "status": "ACTIVE"
+        },
+        "strukturkode.blogspot.com": {
+            "included_at_epoch": 1608230827.975559,
+            "included_at_iso": "2020-12-17T18:47:07.975559",
+            "last_retested_at_epoch": 1608230827.975559,
+            "last_retested_at_iso": "2020-12-17T18:47:07.975559",
             "status": "ACTIVE"
         },
         "suara.com": {
@@ -21805,6 +21980,13 @@
             "last_retested_at_iso": "2020-12-03T21:15:53.966787",
             "status": "ACTIVE"
         },
+        "uptodown.com": {
+            "included_at_epoch": 1608230828.321719,
+            "included_at_iso": "2020-12-17T18:47:08.321719",
+            "last_retested_at_epoch": 1608230828.321719,
+            "last_retested_at_iso": "2020-12-17T18:47:08.321719",
+            "status": "ACTIVE"
+        },
         "urarmbin.club": {
             "included_at_epoch": 1607030153.570773,
             "included_at_iso": "2020-12-03T21:15:53.570773",
@@ -22328,6 +22510,13 @@
             "included_at_iso": "2020-11-20T20:24:27.900935",
             "last_retested_at_epoch": 1606419212.53576,
             "last_retested_at_iso": "2020-11-26T19:33:32.535760",
+            "status": "ACTIVE"
+        },
+        "websiteedukasi.com": {
+            "included_at_epoch": 1608230827.482061,
+            "included_at_iso": "2020-12-17T18:47:07.482061",
+            "last_retested_at_epoch": 1608230828.154263,
+            "last_retested_at_iso": "2020-12-17T18:47:08.154263",
             "status": "ACTIVE"
         },
         "wedepoker.": {
