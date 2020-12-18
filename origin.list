@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.352.821
+! Version: 20.353.735
 ! Title: AdBlockID
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 17 Dec 2020 13:41 UTC
+! Last modified: 18 Dec 2020 12:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -1893,7 +1893,6 @@ _GIF1200x120-
 ##iframe[width="210"][height="237"]
 ##iframe[width="240"][height="350"]
 ##iframe[width="240"][height="400"]
-##iframe[width="300"][height="250"]
 ##iframe[width="468"][height="60"]
 ##iframe[width="600"][height="90"]
 ##iframe[width="728"][height="90"]
@@ -2370,6 +2369,7 @@ _GIF1200x120-
 ||dgw7ae5vrovs7.cloudfront.net^
 ||drda5yf9kgz5p.cloudfront.net^
 ||iklancpm.files.wordpress.com^$third-party
+||involve.asia/rpss/campaigns_banners/$image,third-party
 ||jadwaltelevisi.com^$third-party
 ||jogglo.com^$third-party
 ||kagetweb.com^*/banner110_$image,third-party
@@ -2430,9 +2430,9 @@ _GIF1200x120-
 ! *** abid:src/specific_block.adbl ***
 -ads-$image,domain=inikpop.com
 -banner.$image,domain=plaza-bisnis.com|tipsbelajarbahasainggris.com
-.gif$image,domain=aftermarketplus.id|agungjakanugraha.com|alladsnetwork.web.id|edukasibitcoin.com|enthus1ast.com|etalasebisnis.com|horassumutnews.com|hotabis.com|kombatch.com|komiku.net|smallencode.com
+.gif$image,domain=aftermarketplus.id|agungjakanugraha.com|alladsnetwork.web.id|edukasibitcoin.com|enthus1ast.com|etalasebisnis.com|hotabis.com|smallencode.com
 /*banner*.$image,domain=anangcozz.com|backpackstory.me|desainstudio.com|mariodevan.com
-/banner-$image,domain=bagitekno.net|ilmukita.org
+/banner-$image,domain=bagitekno.net|ilmukita.org|jagoankode.com
 /whatsapp-image-$image,domain=infodigimarket.com|inspirasipagi.id
 ||abenetwork.com^*/banner-
 ||ads-server.hipwee.com^
@@ -2553,6 +2553,7 @@ teknobos.com##.adcontainer
 radioonline.co.id##.add-box-top
 nonton.com##.adds
 mivo.com##.ads
+heyriad.com##.ads-below-title
 tutgwarnetgold.com##.ads-blog
 cermati.com##.ads-container
 ggwp.id##.ads-desktop
@@ -2600,6 +2601,7 @@ islampos.com##.labeliklan
 meowcitizen.com##.large-mobile-banner-1
 advertising-indonesia.id##.lded
 kabargames.id##.legend_banner-container
+wandercom.id##.logo-ad-wrapper
 ofiskita.com##.longAddsBox
 kabargames.id##.main_banner
 belapendidikan.com##.majalahpro-core-floatbanner
@@ -8814,29 +8816,28 @@ kaskus.co.id###thread_post_list > [id^="moderated-"]:-abp-contains(Post ini tela
 m.kaskus.co.id##.threadDetail .kaskus-tv-iframe
 m.kaskus.co.id##[id^="postdeleted"]
 ! 
+! GENERAL
+ainamulyana.blogspot.com,banjirembun.com,cumirproduction.blogspot.com,njongeblog.blogspot.com##+js(ra, oncontextmenu|ondragstart|onkeydown|onmousedown|onselectstart|style, body)
+! 
 ! ANTI-RIGHT-CLICK
 ! --------------------------------------------------------------
-1001tutorial.com,blogsecond.com,ilmumemikatwanita.com,kherysuryawan.id,psikologicinta.com,radiokucing.com,teraa.net##+js(acis, document.oncontextmenu)
+1001tutorial.com,banjirembun.com,blogsecond.com,ciriseo.net,ilmumemikatwanita.com,isrul.com,kherysuryawan.id,psikologicinta.com,radiokucing.com,teraa.net##+js(acis, document.oncontextmenu)
 mahirngoding.blogspot.com,nomis.id,websiteedukasi.com##+js(aeld, contextmenu)
 guru-id.com##+js(aopr, document.oncontextmenu)
-ainamulyana.blogspot.com##+js(ra, oncontextmenu, body)
 /ZaloSec/chuotphai/*$script
 ! 
 ! ANTI-SELECT
 ! --------------------------------------------------------------
-rencanamu.id###content_box:style(user-select: text !important; -webkit-touch-callout: default !important;)
+amtread.com,bisablog.com,boss-ant.blogspot.com,heyriad.com,ninoartikel.com,rencanamu.id,strukturkode.blogspot.com,suatekno.id,suckittrees.com,suryadhi.web.id,warunginter.net##*:style(user-select: text !important; -webkit-touch-callout: default !important;)
 ilmumemikatwanita.com,psikologicinta.com,teraa.net##+js(acis, disableSelection, reEnable)
-digitaladies.id,radiokucing.com##+js(acis, disableselect, reEnable)
+alfanrenata.com,digitaladies.id,radiokucing.com##+js(acis, disableselect, reEnable)
 nomis.id##+js(aeld, selectstart)
 satugoogle.blogspot.com,steffifauziah.com##+js(set, document.onselectstart, noopFunc)
-bisablog.com##.entry-content:style(user-select: text !important; -webkit-touch-callout: default !important;)
-ataeh.blogspot.com,bungfrangki.com,datadikdasmen.com,dewaplokis.com,dezige-in.blogspot.com,geograpik.blogspot.com,infoastronomy.org,infoguruku.net,rahmancyber.net,teknolalat.com,webkeren.net##.post-body:style(user-select: text !important; -webkit-touch-callout: default !important;)
-jagoandzgn.com,serieswans.com##.post-outer:style(user-select: text !important; -webkit-touch-callout: default !important;)
-bloging-gampang.blogspot.com,indravedia.com,kherysuryawan.id,santaibareng.net,tigaribu.net##.post:style(user-select: text !important; -webkit-touch-callout: default !important;)
-strukturkode.blogspot.com##.skmain-content:style(user-select: text !important; -webkit-touch-callout: default !important;)
-suatekno.id##.td-post-content:style(user-select: text !important; -webkit-touch-callout: default !important;)
+agussiswanto097.blogspot.com,ataeh.blogspot.com,banjirembun.com,bungfrangki.com,datadikdasmen.com,dewaplokis.com,dezige-in.blogspot.com,geograpik.blogspot.com,infoastronomy.org,infoguruku.net,inphedia.id,kangtutorial.com,kulcis.blogspot.com,nganggurajah.blogspot.com,rahmancyber.net,seniartaja.blogspot.com,suhux.com,teknolalat.com,webkeren.net##.post-body:style(user-select: text !important; -webkit-touch-callout: default !important;)
+bimdzgn.com,jagoandzgn.com,serieswans.com,struckturcode.blogspot.com,syilent.blogspot.com,winmahdi.com,zotutorial.com##.post-outer:style(user-select: text !important; -webkit-touch-callout: default !important;)
+bloging-gampang.blogspot.com,indravedia.com,isrul.com,kangghani.com,kherysuryawan.id,lapakinfo.net,njongeblog.blogspot.com,pondok-belajar.com,santaibareng.net,serba-serbi-bisa.blogspot.com,teh-goyang.blogspot.com,tigaribu.net##.post:style(user-select: text !important; -webkit-touch-callout: default !important;)
 ilmumemikatwanita.com,psikologicinta.com##.unselectable:style(user-select: text !important; -webkit-touch-callout: default !important;)
-belajarmembuatwebsite.com,blogsecond.com,igniel.com,inblogspot.com,mahirngoding.blogspot.com,mrmung.com,ponselsoak.com,rzkbdlhsn.blogspot.com,websiteedukasi.com##body:style(user-select: text !important; -webkit-touch-callout: default !important;)
+belajarmembuatwebsite.com,blogsecond.com,elmu-blog.blogspot.com,igniel.com,inblogspot.com,irnanto.com,kurniayoung.com,mahirngoding.blogspot.com,mrmung.com,ponselsoak.com,rzkbdlhsn.blogspot.com,tamboenman.xyz,websiteedukasi.com##body:style(user-select: text !important; -webkit-touch-callout: default !important;)
 ! 
 ! ANTI-COPY
 ! --------------------------------------------------------------
@@ -8865,6 +8866,8 @@ seputarforex.com##.show.modal-backdrop
 /wp-content/plugins/popup-builder/*$script,domain=sindomanado.com
 ! 
 bacaan.id,kabargames.id##+js(aopr, SGPB_POPUP_PARAMS)
+! Content Embed
+||soundcloud.com/player/$frame,important,redirect=click2load.html,domain=cumirproduction.blogspot.com
 ! 
 ! PRIVACY
 ! --------------------------------------------------------------
@@ -8882,6 +8885,7 @@ bacaan.id,kabargames.id##+js(aopr, SGPB_POPUP_PARAMS)
 ! *** abid:src/packages/comic.adbl ***
 ! SPECIFIC BLOCK
 ! --------------------------------------------------------------
+.gif$image,domain=kombatch.com
 /iklan.$script,domain=komiku.co.id
 ||mangaku.link/*.gif$image
 ! SPECIFIC HIDE
@@ -8913,7 +8917,7 @@ mangaku.pro##+js(aeld, contextmenu)
 ! ANTI-ADBLOCK
 ! --------------------------------------------------------------
 mangaindo.web.id,meganebuk.net##+js(aopr, anOptions)
-komikcast.com,komikindo.web.id##+js(nobab)
+kombatch.com,komikcast.com,komikindo.web.id##+js(nobab)
 ! 
 komiku.co.id#@##banner_ad
 ! 
@@ -9250,6 +9254,7 @@ _banner/$image,domain=mediasulut.co
 ||metrokaltara.com^*/banner-$image
 ||metrokepri.com^*/banner-$image
 ||metropolis.id/files/sewaan/$image
+||metropublik.com^*/iklan-$image
 ||mimbarpublik.com^*/banner-$image
 ||minangsatu.com/banner/$image
 ||modusaceh.co/files/sewaan/$image
@@ -9461,6 +9466,7 @@ kabarmanado.com,memo.co.id##.majalahpro-core-topbanner
 memo.co.id##.majalahpro-core-topbanner-aftermenu
 detik.com##.megabillboard
 nenemonews.com,suaralomboknews.com##.modulebanner-1
+metropublik.com##.newkarma-core-banner-aftercontent
 detik.com##.newsfeed-ads
 koropak.co.id##.parallax-ads
 medcom.id##.parallax_ads
@@ -10054,7 +10060,7 @@ wartaterkini.news##+js(aopr, disable_copy)
 ! Anti Select
 wartaterkini.news##+js(aopr, document.oncontextmenu)
 wartaterkini.news##body.unselectable:style(-webkit-touch-callout: default!important; user-select: text!important)
-! Video Embed
+! Content Embed
 grid.id##.videoPlaylistPlugClass-carousel
 ||20.detik.com/embed/$frame,redirect=click2load.html,domain=~20.detik.com|~adsmart.detik.com
 ||cnbcindonesia.com/embed/video/$frame,redirect=click2load.html
@@ -10415,24 +10421,22 @@ teknoding.com##kbd
 ! 
 @@||contohblog.com^$generichide
 @@||fendy.web.id^$generichide
-@@||mynotescode.com^$generichide
-@@||nama.web.id^$generichide
 @@||okedroid.com^$generichide
 ! 
 ! --------------------------------------------------------------
 ! EMPTY ADS PLACEHOLDERS
 /antiblockersjoss.$image
 ! 
-pradjadj.com##.ABD_display_adblock
-contohblog.com,mynotescode.com##.adsbygoogle
+contohblog.com##.adsbygoogle
 ! 
 dropshipin.id##+js(acis, $, ads)
 dafideff.com##+js(acis, addEventListener, google_ad_client)
-kuliahkomputer.com,liputanberita21.com##+js(acis, eval, ignielAdBlock)
+kuliahkomputer.com,liputanberita21.com,winmahdi.com##+js(acis, eval, ignielAdBlock)
 semuanyabola.com##+js(acis, jQuery, ai_adb)
 ad4msan.com,ad4msan.win##+js(aopr, DHAntiAdBlocker)
 paraedu.id##+js(aopr, anOptions)
 cuitandokter.com##+js(aopr, mdpDeBlocker)
+isrul.com##+js(aopr, mql)
 saungfirmware.id##+js(aopr, short_url_app_vars.force_disable_adblock)
 labkom.co.id##+js(aopr, tdBlock)
 saungfirmware.id##+js(nano-sib)
@@ -10507,4 +10511,4 @@ iklanpopuler.com,sebariklanbaris.net,ziyata.com#@#[src*="/iklan/"]
 ! 
 ! https://github.com/realodix/AdBlockID/issues/467
 @@/social-sharing-$script,domain=axe.com
-! Checksum: KT51u5FcPrEV+rxhDwpznQ
+! Checksum: 3lq1wv2jkQFlhdez+ge5jg
