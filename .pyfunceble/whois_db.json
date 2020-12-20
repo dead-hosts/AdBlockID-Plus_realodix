@@ -2061,6 +2061,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "daftarhewan.com": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "daftaritubola.com": {
         "epoch": 1627603200.0,
         "expiration_date": "30-jul-2021",
@@ -4109,6 +4115,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "iwakbuncit.com": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "iwanbanaran.com": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
@@ -5055,6 +5067,12 @@
     "kucing303.com": {
         "epoch": 1635206400.0,
         "expiration_date": "26-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "kucingmania.net": {
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -6230,6 +6248,12 @@
     "mydramalist.com": {
         "epoch": 1660521600.0,
         "expiration_date": "15-aug-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "myhewan.com": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
