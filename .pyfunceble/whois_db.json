@@ -2257,8 +2257,8 @@
         "state": "future"
     },
     "dialeksis.com": {
-        "epoch": 1608595200.0,
-        "expiration_date": "22-dec-2020",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -5390,8 +5390,9 @@
         "state": "future"
     },
     "liputan6.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "liputan8.com": {
@@ -8482,8 +8483,8 @@
         "state": "future"
     },
     "swara-bengkulu.com": {
-        "epoch": 1608595200.0,
-        "expiration_date": "22-dec-2020",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
