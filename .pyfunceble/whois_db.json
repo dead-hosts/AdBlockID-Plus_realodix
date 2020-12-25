@@ -1963,8 +1963,8 @@
         "state": "future"
     },
     "coinvestasi.com": {
-        "epoch": 1608854400.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1671926400.0,
+        "expiration_date": "25-dec-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -4949,8 +4949,8 @@
         "state": "future"
     },
     "koranmemo.com": {
-        "epoch": 1608854400.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1671926400.0,
+        "expiration_date": "25-dec-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -5275,8 +5275,9 @@
         "state": "future"
     },
     "layarkacaxxi.org": {
-        "epoch": 1608768000.0,
-        "expiration_date": "24-dec-2020",
+        "epoch": 1640304000.0,
+        "expiration_date": "24-dec-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "layarkeren.org": {
@@ -5611,8 +5612,8 @@
         "state": "future"
     },
     "malutnews.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -8752,8 +8753,8 @@
         "state": "future"
     },
     "teropongmetro.com": {
-        "epoch": 1608854400.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1640390400.0,
+        "expiration_date": "25-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
