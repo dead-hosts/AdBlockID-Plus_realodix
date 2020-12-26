@@ -3144,10 +3144,10 @@
             "status": "INVALID"
         },
         "ad-loupe.com": {
-            "included_at_epoch": 1606503501.774928,
-            "included_at_iso": "2020-11-27T18:58:21.774928",
-            "last_retested_at_epoch": 1608918260.89767,
-            "last_retested_at_iso": "2020-12-25T17:44:20.897670",
+            "included_at_epoch": 1609004081.156556,
+            "included_at_iso": "2020-12-26T17:34:41.156556",
+            "last_retested_at_epoch": 1609004081.156556,
+            "last_retested_at_iso": "2020-12-26T17:34:41.156556",
             "status": "ACTIVE"
         },
         "ad4msan.com": {
@@ -6910,10 +6910,10 @@
             "status": "ACTIVE"
         },
         "click2go.me": {
-            "included_at_epoch": 1606503501.856094,
-            "included_at_iso": "2020-11-27T18:58:21.856094",
-            "last_retested_at_epoch": 1608918374.204431,
-            "last_retested_at_iso": "2020-12-25T17:46:14.204431",
+            "included_at_epoch": 1609004081.228149,
+            "included_at_iso": "2020-12-26T17:34:41.228149",
+            "last_retested_at_epoch": 1609004081.228149,
+            "last_retested_at_iso": "2020-12-26T17:34:41.228149",
             "status": "ACTIVE"
         },
         "clickadu.": {
@@ -14519,10 +14519,10 @@
             "status": "ACTIVE"
         },
         "mangaid.click": {
-            "included_at_epoch": 1606503501.910135,
-            "included_at_iso": "2020-11-27T18:58:21.910135",
-            "last_retested_at_epoch": 1608918384.650895,
-            "last_retested_at_iso": "2020-12-25T17:46:24.650895",
+            "included_at_epoch": 1609004081.27458,
+            "included_at_iso": "2020-12-26T17:34:41.274580",
+            "last_retested_at_epoch": 1609004081.27458,
+            "last_retested_at_iso": "2020-12-26T17:34:41.274580",
             "status": "ACTIVE"
         },
         "mangaindo.web.id": {
