@@ -4,3 +4,6 @@
 Subject                                                                                              Status      Source     Expiration Date   HTTP Code  Checker      
 ---------------------------------------------------------------------------------------------------- ----------- ---------- ----------------- ---------- -------------
 21.4.2                                                                                               ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+156.154.133.200                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+208.80.125.2                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+208.80.127.2                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
