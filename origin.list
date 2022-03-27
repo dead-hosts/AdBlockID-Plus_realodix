@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 22.3.19
+! Version: 22.3.25
 ! Title: AdBlockID
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 16 Mar 2022 09:30 UTC
+! Last modified: 26 Mar 2022 21:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 .id^*/ads_$domain=~cartalog.id
@@ -1257,6 +1257,7 @@ _GIF1200x120-
 ###iklan-tengah2
 ###iklanACT
 ###iklan_anchor
+###iklanbawah
 ###iklanpopup
 ###iklap
 ###iklhead
@@ -1898,6 +1899,7 @@ _GIF1200x120-
 ##banner-besar--top
 ##div[id^="dfp-gpt-ad"]
 ##gmn-companion-ad-renderer
+##img[alt="iklan" i]
 ##img[data-permalink^="/apps/iklan-"]
 ~waralabaku.com##img[width="1000"][height="150"]
 ~sindonews.com##img[width="400"][height="80"]
@@ -1947,11 +1949,14 @@ _GIF1200x120-
 ##img[width="1600"][height="267"]
 ##img[width="300"][height="600"]
 ##img[width="370px"][height="60"]
+##img[width="400"][height="90"]
 ##img[width="439"][height="56"]
+##img[width="450"][height="90"]
 ##img[width="460"][height="60"]
 ##img[width="468"][height="60"]
 ##img[width="468px"][height="60"]
 ##img[width="500"][height="70"]
+##img[width="500"][height="90"]
 ##img[width="535"][height="70"]
 ##img[width="550"][height="70"]
 ##img[width="571"][height="1024"]
@@ -2150,6 +2155,8 @@ _GIF1200x120-
 ||tokosexy.com^$3p
 ||ubloger.com^$3p
 ||bitball.b-cdn.net/video/$3p,mp4
+||jeniusplay.com/cdn/video/qq$mp4
+||konveti.onicdn.xyz/adam/poker$mp4
 ||konveti.onicdn.xyz/toto/$3p,mp4
 ||ardetamedia.com/images/affiliate/$3p
 ||ardetamedia.com/images/banner-affiliate/$3p
@@ -4467,18 +4474,19 @@ _usafelink.$3p,script
 ||nanime.biz^*/banner-$image
 mangakita.net###btm_banner
 mangaid.click###catfish
-209.126.6.6,kiryuu.id,manhwaland.icu,mihentai.com,sektekomik.com,sheamanga.my.id,westmanga.info###close-teaser
+209.126.6.6,kiryuu.id,manhwaland.icu,manhwalist.com,mihentai.com,sektekomik.com,sheamanga.my.id,westmanga.info###close-teaser
 mangaku.live###ftadsth
 bacakomik.co###teaser3
 209.126.6.6###tutupen
 mangaku.live,mangaku.my.id##.adv
 manganime.in##.asd
 mangaku.live,mangaku.my.id##.ewbnr
-kiryuu.id,komikindo.co,komiktap.in,komikvip.com,mangadewasa.com,mangakita.net,manhwaindo.id,manhwaland.icu,ngomik.net,sektekomik.com##.kln
+kiryuu.id,komikindo.co,komiktap.in,komikvip.com,mangadewasa.com,mangakita.net,manhwaindo.id,manhwaland.icu,manhwalist.com,ngomik.net,otakudesu.live,sektekomik.com##.kln
 kumpulmanga.org,overlordfree.web.id##.kzl
 mangaku.live##.section_ad
 komikvip.com##.textwidget:not(:has(#a[href*="komikvip.com"])) > a > img
 mangaku.my.id,manganime.in##[id*="ads"]
+otakudesu.live##a[target="_blank"] img
 manhwaid.org##img[data-original-width="720"][data-original-height="120"]
 mangaindo.web.id,meganebuk.net##+js(aopr, anOptions)
 komiknesia.com##+js(aopr, quadsOptions)
@@ -4486,6 +4494,7 @@ bacamanhwa.club,boosei.club,crotpedia.my.id,doujinpoi.club,kittydesu.com,komik18
 @@||mangalist.org/url/lib/$1p,script
 mangalist.org#@#.adsbygoogle
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,domain=mangalist.org
+manhwaid.org###ouibounce-modal
 klikmanga.com##body > .mtsnb-shown
 mangaindo.web.id##+js(acis, Math, zfgloaded)
 klikmanga.com,komikstation.co,komikstation.com,sheamanga.my.id##+js(acis, document.querySelectorAll, popMagic)
@@ -4494,9 +4503,9 @@ komikindo.id,komikuindo.id,mangadewasa.com,mangaku.live,manhwaid.org,sekaikomik.
 komikuindo.id##+js(acis, disableSelection, reEnable)
 mangacanblog.com##+js(aeld, /^(?:contextmenu|selectstart)$/)
 mangaku.live,mangaku.my.id##+js(aeld, contextmenu)
-otakudesu.info##+js(aeld, keydown)
+otakudesu.live##+js(aeld, keydown)
 manhwaid.org##+js(aopr, disableSelection)
-komiktap.in,komikuindo.id,manhwaid.org,otakudesu.info##+js(aopr, document.oncontextmenu)
+komiktap.in,komikuindo.id,manhwaid.org,otakudesu.live##+js(aopr, document.oncontextmenu)
 mangadewasa.com##+js(aopr, nocontextmenu)
 sekaikomik.site##+js(aopw, document.oncontextmenu)
 $3p,script,xhr,denyallow=disqus.com|disquscdn.com|fastlylb.net|googleapis.com,domain=nanimein.xyz|nonton08.com
@@ -4514,14 +4523,14 @@ $3p,script,xhr,denyallow=disqus.com|disquscdn.com|fastlylb.net|googleapis.com,do
 107.152.46.48,idxxi.cyou###adf_tera
 112.140.185.111,nuflix.space###btm_banner
 oploverz.fan###close-stream-ads
-148.163.72.92,167.99.31.48,51.79.146.226,anichin.my.id,animebloom.xyz,animelinked.web.id,animexin.xyz,beenime.com,dramaindo.cn,gatsunime.org,isekaisubs.web.id,jouganime.id,kuronime.tv,lucikun.cc,oploverz.fan###close-teaser
+148.163.72.92,167.99.31.48,51.79.146.226,anichin.my.id,animebloom.xyz,animelinked.web.id,animexin.xyz,anixlife.xyz,beenime.com,dramaindo.cn,gatsunime.org,isekaisubs.web.id,jouganime.id,kuronime.tv,lucikun.cc,oploverz.fan###close-teaser
 inonton.com###fadeinbox
 139.99.120.222###fbawah
 148.163.72.92,199.231.164.29,91.211.91.176,drakorindofilms.one,giladrakor.one,inidramaku.asia,shiroyuki.net###fixedban
 139.99.17.109,158.69.0.212,192.99.246.145,54.39.39.151,54.39.39.152###float-banner
 139.99.17.109,54.39.39.152###float-bottom-banner
 139.99.61.225###floatbanner-bottom
-148.163.72.92,149.28.158.117,45.67.228.234,54.39.85.90,anichin.my.id,lucikun.cc###floatcenter
+148.163.72.92,149.28.158.117,45.67.228.234,54.39.85.90,anichin.my.id,anixlife.xyz,lucikun.cc###floatcenter
 112mov.xyz,139.99.120.222,bioskoptigalima.net,inonton.com,juraganduren.net###floating_banner_top
 139.99.17.109,54.39.39.152###middle-banner
 172.96.189.133,172.96.189.146###tengah
