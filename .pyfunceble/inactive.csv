@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-"/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,domain=adikhealth.xyz|duit.cc|liveshootv.com|miuiku.com|sekilastekno.com|sportif.id|zxcfiles.com",AVAILABILITY,origin.list,2022-04-06 05:51:35.551984
-"/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,domain=albabbarrosa.com|ariefcode.com|bospedia.com|brojamz.blogspot.com|caracepat.net|chapteria.com|codeflare.net|igniel.com|koderian.my.id|kuliahkomputer.com|liputanberita21.com|masfadli.com|massiswo.com|mobilegame.id|netralid.com|qbayan.my.id|r3ndy.com|ruangcoder.com|rumahit.id|seoxui.com|shinryu2.blogspot.com|tamboenman.xyz|tomytech.eu.org|wendycode.com",AVAILABILITY,origin.list,2022-04-06 05:51:36.911954
-/adblock_alerter/*,AVAILABILITY,origin.list,2022-04-06 05:51:39.842711
-/AdblockRampok.js$script,AVAILABILITY,origin.list,2022-04-06 05:51:40.245307
-/adblock_alerter.,AVAILABILITY,origin.list,2022-04-06 05:51:46.601170
-/adblock-warning-teaser/*,AVAILABILITY,origin.list,2022-04-06 05:51:49.141848
-/adblocker_message_,AVAILABILITY,origin.list,2022-04-06 05:51:50.086884
-/adblocker/modal.,AVAILABILITY,origin.list,2022-04-06 05:51:54.620903
-/antiadblockmsg.,AVAILABILITY,origin.list,2022-04-06 05:51:54.812147
-/blockAndInf.js,AVAILABILITY,origin.list,2022-04-06 05:51:59.615901
 /AdblockMessage.,AVAILABILITY,origin.list,2022-04-06 05:52:02.495704
 /inc/antiblock.,AVAILABILITY,origin.list,2022-04-06 05:52:03.643249
 /deadblocker/*,AVAILABILITY,origin.list,2022-04-06 05:52:06.889547
@@ -3422,3 +3412,13 @@ xcvza.my.id,AVAILABILITY,origin.list,2022-04-06 08:06:36.259156
 /adblock_notify.js,AVAILABILITY,origin.list,2022-04-06 08:17:43.479119
 ||jeniusplay.com^*/*banner/$image,AVAILABILITY,origin.list,2022-04-07 05:18:52.905165
 ||indexmovies.xyz/Luxury777.mp4$mp4,AVAILABILITY,origin.list,2022-04-07 05:18:53.410840
+/adblock_alerter/*,AVAILABILITY,origin.list,2022-04-08 05:38:32.440064
+"/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,domain=albabbarrosa.com|ariefcode.com|bospedia.com|brojamz.blogspot.com|caracepat.net|chapteria.com|codeflare.net|igniel.com|koderian.my.id|kuliahkomputer.com|liputanberita21.com|masfadli.com|massiswo.com|mobilegame.id|netralid.com|qbayan.my.id|r3ndy.com|ruangcoder.com|rumahit.id|seoxui.com|shinryu2.blogspot.com|tamboenman.xyz|tomytech.eu.org|wendycode.com",AVAILABILITY,origin.list,2022-04-08 05:38:33.109464
+"/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,domain=adikhealth.xyz|duit.cc|liveshootv.com|miuiku.com|sekilastekno.com|sportif.id|zxcfiles.com",AVAILABILITY,origin.list,2022-04-08 05:38:33.923049
+/adblock_alerter.,AVAILABILITY,origin.list,2022-04-08 05:38:38.084548
+/AdblockRampok.js$script,AVAILABILITY,origin.list,2022-04-08 05:38:39.185273
+/antiadblockmsg.,AVAILABILITY,origin.list,2022-04-08 05:38:46.030611
+/adblock-warning-teaser/*,AVAILABILITY,origin.list,2022-04-08 05:38:47.361011
+/adblocker_message_,AVAILABILITY,origin.list,2022-04-08 05:38:47.999192
+/adblocker/modal.,AVAILABILITY,origin.list,2022-04-08 05:38:48.152988
+/blockAndInf.js,AVAILABILITY,origin.list,2022-04-08 05:38:51.455056
