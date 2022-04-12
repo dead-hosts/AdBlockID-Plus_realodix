@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 22.4.8
+! Version: 22.4.14
 ! Title: AdBlockID
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 08 Apr 2022 16:35 UTC
+! Last modified: 11 Apr 2022 20:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 .id^*/ads_$domain=~cartalog.id
@@ -2089,6 +2089,8 @@ _GIF1200x120-
 ||pasangiklan.com^$3p
 ||pondokiklan.com^$3p
 ||rajatraffic.com^$3p
+||ghaahq.com^
+||luckyads.com^$3p
 ||pc3ads.com^$3p
 ||ibn.adreach.co^$3p
 ||ibnads.xl.co.id^$3p
@@ -2619,6 +2621,9 @@ tanyamimpi.org###floatads3
 apahabar.com,beritanusa.id###header-banner
 gadgetren.com###header-native-ad
 republika.co.id###inscroll-banner
+lingohut.com###lht2_lesson_after_vocab2_728x90_desktop
+lingohut.com###lht2_lesson_bottom_468x60_desktop
+lingohut.com###lht_lesson_right_300x250_desktop
 sindonews.com###me-div-gpt-ad-bottom-sticky
 sindonews.com###me-div-gpt-ad-parallax
 lintastungkal.com###news-feed-banner
@@ -2700,6 +2705,7 @@ jurnalweb.com##.adspace
 sindonews.com##.adtp
 detik.com##.adv
 arenalte.com,krjogja.com,telusur.co.id##.advertisement
+lingohut.com##.al-2nd-right-ad
 techinasia.com##.artad
 techinasia.com##.artad-vid
 goodnewsfromindonesia.id##.article-photos-ads
@@ -4545,6 +4551,7 @@ animekompi.web.id,mmsubs.com##.addads
 139.99.120.222##.ban_empat
 178.128.82.236,193.164.131.42##.banner
 139.99.33.192##.banner-float-bottom
+188.166.39.172##.bannerdua
 93.104.211.22##.bannerplayer:remove()
 159.65.11.63##.bannerx
 188.166.39.172##.float-bottom-banner
@@ -4635,7 +4642,8 @@ anoboy.watch###popup_bawah
 anoboy.watch###popup_box
 kordramass.com,kshowsubindo.org##.blocker
 159.65.11.63##.popUpBannerBox
-103.194.171.75,103.9.100.20,111.90.150.31,159.65.7.78,174.138.17.52,178.128.82.236,185.231.223.71,193.164.131.42,193.178.172.113,195.2.81.61,204.48.22.58,dutafilm.asia,hakamovie.vip,moviesrc.link##.swal-overlay
+188.166.39.172##.popup
+103.194.171.75,103.9.100.20,111.90.150.31,159.65.7.78,174.138.17.52,178.128.82.236,185.231.223.71,193.164.131.42,193.178.172.113,195.2.81.61,204.48.22.58,dutafilm.observer,hakamovie.vip,moviesrc.link##.swal-overlay
 103.194.171.205,149.3.170.35,185.224.83.128,194.135.33.63,45.141.56.23##[id^="netkevin-"]
 /wp-content/plugins/cm-pop-up-banners/*$domain=185.212.128.40|75.119.143.213|drachindo.com|dramakor.club
 148.163.72.90,194.163.152.200,45.12.32.53,45.84.1.55,drachindo.com,drakorcute.com,drakorindo.best,dramakor.club,inidramaku.asia##+js(aopr, popup_custom_data)
