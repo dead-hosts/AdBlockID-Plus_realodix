@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 22.4.18
+! Version: 22.4.26
 ! Title: AdBlockID
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 13 Apr 2022 04:11 UTC
+! Last modified: 13 Apr 2022 19:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 .id^*/ads_$domain=~cartalog.id
@@ -663,6 +663,7 @@ _promosi.
 -523X90.$image
 -530-x-70.
 -530x60.
+-530x67-$image
 -530X70-
 -530x70.
 -530x90.$image
@@ -1061,6 +1062,7 @@ _505x60.gif$image
 _510x100.gif$image
 _515x90.gif$image
 _519x90.gif$image
+_530x67.$image
 _530x90_$image
 _540x60.$image
 _550x70.
@@ -1150,8 +1152,9 @@ _GIF1200x120-
 ###floating_banner_top1 img[src$=".gif"]
 ~fjb.kaskus.co.id##.ads__banner
 ~serbada.com##.banner-header
-##a[target="_blank"][rel*="nofollow"] > img[src*=".gif"]
+##a[target="_blank"] > img[src*=".gif"]
 ##a[target="_blank"][rel^="nofollow"] > img[width="100%"]
+##a[target="_blank"][rel^="nofollow"] > video[src*=".webm"]
 ###Ad300B
 ###Box-Banner-ads
 ###Gadget-AdSense
@@ -1613,6 +1616,7 @@ _GIF1200x120-
 ##.iklan-macaw
 ##.iklan-middle
 ##.iklan-mobile
+##.iklan-paralax-wrapper
 ##.iklan-sidebar-ins
 ##.iklan-sticky-kanal
 ##.iklan-teks
@@ -2851,6 +2855,7 @@ terkininews.com##.sponsor
 beasiswaindo.com##.sponsor-1
 cermati.com,ligaolahraga.com##.sticky-banner
 productnation.co##.sticky-close
+zigi.id##.sticky_bottom
 klubpria.com##.stickyunit
 solopos.com##.swipe-up-ad
 tmcblog.com##.td-container a[target="_blank"] div[style*="position: fixed;"]
@@ -4188,17 +4193,16 @@ _topbandar_$image
 ##.ads-1xbet
 ##[href*="luxury111" i]
 ##[href*="luxury138" i]
-##[href*="rebrand.ly/paragonslot77"]
-##[href*="rebrand.ly/siap4d"]
 ##[href*="sebarin.my.id/DAPATUANGTERUS"]
 ##[href*="tinyurl.com/Linkalternatifmpoten"]
-##[href="http://bit.ly/dodoslot"]
-##[href="http://bit.ly/javabet88"]
+##[href="http://bolatks.club/GalaxyXXI1"]
+##[href="http://gbos.vip/GalaxyXXI1"]
 ##[href="http://wede.la/msl-duniafilm21"]
 ##[href="https://bit.ly/Agen111Register1"]
 ##[href="https://bit.ly/BonaRegister1"]
 ##[href="https://bit.ly/Jouganime"]
 ##[href="https://bit.ly/MarkasVIP-V01-09"]
+##[href="https://bit.ly/Pentaslot"]
 ##[href="https://bit.ly/PromoMK138-04"]
 ##[href="https://bit.ly/benimee"]
 ##[href="https://bit.ly/candana168apik"]
@@ -4230,8 +4234,10 @@ _topbandar_$image
 ##[href="https://magic.ly/drakorindo2"]
 ##[href="https://rebrand.ly/daftar-77mega"]
 ##[href="https://rebrand.ly/daftarmpojackpot"]
+##[href="https://rebrand.ly/ggslot777"]
+##[href="https://rebrand.ly/paragonslot77"]
 ##[href="https://rebrand.ly/regdora"]
-##[href="https:/bit.ly/idxtajir365"]
+##[href="https://rebrand.ly/siap4d"]
 ##a[title*="judi slot online" i]
 ##a[title*="slot online terpercaya" i]
 ##a[title^="situs judi online"]
@@ -4245,10 +4251,144 @@ _topbandar_$image
 ##img[alt="bandar855" i]
 ##img[alt="ratucapsa" i]
 ##img[alt="rgobet" i]
+##img[alt="sepakbolacc" i]
 ##img[alt="totobet" i]
 ##img[alt^="situs judi online"]
 ##img[alt^="situs togel online"]
 ##img[alt^="slot online termurah"]
+##[href="https://bit.ly/2GuMxzt"]
+##[href="https://bit.ly/2HNL73C"]
+##[href="https://bit.ly/2LPmbHy"]
+##[href="https://bit.ly/2LpvRcV"]
+##[href="https://bit.ly/2MUyMgO"]
+##[href="https://bit.ly/2MieaOK"]
+##[href="https://bit.ly/2MlJVae"]
+##[href="https://bit.ly/2MoWpOh"]
+##[href="https://bit.ly/2NlR1LM"]
+##[href="https://bit.ly/2OBDO29"]
+##[href="https://bit.ly/2Or6CL3"]
+##[href="https://bit.ly/2PT5FMf"]
+##[href="https://bit.ly/2Q0KTul"]
+##[href="https://bit.ly/2Q4cfjg"]
+##[href="https://bit.ly/2R2EgYm"]
+##[href="https://bit.ly/2R8M2jR"]
+##[href="https://bit.ly/2RlLhnl"]
+##[href="https://bit.ly/2RnJwpJ"]
+##[href="https://bit.ly/2Rrr3IR"]
+##[href="https://bit.ly/2RxHrId"]
+##[href="https://bit.ly/2STFCm7"]
+##[href="https://bit.ly/2SjONz6"]
+##[href="https://bit.ly/2TGmMmq"]
+##[href="https://bit.ly/2U3wkI8"]
+##[href="https://bit.ly/2V0ifIW"]
+##[href="https://bit.ly/2V1U2oL"]
+##[href="https://bit.ly/2VMgOBe"]
+##[href="https://bit.ly/2VnHzMj"]
+##[href="https://bit.ly/2WYBE0G"]
+##[href="https://bit.ly/2WZlLaO"]
+##[href="https://bit.ly/2WpuRNg"]
+##[href="https://bit.ly/2XwCVwt"]
+##[href="https://bit.ly/2ZRCHBv"]
+##[href="https://bit.ly/2ZjzwyM"]
+##[href="https://bit.ly/31M7Hnp"]
+##[href="https://bit.ly/31MTNRR"]
+##[href="https://bit.ly/31TpKb7"]
+##[href="https://bit.ly/31lonjb"]
+##[href="https://bit.ly/31zAB6G"]
+##[href="https://bit.ly/32y2g8d"]
+##[href="https://bit.ly/36JsQhm"]
+##[href="https://bit.ly/36z3Pp4"]
+##[href="https://bit.ly/37wQH3C"]
+##[href="https://bit.ly/38U2OqP"]
+##[href="https://bit.ly/399p0Pp"]
+##[href="https://bit.ly/39AcpVU"]
+##[href="https://bit.ly/39C9VHa"]
+##[href="https://bit.ly/39McAOt"]
+##[href="https://bit.ly/39ZMwPK"]
+##[href="https://bit.ly/39fhSjV"]
+##[href="https://bit.ly/39gzHQ1"]
+##[href="https://bit.ly/3An9o6p"]
+##[href="https://bit.ly/3B3pVgB"]
+##[href="https://bit.ly/3BLQdnp"]
+##[href="https://bit.ly/3D7tfZd"]
+##[href="https://bit.ly/3EAnLWY"]
+##[href="https://bit.ly/3EiIxui"]
+##[href="https://bit.ly/3GAcck8"]
+##[href="https://bit.ly/3GPMokK"]
+##[href="https://bit.ly/3a2MGpq"]
+##[href="https://bit.ly/3aSZQWx"]
+##[href="https://bit.ly/3anEW0x"]
+##[href="https://bit.ly/3axBkZr"]
+##[href="https://bit.ly/3b8GP2h"]
+##[href="https://bit.ly/3bSQQ4B"]
+##[href="https://bit.ly/3cRiVtm"]
+##[href="https://bit.ly/3cX96dM"]
+##[href="https://bit.ly/3czr5XS"]
+##[href="https://bit.ly/3dCSWFM"]
+##[href="https://bit.ly/3dWW1Ah"]
+##[href="https://bit.ly/3dXPMw5"]
+##[href="https://bit.ly/3dXbtfC"]
+##[href="https://bit.ly/3esZhUg"]
+##[href="https://bit.ly/3flGo6c"]
+##[href="https://bit.ly/3fukVb5"]
+##[href="https://bit.ly/3gGI64i"]
+##[href="https://bit.ly/3h7enRm"]
+##[href="https://bit.ly/3hc7nmi"]
+##[href="https://bit.ly/3hmzpMW"]
+##[href="https://bit.ly/3iGbkiY"]
+##[href="https://bit.ly/3iVzJCI"]
+##[href="https://bit.ly/3idvYJ0"]
+##[href="https://bit.ly/3j6f25A"]
+##[href="https://bit.ly/3jTdSux"]
+##[href="https://bit.ly/3jfgyT9"]
+##[href="https://bit.ly/3jrPvoP"]
+##[href="https://bit.ly/3jugn82"]
+##[href="https://bit.ly/3k5fLVe"]
+##[href="https://bit.ly/3kyrR8e"]
+##[href="https://bit.ly/3mCMSRt"]
+##[href="https://bit.ly/3mDDKfl"]
+##[href="https://bit.ly/3mDtKmp"]
+##[href="https://bit.ly/3mkomEO"]
+##[href="https://bit.ly/3nVm5jf"]
+##[href="https://bit.ly/3njmpck"]
+##[href="https://bit.ly/3no61Fy"]
+##[href="https://bit.ly/3oJHWtg"]
+##[href="https://bit.ly/3oJap3k"]
+##[href="https://bit.ly/3pGV7wz"]
+##[href="https://bit.ly/3pH5OyD"]
+##[href="https://bit.ly/3pHFeFx"]
+##[href="https://bit.ly/3pHYUtn"]
+##[href="https://bit.ly/3pIWhYX"]
+##[href="https://bit.ly/3pJyqYG"]
+##[href="https://bit.ly/3pqX7s1"]
+##[href="https://bit.ly/3r0iK4q"]
+##[href="https://bit.ly/3rKrnAd"]
+##[href="https://bit.ly/3rXXpb1"]
+##[href="https://bit.ly/3s92vkN"]
+##[href="https://bit.ly/3sHt9lM"]
+##[href="https://bit.ly/3sNRUvF"]
+##[href="https://bit.ly/3sOcehp"]
+##[href="https://bit.ly/3sh83LM"]
+##[href="https://bit.ly/3tQvDir"]
+##[href="https://bit.ly/3trIE24"]
+##[href="https://bit.ly/3uAkS3N"]
+##[href="https://bit.ly/3uB0PSG"]
+##[href="https://bit.ly/3uI6tmm"]
+##[href="https://bit.ly/3uQrVpw"]
+##[href="https://bit.ly/3uVNm9c"]
+##[href="https://bit.ly/3ufjnaP"]
+##[href="https://bit.ly/3vUKKsA"]
+##[href="https://bit.ly/3vyN1c8"]
+##[href="https://bit.ly/3w3CO7j"]
+##[href="https://bit.ly/3wNxOVP"]
+##[href="https://bit.ly/3wQZ9GA"]
+##[href="https://bit.ly/3wkNiPW"]
+##[href="https://bit.ly/3wy0Ick"]
+##[href="https://bit.ly/3wzWD7B"]
+##[href="https://bit.ly/3xlOy5l"]
+##[href="https://bit.ly/3y1xanS"]
+##[href="https://bit.ly/3zX3euo"]
+##[href="https://cutt.ly/fIOWDIO"]
 ~54.254.2.67##[href$="/54.254.2.67"]
 ~54.254.2.67##[href*="/54.254.2.67/"]
 ~103.5.47.212##a[href="https://103.5.47.212/"]
@@ -4541,7 +4681,7 @@ oploverz.fan###close-stream-ads
 inonton.com###fadeinbox
 139.99.120.222###fbawah
 148.163.72.92,199.231.164.29,91.211.91.176,drakorindofilms.one,giladrakor.one,inidramaku.asia,shiroyuki.net###fixedban
-139.99.17.109,158.69.0.212,192.99.246.145,54.39.39.151,54.39.39.152###float-banner
+139.99.17.109,158.69.0.212,192.99.246.145,54.39.39.151,54.39.39.152,terbit21.in###float-banner
 139.99.17.109,54.39.39.152###float-bottom-banner
 139.99.61.225###floatbanner-bottom
 148.163.72.92,149.28.158.117,45.67.228.234,54.39.85.90,anichin.my.id,anixlife.xyz,lucikun.cc###floatcenter
@@ -4564,7 +4704,7 @@ animekompi.web.id,mmsubs.com##.addads
 manganime.in##.float_tengah
 149.28.158.117##.fltbwh-mob
 juaramovie.org##.footer-sticky
-107.152.46.207##.gmr-bannerpopup
+ligaxxi.org##.gmr-bannerpopup
 103.194.171.18,animekompi.web.id,mmsubs.com##.headads
 23.29.125.182##.idmuvi-afterplayer
 144.91.67.95,185.212.128.50##.idmuvi-topplayer
@@ -4622,7 +4762,7 @@ dramaluv.com##+js(acis, decodeURI, decodeURIComponent)
 drakorfans.com##+js(acis, puShown , /doOpen|popundr/)
 139.99.120.222##+js(aopr, $, #myModalSingle)
 104.161.33.116,104.161.33.126,148.163.72.77,199.231.164.28##+js(aopr, $, SPU_master)
-104.161.33.103,107.152.36.57,107.152.46.207,111.90.142.149,139.99.33.217,144.91.98.14,148.163.72.89,173.212.233.209,185.173.38.216,185.212.128.50,185.212.128.53,185.224.83.128,194.163.142.218,194.67.196.93,199.231.164.17,213.136.91.132,37.49.229.132,45.141.56.103,5.189.166.52,62.171.143.175,91.230.121.24,benalmadena-arroyo.com,terimamovie.com##+js(aopr, $.magnificPopup.open)
+104.161.33.103,107.152.36.57,111.90.142.149,139.99.33.217,144.91.98.14,148.163.72.89,173.212.233.209,185.173.38.216,185.212.128.50,185.212.128.53,185.224.83.128,194.163.142.218,194.67.196.93,199.231.164.17,213.136.91.132,37.49.229.132,45.141.56.103,5.189.166.52,62.171.143.175,91.230.121.24,benalmadena-arroyo.com,terimamovie.com##+js(aopr, $.magnificPopup.open)
 otakudere.net##+js(aopr, Light.Popup)
 185.231.223.76##+js(aopr, PBlib)
 194.163.152.200,surga21.com##+js(aopr, SGPB_POPUP_PARAMS)
@@ -4690,7 +4830,6 @@ nekopoi.web.id##+js(ra, oncontextmenu|ondragstart|onkeydown|onmousedown|onselect
 ##[href*="r=kawanfilm45"]
 ##[href*="ref=aigodrama"]
 ##[href*="ref=bossinema21"]
-##[href*="ref=dutafilm"]
 ##[href*="ref=dutafl"]
 ##[href*="ref=samehadaku"]
 ##[href*="ref=serialdrakor"]
