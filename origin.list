@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 22.4.60
+! Version: 22.4.66
 ! Title: AdBlockID
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 21 Apr 2022 18:09 UTC
+! Last modified: 23 Apr 2022 20:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 .id^*/ads_$domain=~cartalog.id
@@ -1408,6 +1408,7 @@ _GIF1200x120-
 ##.ads__top-big250
 ##.ads_below_photo
 ##.ads_besar
+##.ads_bottom_insGP
 ##.ads_box_1_1
 ##.ads_box_2_2
 ##.ads_box_3
@@ -2102,6 +2103,7 @@ _GIF1200x120-
 ||rajatraffic.com^$3p
 ||ghaahq.com^
 ||luckyads.com^$3p
+||wkuave.com^
 ||pc3ads.com^$3p
 ||ibn.adreach.co^$3p
 ||ibnads.xl.co.id^$3p
@@ -2122,6 +2124,7 @@ _GIF1200x120-
 ||ehxqelwtthwyo.com^$3p
 ||fcjglegnjab.com^$3p
 ||frdcjiahxphxn.com^$3p
+||stiteicjkcw.com^$3p
 ||boremgmxebra.com^$3p
 ||dcesxdvixnrwlu.com^$3p
 ||jsedeepuujv.com^$3p
@@ -4228,6 +4231,8 @@ _topbandar_$image
 ##[href="https://bit.ly/hydro88"]
 ##[href="https://bit.ly/ibetwinasia"]
 ##[href="https://bit.ly/idncash"]
+##[href="https://bit.ly/idxtajir365"]
+##[href="https://bit.ly/idxtube"]
 ##[href="https://bit.ly/javabet88"]
 ##[href="https://bit.ly/kdslotsfreechip"]
 ##[href="https://bit.ly/lvonlineads006"]
@@ -4269,9 +4274,11 @@ _topbandar_$image
 ##img[alt="rgobet" i]
 ##img[alt="sepakbolacc" i]
 ##img[alt="totobet" i]
-##img[alt^="situs judi online"]
-##img[alt^="situs togel online"]
-##img[alt^="slot online termurah"]
+##img[alt^="situs judi online" i]
+##img[alt^="situs togel online" i]
+##img[alt^="slot online termurah" i]
+##[href="https://bit.ly/3LO6U6E"]
+##[href="https://bit.ly/3xhHaM7"]
 ##[href="https://bit.ly/2GuMxzt"]
 ##[href="https://bit.ly/2HNL73C"]
 ##[href="https://bit.ly/2LPmbHy"]
