@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 22.4.71
+! Version: 22.4.75
 ! Title: AdBlockID
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 27 Apr 2022 18:54 UTC
+! Last modified: 29 Apr 2022 00:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 .id^*/ads_$domain=~cartalog.id
@@ -3649,6 +3649,7 @@ iklandb.com,iklanin.info#@#.banner-125
 /*juaraqq*.$image
 /*juniortoto*.$image
 /*jurusqq*.$image
+/*kaikoslot*.$image
 /*kaisar88*.$image
 /*kakakdewa*.$image
 /*kartu66*.$image
@@ -3826,6 +3827,7 @@ iklandb.com,iklanin.info#@#.banner-125
 /*pemainkasino*.$image
 /*pencetpoker*.$image
 /*pendekarqq*.$image
+/*pentaslot*.$image
 /*pepsi77*.$image
 /*perkasa99*.$image
 /*pesqq*.$image
@@ -4227,9 +4229,11 @@ _topbandar_$image
 ##[href="http://bolatks.club/GalaxyXXI1"]
 ##[href="http://gbos.vip/GalaxyXXI1"]
 ##[href="http://wede.la/msl-duniafilm21"]
+##[href="http://wede.la/msl-ngefilm22"]
 ##[href="https://bit.ly/Agen111Register1"]
 ##[href="https://bit.ly/BonaRegister1"]
 ##[href="https://bit.ly/Jouganime"]
+##[href="https://bit.ly/KaikoSlot"]
 ##[href="https://bit.ly/MarkasVIP-V01-09"]
 ##[href="https://bit.ly/Pentaslot"]
 ##[href="https://bit.ly/PromoMK138-04"]
@@ -4254,12 +4258,14 @@ _topbandar_$image
 ##[href="https://bit.ly/qq101li"]
 ##[href="https://bit.ly/qq188"]
 ##[href="https://bit.ly/qq36bet"]
+##[href="https://bit.ly/rusia777"]
 ##[href="https://bit.ly/slotmesinpulsa"]
 ##[href="https://bit.ly/slotonlines128"]
 ##[href="https://bit.ly/super_itcmovie"]
 ##[href="https://bit.ly/tradisibetslot"]
 ##[href="https://cutt.ly/rYxp3PC"]
 ##[href="https://klik.fun/boomxxiidk"]
+##[href="https://klik.fun/ngefilmtop"]
 ##[href="https://klik.fun/waktu21"]
 ##[href="https://linktr.ee/p88layartancap21"]
 ##[href="https://magic.ly/drakorindo2"]
@@ -4692,7 +4698,7 @@ manhwaid.org##+js(aopr, disableSelection)
 komiktap.in,komikuindo.id,manhwaid.org,otakudesu.site##+js(aopr, document.oncontextmenu)
 mangadewasa.com##+js(aopr, nocontextmenu)
 $3p,script,xhr,denyallow=disqus.com|disquscdn.com|fastlylb.net|googleapis.com,domain=nanimein.xyz|nonton08.com
-.gif$image,domain=144.91.105.32|176.119.30.88|199.231.164.17|75.119.143.213|animebatchs.net|anoboy.online|conan.id|layarfilm21.website
+.gif$image,domain=144.91.105.32|176.119.30.88|199.231.164.17|75.119.143.213|animebatchs.net|anoboy.online|conan.id|layarfilm21.website|moflix.my.id
 /banner-$image,domain=maxnime.com
 ||imgbox.com/*.gif$image,domain=195.2.81.61
 ||jwplayer21.com/images/*.gif$image
@@ -4752,7 +4758,7 @@ anoboy.online##[id$="_bnr"]
 185.217.95.238##a[href*="_medium=banners"] video
 176.119.30.88##a[href^="http://bit.ly/"] > img
 otakudere.net##a[rel^="nofollow"] > img
-112mov.xyz,139.99.33.192,154.53.35.209,174.138.29.185,185.231.223.76,199.231.164.17,213.136.91.132,45.148.122.192,62.171.145.31,75.119.147.15,bioskop-nonton.art,bioskop47.net,ganooll.xyz,indoxx1.space,kebioskop21.xyz,koenime.com,layarcinema21.live,layardrama21.fun,layarfilm21.website,oploverz.fan,otakudere.net,topfilm21.com##a[target*="blank"] > img
+104.161.33.116,112mov.xyz,139.99.33.192,154.53.35.209,174.138.29.185,185.231.223.76,199.231.164.17,213.136.91.132,45.148.122.192,62.171.145.31,75.119.147.15,bioskop-nonton.art,bioskop47.net,ganooll.xyz,indoxx1.space,kebioskop21.xyz,koenime.com,layarcinema21.live,layardrama21.fun,layarfilm21.website,oploverz.fan,otakudere.net,topfilm21.com##a[target*="blank"] > img
 185.224.83.128##a[target*="blank"] > video
 139.99.120.222,benalmadena-arroyo.com##a[target="_blank"][rel*="nofollow"] > video
 anoboy.watch##a[target="_blank"][rel^="nofollow"] > amp-img
@@ -4822,8 +4828,8 @@ kordramass.com,kshowsubindo.org##.blocker
 103.194.171.75,103.9.100.20,111.90.150.31,159.65.7.78,174.138.17.52,178.128.82.236,185.231.223.71,193.164.131.42,193.178.172.113,195.2.81.61,204.48.22.58,dutafilm.observer,hakamovie.vip,moviesrc.link##.swal-overlay
 103.194.171.205,149.3.170.35,185.224.83.128,194.135.33.63,45.141.56.23##[id^="netkevin-"]
 185.224.129.209##iframe[style^="width: 100% !important; height: 190px !important;"]
+148.163.72.90,161.97.86.165,194.163.152.200,45.12.32.53,45.84.1.55,drachindo.com,drakorcute.com,drakorindo.best,dramakor.club,inidramaku.asia##+js(aopr, popup_custom_data)
 /wp-content/plugins/cm-pop-up-banners/*$domain=185.212.128.40|75.119.143.213|drachindo.com|dramakor.club
-148.163.72.90,194.163.152.200,45.12.32.53,45.84.1.55,drachindo.com,drakorcute.com,drakorindo.best,dramakor.club,inidramaku.asia##+js(aopr, popup_custom_data)
 /wp-content/plugins/uji-popup/*$domain=bioskopkere.club|didrakorindo.com|kordramass.com|kshowsubindo.org
 daymovie.xyz,kawanfilm.info,layarkaca.link##+js(aopr, ujiPopups)
 185.53.88.162,rumahdrama.com###wpb_overlay
