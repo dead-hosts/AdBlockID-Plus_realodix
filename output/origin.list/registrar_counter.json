@@ -1,12 +1,18 @@
 {
     "counter": {
+        "Digital Registra": 1,
         "Key-Systems GmbH": 1,
+        "Namecheap": 1,
         "PT Citraweb Digital Multisolusi": 1,
-        "total": 2
+        "Porkbun LLC": 1,
+        "total": 5
     },
     "percentage": {
-        "Key-Systems GmbH": 50.0,
-        "PT Citraweb Digital Multisolusi": 50.0,
+        "Digital Registra": 20.0,
+        "Key-Systems GmbH": 20.0,
+        "Namecheap": 20.0,
+        "PT Citraweb Digital Multisolusi": 20.0,
+        "Porkbun LLC": 20.0,
         "total": 100.0
     }
 }
