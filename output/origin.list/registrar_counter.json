@@ -1,0 +1,34 @@
+{
+    "counter": {
+        "Gandi SAS": 1,
+        "GoDaddy.com, LLC": 4,
+        "Marcaria.com LLC": 1,
+        "MarkMonitor Inc.": 1,
+        "NameCheap, Inc.": 8,
+        "NameSilo, LLC": 1,
+        "Network Solutions, LLC": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "PT ARDH GLOBAL INDONESIA": 1,
+        "PT Aksara Data Digital": 1,
+        "ResellerCamp": 1,
+        "Tucows Domains Inc.": 2,
+        "eNom, LLC": 1,
+        "total": 24
+    },
+    "percentage": {
+        "Gandi SAS": 4.166666666666667,
+        "GoDaddy.com, LLC": 16.666666666666668,
+        "Marcaria.com LLC": 4.166666666666667,
+        "MarkMonitor Inc.": 4.166666666666667,
+        "NameCheap, Inc.": 33.333333333333336,
+        "NameSilo, LLC": 4.166666666666667,
+        "Network Solutions, LLC": 4.166666666666667,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4.166666666666667,
+        "PT ARDH GLOBAL INDONESIA": 4.166666666666667,
+        "PT Aksara Data Digital": 4.166666666666667,
+        "ResellerCamp": 4.166666666666667,
+        "Tucows Domains Inc.": 8.333333333333334,
+        "eNom, LLC": 4.166666666666667,
+        "total": 100.00000000000003
+    }
+}
