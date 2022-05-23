@@ -1,5 +1,8 @@
-cli_decoding:
-    adblock: true
-    adblock_aggressive: true
-    rpz: false
-    wildcard: true
+cli_testing:
+    ci:
+        commit_message: 'DH: Processing'
+    days_between:
+        db_clean: 7
+lookup:
+    dns: false
+    whois: false
