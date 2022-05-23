@@ -1,4 +1,3 @@
-adblock: true
 cli_decoding:
     adblock: false
     adblock_aggressive: false
