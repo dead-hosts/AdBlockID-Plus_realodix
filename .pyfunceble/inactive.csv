@@ -5393,3 +5393,6 @@ _adblock_killer.,AVAILABILITY,origin.list,2022-05-24 22:12:33.017715
 "/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.com\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/(?:[1-4]\d{4}|[3-9]\d{3})(?:\?_=\d+)?$/$3p,frame,match-case,popup,script,xhr",AVAILABILITY,origin.list,2022-05-24 22:12:33.813981
 ||kvmnndjbgvmxa.com^$3p,AVAILABILITY,origin.list,2022-05-24 22:12:33.830781
 ||rwuqhjhmahslbov.com^$3p,AVAILABILITY,origin.list,2022-05-24 22:12:34.249162
+139.59.106.241,AVAILABILITY,origin.list,2022-05-25 05:33:28.072423
+68.183.113.69,AVAILABILITY,origin.list,2022-05-25 05:35:23.444157
+91.233.198.5,AVAILABILITY,origin.list,2022-05-25 05:35:36.322094
