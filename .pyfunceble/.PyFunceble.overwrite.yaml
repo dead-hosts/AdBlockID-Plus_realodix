@@ -1,3 +1,5 @@
+cli_decoding:
+    adblock: true
 cli_testing:
     ci:
         commit_message: 'DH: Processing'
