@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-itbox.id^,AVAILABILITY,origin.list,2023-04-26 05:25:00.062918
-mobnasesemka.com^,AVAILABILITY,origin.list,2023-04-26 05:25:26.109828
 feritekno.com^,AVAILABILITY,origin.list,2023-04-27 05:24:55.406910
 webdev-id.com^,AVAILABILITY,origin.list,2023-04-27 05:26:09.824432
 hqchbs.com,AVAILABILITY,origin.list,2023-04-27 05:26:24.744681
@@ -374,3 +372,7 @@ cloudhost.id^,AVAILABILITY,origin.list,2023-04-27 05:29:58.028435
 analytics.s.id,AVAILABILITY,origin.list,2023-04-27 05:29:58.092014
 104.245.35.100,AVAILABILITY,origin.list,2023-04-27 05:30:04.987641
 216.98.10.17,AVAILABILITY,origin.list,2023-04-27 05:30:08.248493
+ninna.id^,AVAILABILITY,origin.list,2023-04-28 05:26:19.340019
+pratiwanggini.net^,AVAILABILITY,origin.list,2023-04-28 05:26:23.829277
+itbox.id^,AVAILABILITY,origin.list,2023-04-28 05:27:05.791075
+mobnasesemka.com^,AVAILABILITY,origin.list,2023-04-28 05:27:05.916268
