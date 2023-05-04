@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-alexanews.id^,AVAILABILITY,origin.list,2023-05-03 05:24:31.483315
-dutatv.com^,AVAILABILITY,origin.list,2023-05-03 05:24:51.584157
-harakatuna.com^,AVAILABILITY,origin.list,2023-05-03 05:25:05.261826
-herald.id^,AVAILABILITY,origin.list,2023-05-03 05:25:06.309885
-infoekonomi.id^,AVAILABILITY,origin.list,2023-05-03 05:25:10.383851
-jabarnews.com^,AVAILABILITY,origin.list,2023-05-03 05:25:11.729838
 lingkarjambi.id^,AVAILABILITY,origin.list,2023-05-03 05:25:37.975638
 ngodingdata.com^,AVAILABILITY,origin.list,2023-05-03 05:25:49.731686
 nuansarealitanews.com^,AVAILABILITY,origin.list,2023-05-03 05:25:50.292077
@@ -391,3 +385,11 @@ adanu.co.id^,AVAILABILITY,origin.list,2023-05-03 05:30:09.176195
 173.214.184.160,AVAILABILITY,origin.list,2023-05-03 05:30:15.711593
 216.98.10.17,AVAILABILITY,origin.list,2023-05-03 05:30:28.143128
 104.245.35.100,AVAILABILITY,origin.list,2023-05-03 05:30:28.693429
+cinemags.co.id^,AVAILABILITY,origin.list,2023-05-04 05:26:31.258755
+lamanqu.id^,AVAILABILITY,origin.list,2023-05-04 05:27:28.370822
+alexanews.id^,AVAILABILITY,origin.list,2023-05-04 05:28:40.176876
+harakatuna.com^,AVAILABILITY,origin.list,2023-05-04 05:28:40.269199
+dutatv.com^,AVAILABILITY,origin.list,2023-05-04 05:28:40.270738
+herald.id^,AVAILABILITY,origin.list,2023-05-04 05:28:40.394350
+infoekonomi.id^,AVAILABILITY,origin.list,2023-05-04 05:28:40.580032
+jabarnews.com^,AVAILABILITY,origin.list,2023-05-04 05:28:40.703486
