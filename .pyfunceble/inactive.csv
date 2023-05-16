@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-lines.id^,AVAILABILITY,origin.list,2023-05-14 05:25:05.278785
-inimedan.com^,AVAILABILITY,origin.list,2023-05-15 05:25:08.299256
-kongkrit.com^,AVAILABILITY,origin.list,2023-05-15 05:25:23.758411
-malukuterkini.com^,AVAILABILITY,origin.list,2023-05-15 05:25:43.238013
 waspada.id^,AVAILABILITY,origin.list,2023-05-15 05:26:40.748226
 batamline.com^,AVAILABILITY,origin.list,2023-05-15 05:26:59.818742
 beritacikarang.com^,AVAILABILITY,origin.list,2023-05-15 05:26:59.988725
@@ -444,3 +440,16 @@ lintascelebes.com^,AVAILABILITY,origin.list,2023-05-15 05:29:35.363473
 104.245.34.90,AVAILABILITY,origin.list,2023-05-15 05:30:35.510751
 216.98.10.17,AVAILABILITY,origin.list,2023-05-15 05:30:42.177255
 104.245.35.100,AVAILABILITY,origin.list,2023-05-15 05:30:49.090010
+apakabaronline.com^,AVAILABILITY,origin.list,2023-05-16 05:26:53.178623
+forumterkininews.id^,AVAILABILITY,origin.list,2023-05-16 05:27:24.337485
+jogjatravelnews.com^,AVAILABILITY,origin.list,2023-05-16 05:27:45.615447
+mettanews.id^,AVAILABILITY,origin.list,2023-05-16 05:28:19.131233
+metrotimes.news^,AVAILABILITY,origin.list,2023-05-16 05:28:19.027252
+ojenews.com^,AVAILABILITY,origin.list,2023-05-16 05:28:23.266606
+pasjabar.com^,AVAILABILITY,origin.list,2023-05-16 05:28:24.154027
+seputartuban.com^,AVAILABILITY,origin.list,2023-05-16 05:28:40.385145
+siberkota.com^,AVAILABILITY,origin.list,2023-05-16 05:28:41.326852
+lines.id^,AVAILABILITY,origin.list,2023-05-16 05:29:19.431155
+inimedan.com^,AVAILABILITY,origin.list,2023-05-16 05:29:19.472669
+kongkrit.com^,AVAILABILITY,origin.list,2023-05-16 05:29:19.507911
+malukuterkini.com^,AVAILABILITY,origin.list,2023-05-16 05:29:19.808727
