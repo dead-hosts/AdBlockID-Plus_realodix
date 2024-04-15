@@ -21,7 +21,7 @@
     "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
     "platform_optout": false,
     "platform_remote_source_id": null,
-    "raw_link": "https://cdn.jsdelivr.net/gh/realodix/AdBlockID@master/dist/adblockid.adfl.txt",
+    "raw_link": "https://cdn.jsdelivr.net/gh/realodix/AdBlockID@master/tests/test_modules.txt",
     "repo": "dead-hosts/AdBlockID-Plus_realodix",
     "start_datetime": "2020-12-28T17:29:38.319843",
     "start_timestamp": 1609176578.319843
